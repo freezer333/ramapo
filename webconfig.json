@@ -1,0 +1,17 @@
+{
+  "sftp-deploy": {
+    "build" : {
+      "auth": {
+        "host": "pages.ramapo.edu",
+        "port": 22,
+        "authKey": "key1"
+      },
+      "cache": "sftpCache.json",
+      "src": "site",
+      "dest": "public_html",
+      "serverSep": "/",
+      "concurrency": 4,
+      "progress": true
+    }
+  }
+}
