@@ -1,7 +1,0 @@
-{
-	"dependencies" : {
-		"connect" : "*", 
-		"morgan" : "*",
-		"serve-static" : "*"
-	}
-}
