@@ -59,7 +59,7 @@ The entire course has been broken into 30 individual modules.  Each module is po
 ### Week 1 - 12/23 - 12/26
 | Module  | Topic | Lecture Slides|  Recorded Video
 |--|:--|:--|:--|:--
-| 0 | Course Policies | [Slides]() | [Video]()
+| 0 | Course Policies | [Slides](https://docs.google.com/presentation/d/1Sggyft8QRdvOnpAxCT9wuvFkTrjg7AQaOKHEt50u4AQ/pub?start=false&loop=false&delayms=3000) |
 | 1 | Fundamentals of Computing | [Slides](https://docs.google.com/presentation/d/11QGJH0p3mvy7uSppzoAyRbQePkvz03sL8LJuFIUjykA/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/brLBuCwRcWc)
 | 2 | Programming Abstractions | [Slides](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video 1](http://youtu.be/XudnG5UWDM4) - [Video 2](http://youtu.be/kGtix9-Pr0o)
 | 3 | Syntax, Literals, Operators | [Slides](https://docs.google.com/presentation/d/1Czj8UntL0MBlzYiomOdn9I_lhG3m2ismnMtcTzM4Yvw/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/9TOcrOcc8BE)
@@ -70,7 +70,7 @@ The entire course has been broken into 30 individual modules.  Each module is po
 | 8 | Problem Solving with Functions | [Slides](https://docs.google.com/presentation/d/1qMVAFY4SKhYF1RuS55rhVTV8DO1c58QCkGiRUWtUVUk/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/1CEIwo8eMsU)|
 | 9 | Output Formatting | [Slides](https://docs.google.com/presentation/d/1OSsv_Np5BbXmjSTpDw0xYRypeUC6lDB6b_zyjcyLvfY/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/P5MMuS3Sry4) |
 
-### Week 2 -  12/27 - 1/2
+### Week 2 -  12/27 - 1/3
 | Module  | Topic | Lecture Slides|  Recorded Video
 |:--|:--|:--|:--
 | 10 | Boolean Data and Relational Operators | [Slides](https://docs.google.com/presentation/d/1P2xeMbC0ymAoOGY91VbRnup2dd06wB8q8uAN_i31XYw/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/ECeK3pLplgg)
@@ -83,7 +83,7 @@ The entire course has been broken into 30 individual modules.  Each module is po
 | 17 | Do-while Loops | [Slides](https://docs.google.com/presentation/d/1r5dXEtPH_P6rzGMj22y-eYSLYzlFzbW5D4amzGNPM0o/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/4VMQOH_F9Yk)
 | 18 | for loops | [Slides](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/U3S2JntuwQA)
 
-### Week 3   1/3 - 1/10
+### Week 3   1/4 - 1/10
 | Module  | Topic | Lecture Slides|  Recorded Video
 |:--|:--|:--|:--
 | 19 | Introduction to functions | [Slides](https://docs.google.com/presentation/d/10JM5mVOvcGEjWy2Nhs9yUHro8cBkzws2anCc397tQ-Y/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/PqFi-oiFq5w)
