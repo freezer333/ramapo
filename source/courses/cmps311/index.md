@@ -1,18 +1,18 @@
-# CMPS 311 - Operating Systems - Fall 2015
-**Meeting Time:  **&nbsp;&nbsp;Mondays, Wednesday, and Thursdays, 10:00am - 11:10am
+# CMPS 311 - Operating Systems - Spring 2016
+**Meeting Time:  **&nbsp;&nbsp;Mondays, Wednesday, and Thursdays, 9:30am - 10:40am
 **Location:  **&nbsp;&nbsp;ASB Room 429
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 ** Contact Information**
 Office&nbsp;&nbsp;G315
 Phone&nbsp;&nbsp;(201) 684-7726
 Email&nbsp;&nbsp;[sfrees@ramapo.edu](mailto:sfrees@ramapo.edu)
-Office Hours &nbsp;&nbsp;Monday 12:45-1:45pm and Thursday 4-5pm
+Office Hours &nbsp;&nbsp;Wednesdays 11am-12pm and Thursday 4-5pm
 
 ## Course Description
 A study of the design, use, and analysis of operating systems. The course will include a study of the supportive computer architecture, memory management, process management, information management, device control, operating systems structure, and evaluation.  
 
 ## Pre-Requisites
-CMPS 231 Data Structures, CMPS 220 Assembly Language Programming, and MATH 237 Discrete Structures, CRWT 102 Crit. Reading & Writing 2 
+CMPS 231 Data Structures, CMPS 220 Assembly Language Programming, and MATH 237 Discrete Structures, CRWT 102 Crit. Reading & Writing 2
 
 ## Course Materials
 **Textbook** &nbsp;&nbsp; [Modern Operating Systems (4th Edition)](http://www.amazon.com/Modern-Operating-Systems-4th-Edition/dp/013359162X) by Andrew S. Tanenbaum, Herbert Bos. *Note, the textbook is required for this course, and will be relavent to nearly each lecture.*
@@ -35,7 +35,7 @@ If you are using Windows, you can install Linux alongside Windows without too mu
 * Understand and Program with File Systems and understand their implementation
 * Understand Security issues involved with an OS
 * Understand and evaluate different problems associated with Distributed Systems and Networking
-* Understand modern OS directions and trends 
+* Understand modern OS directions and trends
 
 <hr class="print-page"/>
 ## Lecture Schedule
@@ -44,27 +44,10 @@ Below is a tentative schedule for the course.  All topics and due dates are subj
 **You must keep up with the readings** associated with each lecture.  
 
 <div style="margin:0px;padding:0px;overflow:hidden">
-    <iframe src="https://docs.google.com/spreadsheets/d/1n673IdE-cTdBn2LY7U1pSpp7N9ARZr4YMpHIrt-LiHg/pubhtml?widget=true&amp;headers=false" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:1200px;width:100%;" height="100%" width="100%"></iframe>
+    <iframe src="https://docs.google.com/spreadsheets/d/1E3dVWQWvhCqO8cxe0JM-qzVtL3bfVrZvZA5SI7S_SPs/pubhtml?gid=0&single=true" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:1200px;width:100%;" height="100%" width="100%"></iframe>
 </div>
 <hr class="print-page"/>
 <a name="modules"></a>
-## Modules
-Note, many of these modules will span multiple lectures, be sure to cross-reference the lecture schedule above with the module listing below.
-
-<p><a href="slides_pdf">Slides in PDF form (for printing)</a></p>
-
-| Module #  | Module Topic | Slides |
-|---------- |--------------|--------|
-|01         |Course Introduction        | [Link](https://docs.google.com/presentation/d/1QSZpeD6KcWUslkiF0HrFcPhyXscZo75ajmWgBbC92dM/pub?start=false&loop=false&delayms=3000)|
-|02         | Operating Systems Overview | [Link](https://docs.google.com/presentation/d/1n9vDtKH65_OFFjuvN0L3WjsG0Et99RLY_LoMjpwitB4/pub?start=false&loop=false&delayms=3000) |
-|03         | System Calls | [Link](https://docs.google.com/presentation/d/1ILmDNUEbmUw4O4OMzxWuzosB4a_XGLNVxhVhLS-SWvA/pub?start=false&loop=false&delayms=3000) |
-|04         | Operating System Structure | [Link](https://docs.google.com/presentation/d/1IHDZ8oJF35MPYsNDSTaINQItK7P9BVJ731c_UznQpTg/pub?start=false&loop=false&delayms=3000) |
-|05         | C Programming and the POSIX Environment | [Link](https://docs.google.com/presentation/d/1HJKNR4LpQX4qI3ol6LVbSYhBlqyIOfSLoNiX7N_1a_A/pub?start=false&loop=false&delayms=3000) |
-|06         | Processes | [Link](https://docs.google.com/presentation/d/1xr0XDiaK4cwbkcT8btHJO8itA-ndVMiGrg81iUeAWQk/pub?start=false&loop=false&delayms=3000) |
-|07         | Threads | [Link](https://docs.google.com/presentation/d/1srgvI6jqfvfsOmK2aUnGwfNdv8K2NtgzZm-i_Mxce-o/pub?start=false&loop=false&delayms=3000) |
-|08         | IPC and Synchronization | [Link](https://docs.google.com/presentation/d/1ZgoQ0JbQ1sDidKfIE_l9KNxg2ASCn_VsWlP6sQ5caiw/pub?start=false&loop=false&delayms=3000) |
-|09         | Scheduling | [Link](https://docs.google.com/presentation/d/1RXM58-7qYmk0pc4CAou4bXfso7rvQDspKcnpgbyysN0/pub?start=false&loop=false&delayms=3000) |
-|10         | Address Spaces | [Link](https://docs.google.com/presentation/d/1H2_cAFaKeOsqrthOOfoBW1AJdjSJMv0t2b6j4iMjsVw/pub?start=false&loop=false&delayms=3000) |
 
 ## Code Examples
 
@@ -72,15 +55,15 @@ Click [here](code/) for source code discussed in lectures throughout the semeste
 
 
 ## Homework Assignments
-Homework assignments are worth 100 points, and are turned in electronically.  
+Homework assignments are worth 100 points, and are turned in electronically, on Moodle.
 
-* [Homework 1](hw/hw1)  - Due on 9/14/15
-* [Homework 2](hw/hw2)  - Due on 9/17/15
-* [Homework 3](hw/hw3)  - Due on 9/24/15
-* [Homework 4](hw/hw4)  - Due on 9/30/15
-* [Homework 5](hw/hw5)  - Due on 10/15/15
-* [Homework 6](hw/hw6)  - Due on 11/9/15
-* [Homework 7](hw/hw7)  - Due on 11/23/15
+* [Homework 1](hw/hw1)  - Due on 1/28/16
+* [Homework 2](hw/hw2)  - Due on 2/3/16
+* [Homework 3](hw/hw3)  - Due on 2/8/16
+* [Homework 4](hw/hw4)  - Due on 2/17/16
+* [Homework 5](hw/hw5)  - Due on 3/2/16
+* [Homework 6](hw/hw6)  - Due on 3/31/16
+* [Homework 7](hw/hw7)  - Due on 4/27/15
 
 <hr class="print-page"/>
 
@@ -97,8 +80,8 @@ You will write a written report on the history, evolution, and design of ONE of 
 
 The paper will technical aspects of the platforms, but largely focus on the its history and development.  While technical details are must (for example, what type of filesystem does the OS use?), your efforts on this report should be directed on clearly articulating where the operating system came from (did it evolve from something else?), how it became what it is today (were there any releases that were failures, spectacular successes?), and where it is headed (is it on its way out, or is it primed to take over the world?).
 
-* A first draft is due on 10/30/2015.  This draft is expected to be a complete paper, and you will be graded on its quality.  I will offer advice for revisions.
-* Your final draft is due the last day of the Fall 2015 semester (before finals).  Your grade is based on the quality of your writing, the depth in which you covered the subject, and how you responded to revision requests from your first draft. 
+* A first draft is due on 3/30/2016.  This draft is expected to be a complete paper, and you will be graded on its quality.  I will offer advice for revisions.
+* Your final draft is due the last day of the Fall 2015 semester (before finals).  Your grade is based on the quality of your writing, the depth in which you covered the subject, and how you responded to revision requests from your first draft.
 
 
 
@@ -126,4 +109,3 @@ Students are expected to read and understand Ramapo College’s Academic Integri
 For programming assignments (Homework Assignments), you may discuss ideas, however you may not allow others to see your source code or examine others’.  Sharing of source code is extremely easy to detect and is strictly prohibited.  
 
 IF SHARING OF SOURCE CODE IS SUSPECTED, INTENTIONAL OR OTHERWISE, BOTH PARTIES WILL IMMEDIATELY BE REFERRED TO THE OFFICE OF THE PROVOST.
-
