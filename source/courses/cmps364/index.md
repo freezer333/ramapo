@@ -1,11 +1,8 @@
-# CMPS 364 Spring 2015
-
+# CMPS 364 Spring 2016
 ## Database Design
 
-**Meeting Time:  **&nbsp;&nbsp;Thursdays, 6pm-9:15pm
-
-**Location:  **&nbsp;&nbsp;ASB Room 426
-
+**Meeting Time:  **&nbsp;&nbsp;Thursdays, 6pm-9:30pm
+**Location:  **&nbsp;&nbsp;ASB Room 429
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 
 ** Contact Information**
@@ -16,15 +13,17 @@ Email&nbsp;&nbsp;[sfrees@ramapo.edu](mailto:sfrees@ramapo.edu)
 ## Course Description
 This course provides in-depth treatment of relational database design, the Structured Query Language (SQL), along with non-traditional databases such as key and document stores.
 The first portion of the semester is dedicated to relational schema design, emphasizing normalization, ER and UML modeling, and aspects of the SQL DDL for creating constraints and relationships between data models.
-The second segment of the semester is focused on SQL and query design. We will use the H2 database through the Java programming language, utilizing JDBC.
-The third portion of the class is dedicated to a variety of different technologies related to data representation, storage, and retieval. This includes XML/XSLT, JSON and MongoDB, and the Redis key-store database.
-While the course will include discussions on database security, data protection, and administration, the primary focus of the course is software development using databases.
-## Pre-Requisites
 
+The second segment of the semester is focused on SQL and query design. We will use the H2 database through the Java programming language, utilizing JDBC.
+
+The third portion of the class is dedicated to a variety of different technologies related to data representation, storage, and retieval. This includes XML/XSLT, JSON and MongoDB, and the Redis key-store database.
+
+While the course will include discussions on database security, data protection, and administration, the primary focus of the course is software development using databases.
+
+## Pre-Requisites
 CMPS 231 Data Structures
 
 ## Course Materials
-
 **Textbook** &nbsp;&nbsp; [Database Systems - The Complete Book - 2nd Edition](http://www.amazon.com/Database-Systems-Complete-Book-Edition/dp/0131873253) by Garcia-Molina, Ullman, Widom
 
 <img src='http://ecx.images-amazon.com/images/I/51JtltOJPVL.jpg' width="200"/>
@@ -54,34 +53,18 @@ Below is a tentative schedule for the course.  All topics and due dates are subj
 
 **You must keep up with the readings** associated with each lecture.  
 
-| Date | Lecture Topic | Slides | Reading |
-|------:|---------------|-------------|----|--|
-| 1/22/2015	| Lecture 1 | [Course Introduction](http://tinyurl.com/mq67r9j)<br>[Database Overview](http://tinyurl.com/ll5bn8r) | Chapter 1 |
-| 1/29/2015	| Lecture 2 | [Relations and Schemas](http://tinyurl.com/n2mxjwz) | Chapter 2.1-2.5|
-| 2/5/2015	| Lecture 3 | [Introduction to SQL and H2](http://tinyurl.com/l4nmcpy) |  |
-| 2/12/2015	| Lecture 4 | [Functional Dependencies, BCNF, 4th Normal Form](http://tinyurl.com/lnl4ml4) |  Chapter 3|
-| 2/19/2015	|  | Exam 1 | Chapters 1-3
-| 2/26/2015	| - | No Class  | - |
-| 3/5/2015	| - | Class Cancelled due to weather  | - |
-| 3/12/2015	| Lecture 5 | [UML and ER Diagrams](https://docs.google.com/presentation/d/1DP8JnWb7iL7tJxiqEku6HedWdgKDtPz5ZDLoBetJk3U/pub?start=false&loop=false&delayms=3000&slide=id.g262409d0f_025) / [Query Logic and SQL](https://docs.google.com/presentation/d/1b7hu1Dnnrv5XBkJCm2L5MmkQyZ05H19p9V_s1xDWdhI/pub?start=false&loop=false&delayms=3000) | Chapter 4.1-4.8, Chapter 5.1-5.2|
-| 3/19/2015	|  | Spring Break | |
-| 3/26/2015	| Lecture 6 | [Query Logic and SQL](https://docs.google.com/presentation/d/1b7hu1Dnnrv5XBkJCm2L5MmkQyZ05H19p9V_s1xDWdhI/pub?start=false&loop=false&delayms=3000) | Chapter 5.1-5.2 and 6|
-|  4/2/2015	| Lecture 7| [SQL - continued](https://docs.google.com/presentation/d/1b7hu1Dnnrv5XBkJCm2L5MmkQyZ05H19p9V_s1xDWdhI/pub?start=false&loop=false&delayms=3000&slide=id.g2628f3916_111) and [Java and JDBC Programming](https://docs.google.com/presentation/d/1JWVBILNsJMk07-uaBKJr3fOY-r5a7Ab0lgxfW-vf1sc/pub?start=false&loop=false&delayms=3000) | Chapter 6 and [Java Tutorial](http://docs.oracle.com/javase/tutorial/java/)|
-| 4/9/2015	| Lecture 8 |[Java and JDBC Programming](https://docs.google.com/presentation/d/1JWVBILNsJMk07-uaBKJr3fOY-r5a7Ab0lgxfW-vf1sc/pub?start=false&loop=false&delayms=3000) and Exam 2 |[Java Tutorial](http://docs.oracle.com/javase/tutorial/java/)|
-| 4/16/2015	| Lecture 9-10 | [Constraints, Assertions, and Triggers](https://docs.google.com/presentation/d/1J7tPs-Cw1mEInE4IzwQsbO4oFD9D-763QgenB4qw5X4/pub?start=false&loop=false&delayms=3000), [Views and Indexes](https://docs.google.com/presentation/d/1JFWHtyh0-7FtfMohYpBp4bFhmWzu8T-MDzJ50ZeMOS4/pub?start=false&loop=false&delayms=3000) | Chapter 7, 8, and 14
-| 4/23/2015	| Lecture 11 | [XML and Xpath](https://docs.google.com/presentation/d/1O8gvKb77FkL7Rtl8yKeDgMQM9Q7OlWuq_uDLon556cw/pub?start=false&loop=false&delayms=3000) | Chapter 11-12|
-| 4/30/2015	| Lecture 12 | [Alternative Database Technologies](https://docs.google.com/presentation/d/1GHgI9iAZvfsNobjx4VaEMwU8bgRgSd8h6kKG3drViEA/pub?start=false&loop=false&delayms=3000) | |
-
-** Final Exam is scheduled for Thursday, May 7 from 6:30 p.m. to 9:30 p.m **
+<div style="margin:0px;padding:0px;overflow:hidden">
+    <iframe src="https://docs.google.com/spreadsheets/d/1INFMKQnf2_poA-_NuaxRwn8WM-_seUl1HjlC25SlXn8/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:600px;width:100%;" height="100%" width="100%"></iframe>
+</div>
 
 ## Homework Assignments
 Homework assignments are worth between 50 and 100 points, and are turned in electronically as well.  
 
-* [Homework 1](hw/hw1.html)  - Due on 2/5/15
-* [Homework 2](hw/hw2.html)  - Due on 2/16/15
-* [Homework 3](hw/hw3.html)  - Due on 3/26/15
-* [Homework 4](hw/hw4.html)  - Due on 4/9/15
-* [Homework 5](hw/hw5.pdf)  - Due on 4/30/15
+* [Homework 1](hw/hw1.html)  - Due on 2/11/16
+* [Homework 2](hw/hw2.html)  - Due on 2/18/16
+* [Homework 3](hw/hw3.html)  - Due on 3/3/16
+* [Homework 4](hw/hw4.html)  - Due on 3/24/16
+* [Homework 5](hw/hw5.pdf)  - Due on 4/28/16
 
 ## Late Policy
 All assignments will be turned in electronically.  A late penalty of 5 points per day will be applied to all late assignments.  The required format/method of your electronic submissions will be outlined for each assignment.  Deviation from these requirements may result in a 5-point penalty.  

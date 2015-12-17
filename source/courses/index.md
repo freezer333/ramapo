@@ -31,7 +31,8 @@ A study of the design, use, and analysis of operating systems. The course will i
 
 *I teach this each spring semester, and often in the fall as well*
 
-## CMPS 342 - Computer Graphics
+## [CMPS 342 - Computer Graphics](cmps342)
+An introduction to computer graphics.  The course will include relevant coordinate geometry, graphic devices, primitive graphics operations, polygons, transformations, windows, clipping, and three-dimensional graphics.  The course teaches the fundamental techniques and skills of Computer Graphics utilizing WebGL - which is a modern graphics library built on OpenGL ES 2.0 and supported on nearly all modern computing devices, including mobile devices.  In addition to pure 3D computer graphics, students will also learn how to utilize the web - using HTML and JavaScript to deliver their 3D visualizations
 
 *I teach this each every three semesters (typically) - this course will next be offered Spring 2016*
 
