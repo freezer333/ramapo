@@ -1,12 +1,9 @@
-# HNRS 420 Spring 2015
-
+# HNRS 420 Spring 2016
 ## Computation and Society
 
-**Meeting Time:  **&nbsp;&nbsp;Mondays, 2:00pm - 5:15pm
-
-**Location:  **&nbsp;&nbsp;A Building, Room 108
-
-**Professor:**&nbsp;&nbsp;Scott Frees, Associate Professor of Computer Science
+**Meeting Time:  **&nbsp;&nbsp;Mondays and Thursdays, 2:00-3:40pm
+**Location:  **&nbsp;&nbsp;A Building, Room 218
+**Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 
 ** Contact Information**<br/>
 Office&nbsp;&nbsp;G315<br/>
@@ -32,14 +29,12 @@ There are two books the class is **required to read**, which will be discussed i
 I am not rigidly structuring your progress through the two text’s (“The Innovators” and “Who Owns the Future”) – you may read roughly at your own pace.  However – here are my guidelines:
 
 
-| The Innovators   | Who Owns the Future?    | 
+| The Innovators   | Who Owns the Future?    |
 |:------|:--------|
 | Read Chapters 1-5 by 3/2|Read Parts 1-3 by 3/2 |
 | Read Chapters 6-9 by 4/6|Read Parts 1-3 by 3/2 |
 | Complete the book by 4/27|Complete book by 3/27 |
 
-
-Alternatively – if you prefer to read only one book at a time, please complete the Innovators by 3/16, and make sure you’ve completed the Who Owns the Future book before 4/27
 
 
 ## Course Topics
@@ -56,7 +51,7 @@ them by clicking on the topic below.
 | 1|  2/9/15 	| [A brief history of computing, and why need to care...](lect01.html) |
 | 2|  2/16/15 	| [The nature of programming, and of programmers](lect02.html) |
 | 3|  2/23/15 	| [The open source culture](lect03.html) |
-| 4|  3/2/15	| [Security and Encryption, and why you shouldn't completely trust it.](lect04.html) | 
+| 4|  3/2/15	| [Security and Encryption, and why you shouldn't completely trust it.](lect04.html) |
 | 5|  3/9/15 	| [Buying and sharing your identity](lect05.html) |  
 | |  3/16/15 	| Spring Break - No Classes Held |
 | 6|  3/23/15 	| [The NSA, spying and networks and technology of anonymity](lect07.html) |  
