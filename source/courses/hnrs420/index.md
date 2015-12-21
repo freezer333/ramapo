@@ -84,17 +84,16 @@ Students will be grouped (by the instructor) into teams of 3 for two presentatio
 [Presentation Teams](presentations.html)
 
 #### Presentation 1 - Security Disasters (3/9/15)
-The first presentation will be on a specific instance where security issues have had a significant effect on the public.   This can be related to identity/financial fraud, privacy infrigement (by hackers, companies, or the government), and infrastructure (cyberterrorism, bugs).  
+The first presentation will be on a specific instance where security issues have had a significant effect on the public.   This can be related to identity/financial fraud, privacy infringement (by hackers, companies, or the government), and infrastructure (cyberterrorism, bugs).  
 
 
 #### Presentation 2 - Emerging Technologies (4/20/15)
 The second presentation is focused on an emerging technology.  Here are the potential topics:
 
 * Quantum Computing - what does this mean for computing power?
-* Virtual Reality - is the Oculus Rift just the beginning?
 * Autonomous Vehicles - From drones to self-driving cars - what will we be using in 5 years?
 * 3D Printing - where is this going?
-* High Frequence Trading - what is it, how is it effecting our economy, and what is its future?
+* High Frequency Trading - what is it, how is it effecting our economy, and what is its future?
 
 ### Debates
 The second part of eight of the lectures include a semi-structured debate.  Students will be paired, and two teams (4 total students) will be expected to frame a debate surrounding the topic assigned.  
@@ -115,7 +114,7 @@ You must select an industry profoundly changed by the automation and democratiza
 
 ### Learning to code
 The focus of this course is not to make you an expert in program, by any stretch.  However, there is a lot
-to be learned by walking a mile in the shoes of a programmer.  The CEC component of this course will be the completion
+to be learned by walking a mile in the shoes of a programmer.  A valuable component of this course will be the completion
 of a beginners tutorial in Python programming.  Python is a very beginner-friendly language, but is used extensively
 in both small and huge programming projects alike.
 
@@ -133,4 +132,4 @@ Please see the [programing schedule](programming.html) for due dates for each le
 |20%|Your effectiveness during debates (while leading the debate)
 |20%|Your presentations
 |20%|Your essays
-|10%|Your coding assignment (codeacademy python).  This is the CEC
+|10%|Your coding assignment (codeacademy python).
