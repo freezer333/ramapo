@@ -12,18 +12,8 @@ Ramapo College of New Jersey
 505 Ramapo Valley Road
 Mahwah, NJ 07430
 
-## Fall 2015 Course Schedule
-|Course|Room|Time|
-|:--|:--|:--|
-|CMPS 147 - [Introduction to Computer Science 1](courses/cmps147/Fall_Th/)| ASB 429| Thursdays, 6:00pm-9:30pm - Hybrid |
-|CMPS 147 - [Introduction to Computer Science 1](courses/cmps147/Fall_MWTh/)| ASB 429  | M-W-Th, 8:30am-9:40am - Hybrid |
-|CMPS 311 - [Operating Systems](courses/cmps311/)|  ASB 429 | M-W-Th,  10:00am-11:10am |
-|CMPS 369 - [Web Application Development](courses/cmps369/)|  ASB 429 | M-W-Th,  10:30am-12:40am |
-
-** Fall 2015 Office Hours**:  Monday 12:45-1:45pm and Thursday 4-5pm, or by appointment
-
 ## Winter 2016 Course Schedule
-**Winter session courses are 100% online.**  Consult the college's [academic calender](http://www.ramapo.edu/academic-calendars/) for semester start/end dates
+**Winter session courses are 100% online.**  Consult the college's [academic calendar](http://www.ramapo.edu/academic-calendars/) for semester start/end dates
 
 |Course|
 |:--|
