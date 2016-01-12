@@ -61,7 +61,10 @@ In addition to the textbook, there are many tutorials online that cover WebGL.  
 
 ## Homework Assignments
 
-TBA
+| | Due Date |
+|:-------|----:
+|[Homework 1](https://docs.google.com/document/d/1IN_zkci_zxvTCInrhjibHlVfU3cUKFqZqmzBU6Yx1-Q/pub)|3/10/2016
+|[Homework 2](https://docs.google.com/document/d/134FypLTYMpc7dxWK_HEmCZAAx3QT4qSALDe-vWBEdGU/pub)|4/7/2016
 
 
 ## Late Policy

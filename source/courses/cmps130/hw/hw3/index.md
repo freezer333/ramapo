@@ -87,13 +87,13 @@ def get_all_by_month(self, month):
 ```
 
 ## Part 4 (10 points)
-Add a new method, called `find_droughts` to your class.  For the purposes of this assignment, a "drought" is any time there are **three** consecutive months where the monthly rainfalls are at least 5% less than the monthly average.  Return a list of strings that represent each drought as a month/year.  For example, if (and I'm not actually looking at the data while I type this!) September, October, November, December, and January are had 5% less rainfall in each month than their monthly average in 1978-1979, return a list with (at least) a string looking like 9/1978 - 1/1979.  Your returned list should actually have all the droughts though...
+Add a new method, called `find_droughts` to your class.  For the purposes of this assignment, a "drought" is any time there are **three** consecutive months where the monthly rainfalls are at least 5% less than the monthly median value.  Return a list of strings that represent each drought as a month/year.  For example, if (and I'm not actually looking at the data while I type this!) September, October, November, December, and January are had 5% less rainfall in each month than their monthly median value in 1978-1979, return a list with (at least) a string looking like 9/1978 - 1/1979.  Your returned list should actually have all the droughts though...
 
 ```python
 def get_droughts(self) :
     """ returns a list of strings, representing date (month/year) ranges
         where three or more months in a row had at least 5% less rainfall than
-        their historical monthly averages
+        their historical monthly medians
     """
 ```
 
