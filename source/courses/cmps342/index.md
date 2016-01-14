@@ -59,13 +59,16 @@ In addition to the textbook, there are many tutorials online that cover WebGL.  
 * [WebGL Fundamentals](http://webglfundamentals.org/)
 * [THREE.js - JavaScript Scene Graph build with WebGL](http://threejs.org/)
 
-## Homework Assignments
+## Homework / Lab Assignments
 
 | | Due Date |
 |:-------|----:
+|[Lab 1](https://docs.google.com/document/d/1wBaFr26hW0FolZfS-6EWQqFVlgY--VHM7FGQvI7vrHc/pub)|3/3/2016
+|[Lab 2](https://docs.google.com/document/d/118jAviNeoRj4zoop9CINVJ6dv_OjgXVCC7ggoR_aqs4/pub)|3/31/2016
 |[Homework 1](https://docs.google.com/document/d/1IN_zkci_zxvTCInrhjibHlVfU3cUKFqZqmzBU6Yx1-Q/pub)|3/10/2016
 |[Homework 2](https://docs.google.com/document/d/134FypLTYMpc7dxWK_HEmCZAAx3QT4qSALDe-vWBEdGU/pub)|4/7/2016
 
+Labs and Homeworks are worth the same amount of points.  The difference is that we will start labs in class, and you'll be able to work in pairs.  Labs turned in during the class time are able to earn 100%, labs turned in by the beginning of the next lecture are only eligible for a 90%.  Due dates listed above are subject to change, and indicate the date of the *following* lecture.
 
 ## Late Policy
 All assignments will be turned in electronically.  A late penalty of 5 points per day will be applied to all late assignments.  The required format/method of your electronic submissions will be outlined for each assignment.  Deviation from these requirements may result in a 5-point penalty.  
@@ -77,7 +80,7 @@ Attendance will be recorded by the instructor and, along with class participatio
 
 | % | Activity | Frequency/Description
 |------------------:|:---------------|-------
-|25%|Homework | # of assignments TBA
+|25%|Labs and Homework | Each lab/homework will be weighted equally
 |40%|Exams | 2 exams during the semester
 |35%|Final Exam | Comprehensive
 
