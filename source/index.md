@@ -12,16 +12,15 @@ Ramapo College of New Jersey
 505 Ramapo Valley Road
 Mahwah, NJ 07430
 
-## Winter 2016 Course Schedule
-**Winter session courses are 100% online.**  Consult the college's [academic calendar](http://www.ramapo.edu/academic-calendars/) for semester start/end dates
+# Spring 2016 Course Schedule
+|Course|Day|Time|Room|
+|:--|---|---|----|
+|CMPS 311 - [Operating Systems](courses/cmps311)|M-W-Th|9:30-10:40am|ASB 429|
+|CMPS 342 - [Computer Graphics](courses/cmps342)|M-Th|11:00am-12:40pm|ASB 429|
+|CMPS 342 - [Database Systems](courses/cmps364)|Th|6:00pm-9:30pm|ASB 429|
+|HNRS 420 - [Computation and Society](courses/hnrs420)|M-Th|2:00pm-3:40pm|A 218|
 
-|Course|
-|:--|
-|CMPS 130 - [Scientific Programming with Python](courses/cmps130/Winter/)|
-|CMPS 147 - [Introduction to Computer Science 1](courses/cmps147/Winter/)|
-
-** Winter 2016 Office Hours**:  By appointment only
-
+** Spring 2016 Office Hours (starting 1/27/16)**:  Wednesdays 11am-12pm, Thursdays 4pm-5pm, or by appointment
 
 [See all the courses I teach on a regular basis](courses/)
 
