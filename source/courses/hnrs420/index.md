@@ -58,7 +58,7 @@ Students will be grouped (by the instructor) into teams of 3 for three presentat
 
 While the general themes of the presentations are set, the specific topic is up to the team to decide, and to have approved by me.  **Each team must have their topic approved no less than one week ahead of the presentation date**.
 
-[Presentation Teams Assignments](https://docs.google.com/document/d/1bfW3tXQjVz4ridb6ssa1hxnl52A1BBb8vj9yRA2u8sI/pub)
+[Presentation Teams Assignments](presentations.html)
 
 #### Presentation 1 - Security Disasters (2/22)
 The first presentation will be on a specific instance where security issues have had a significant effect on the public.   This can be related to identity/financial fraud, privacy infringement (by hackers, companies, or the government), and infrastructure (cyber-terrorism, bugs).  

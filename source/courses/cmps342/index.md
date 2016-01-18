@@ -74,7 +74,7 @@ Labs and Homeworks are worth the same amount of points.  The difference is that 
 All assignments will be turned in electronically.  A late penalty of 5 points per day will be applied to all late assignments.  The required format/method of your electronic submissions will be outlined for each assignment.  Deviation from these requirements may result in a 5-point penalty.  
 
 ## Attendance Policy
-Attendance will be recorded by the instructor and, along with class participation, will be a determining factor in making border-line final grade decisions
+Attendance will be recorded by the instructor and, along with class participation, will be a determining factor in making border-line final grade decisions.  **More than 5 documented absences (more than 5 minutes late) will result in a deduction of 1 full letter grade.  I will being this policy starting Monday, 1/25**.
 
 ## Grading
 

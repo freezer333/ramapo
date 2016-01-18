@@ -1,4 +1,4 @@
-# HNRS 420 - Lecture 9 <br/><br/>Disruption Case-Study Education
+# HNRS 420 - Lecture 8 <br/><br/>Disruption Case-Study Education
 
 Focus on the rise of online education, technology in education
 
