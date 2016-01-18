@@ -1,4 +1,4 @@
-# HNRS 420 - Lecture 4 <br/><br/>Security and Encryption, and why you shouldn't completely trust it
+# HNRS 420 - Lecture 4 <br/><br/>Security and Responsibility
 I'll describe the technical aspects of security in computer systems, and lay the foundation for the classes discussion questions and debates for this week.  These discussions focus on the social implications of security.  We'll discuss as a group the question of whether perfect security could pose a problem in terms of authorities being able to gain access to criminal data.  Student teams will lead a debate on who should be made accountable (and how) for security breaches, and what users should be willing to sacrifice in the name of security.
 
 ## Reading List

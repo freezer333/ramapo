@@ -5,9 +5,9 @@
 **Location:  **&nbsp;&nbsp;A Building, Room 218
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 
-** Contact Information**<br/>
-Office&nbsp;&nbsp;G315<br/>
-Phone&nbsp;&nbsp;(201) 684-7726<br/>
+** Contact Information**
+Office&nbsp;&nbsp;G315
+Phone&nbsp;&nbsp;(201) 684-7726
 Email&nbsp;&nbsp;[sfrees@ramapo.edu](mailto:sfrees@ramapo.edu)
 
 ## Course Description
@@ -72,12 +72,12 @@ The third presentation is focused on an emerging technology.  Here are the poten
 * Quantum Computing - what does this mean for computing power?
 * Autonomous Vehicles - From drones to self-driving cars - what will we be using in 5 years?
 * 3D Printing - where is this going?
-* High Frequency Trading - what is it, how is it effecting our economy, and what is its future?
+* Machine learning - are we seeing the beginning of a AI revolution?
 
 ### Debates
 The purpose of the team is not only to debate each other, but to be "subject matter" experts and help frame the class's discussion.  Your grade will be based on (1) how well you understand the problem/topic, (2) how persuasively you make your arguments, and (3) how well you get the rest of the class involved in the discussion.
 
-[Please see the debate schedule for details](https://docs.google.com/document/d/1N9Vtk_z8ixaWSLTYbccyXRytbT3SsH6aVGQNiLA3QnY/pub).
+[Please see the debate schedule for details](debates.html).
 
 ### Essays
 You will be required to write two essays.  Your grade will be based on how compelling of a topic you choose and the level of research, accuracy, and logic applied to your discussion and conclusions.  
@@ -93,7 +93,7 @@ You must select an industry tied to your major, and explore how technology has c
 The focus of this course is not to make you an expert in program, by any stretch.  However, there is a lot to be learned by walking a mile in the shoes of a programmer.  A valuable component of this course will be the completion
 of a beginners tutorial in Python programming.  Python is a very beginner-friendly language, but is used extensively in both small and huge programming projects alike.
 
-By 4/21, You are required to complete all lessons in [Code Academy's Python Course](http://www.codecademy.com/en/tracks/python).  
+By 4/18, You are required to complete all lessons in [Code Academy's Python Course](http://www.codecademy.com/en/tracks/python).  
 
 <a href='http://www.codecademy.com/en/tracks/python'><img src='capython.png'/></a>
 

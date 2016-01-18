@@ -1,37 +1,33 @@
-# HNRS 420 Spring 2015
+# HNRS 420 Spring 2016
+We have 9 debate sessions scheduled for the semester.  The dates of each debate are shown on the course schedule.  Each of the topics listed below have outlines of what sort of questions the debate should focus on.  
 
-## Debate Schedule
-One week before each scheduled debate, I will meet with the teams doing the debate to work on finalizing the organization and topic of the presentation.  Teams are expected to work together, not in secret :-).
+1. **Open Source**:  Should software always be free?  Should programmers work for free, and can corporations use this work?  Is this economically fair and sustainable?
+2. **Security and Responsibility**:  How much responsibility do corporations have in protecting your data?  How much liability do they, and should they, assume?  How much convenience are we willing to give up for security?
+3. **Government, Spying, Privacy**:  Should government agencies have backdoors into security standards and access to encrypted data stored by corporations?
+4. **Ageism and the Tech Industry**:  Is their ageism in tech, is it OK?
+5. **Disrupting Education**: Is our education model obsolete?  Are we moving towards an online system?
+6. **Technology and Politics**:  Has technology given people more or less power in the political process?  Has technology and the media made the political process more or less transparent?
+7. **Net Neutrality**:  Should internet service providers control be allowed to base charges and speed on the content being transmitted, or the parties involved?
+8. **Automated Society - Will we work**?  Will the automated society come to fruition?  If so, will the majority of use have to work?   What implications does this have on the economy, government, and society?
+9. **Automated Society - An IP Based Economy**?  Can an economy where the primary good/service that you can produce is your own intellectual property sustain itself?
 
-You should plan to have your debate nearly completed by the time you meet with me, and your preparedness for this meeting WILL count towards your grade.
+Each of you will participate in three of them, as a member of one of 6 debate teams.  Two debate teams are assigned to each of the scheduled debates.
 
-|Lecture |Date |Topic | Debate Toptic | Team 1 | Team 2| Pre-Debate Meeting Date |
-|:---------|:------|:------|:------|:------|:------|:------|
-| 3|  2/23/15 	| [The open source culture](lect03.html) |Is this a viable economic model or is it exploitation? | A | B| 2/16/15 |
-| 4|  3/2/15 	| [Security and Encryption, and why you shouldn't completely trust it.](lect04.html) |How can we be secure, while still maintaining usability? | C | D| 2/23/15 |
-| 7|  3/23/15 	| [Off-the-grid - networks and technology of anonymity](lect07.html) |  How much surveillance is too much?  But what about the bad guys? | E | F | 3/2/15 |
-| 8|  3/30/15 	| [Innovation:  The cult of silicon valley and the young](lect08.html) |  Is age-ism in tech ok? For who? | G |H | 3/23/15 |
-|10| 4/6/15	| [Disruption Case-Study Education](lect10.html) | What is tech's role in education? | C |E | 3/30/15 |
-| 11| 4/13/15 	| [Net neutrality:  Who will control the internet](lect11.html) |Should net neutrality be law? | D | F | 4/6/15 |
-| 13| 4/27/15 	| [The fully automated society - what will we do? - Part 1](lect13.html) | Can an economy based on creative output instead of labor work? | B | G | 4/20/15 |
-| 14| 5/4/15 	| [The fully automated society - what will we do? - Part 2](lect14.html) | Is Automation a good thing? | A | H | 4/27/15 |
+**Please email me your 1st and 2nd choice of debate team based on the debate topics below by 1/28/2016:**
 
-## Debate Details
-The second part of eight of the lectures include a semi-structured debate.  Students will be paired, and two teams (4 total students) will be expected to frame a debate surrounding the topic assigned.  
 
-The purpose of the team is not only to debate each other, but to be "subject matter" experts and help frame the class's discussion.  Your grade will be based on (1) how well you understand the problem/topic, (2) how persuasively you make your arguments, and (3) how well you get the rest of the class involved in the discussion.
+| Team|Members|Debate 1|Debate 2|Debate 3
+|-----|-----|------|------|------
+| A   |  TBA   | Open Source | Ageism and Tech | Net Neutrality
+| B   |  TBA   | Open Source | Disrupting Education | Automated Society - Will we work?
+| C   |  TBA   | Security and Responsibility | Ageism and Tech | Automated Society - IP Economy?
+| D   |  TBA   | Security and Responsibility | Technology and Politics | Automated Society - Will we work?
+| E   |  TBA   | Government, Spying, and Privacy | Disrupting Education | Automated Society - IP Economy?
+| F   |  TBA   | Government, Spying, and Privacy | Technology and Politics | Net Neutrality
 
-*8 debates, 8 teams.  Each team will have 2 debates.  Teams to be assigned first week of class*
 
-| Team | Members | Debated Dates |
-|------|---------|---------------|
-| A    | Michael Meltzer, Vivek Pandey     | 2/23, 5/4     |
-| B    | James Ticchio, Stephen Fallon     | 2/23, 4/27    |
-| C    | Gabriel Makar, Lauren Rumbauskas    | 3/2, 4/6      |
-| D    | Cynthia Loud, Melissa Mayberry, Andrew Krygoski     | 3/2, 4/13     |
-| E    | Jessica Ihle,   Nicole Williams   | 3/23, 4/6     |
-| F    | Jonathan Mangel, Keimya Sadeghi     | 3/23, 4/13    |
-| G    | Aleksandar Goranov, Sujil Maharjan | 3/30, 4/27    |
-| H    | Ashley Orlando, Jacob Marks     | 3/30, 5/4     |
+For each debate you are assigned, you will have one team meeting scheduled during class time.  During this meeting your team(s) will be expected to have your slides presentations prepared, along with talking points, questions for audience, and debate research completed.  I will work closely with the teams during this session.  The meeting days are listed on the course schedule.
+
+During the 5 meeting days listed on the schedule, **if your debate team is not involved, you do not need to attend class**.
 
 

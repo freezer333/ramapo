@@ -1,6 +1,6 @@
-# HNRS 420 - Lecture 1 Course Introduction<br/><br/>A history of computing, and why you should care!
+# HNRS 420 - Lecture 1 and 2 Course Introduction<br/><br/>A history of computing, and why you should care!
 
-For our first lecture I will be describing the workings and expectations of the course in detail.  In particular, we will discuss the structure of the lectures, which will include debates and presentations nearly each week, let by students.  
+For our first two lectures I will be describing the workings and expectations of the course in detail.  In particular, we will discuss the structure of the lectures, which will include debates and presentations nearly each week, led by students.  
 
 Once the course introduction is out of the way, we'll look at our first topic - a history of computing and why you should care.  In particular, we'll talk about how some of the key innovations have occurred, and who was responsible for them.  We'll also pay particular attention to what's happened right here in NJ - which is perhaps a lot more than you might realize...
 
@@ -11,7 +11,7 @@ Please contact me about debates ASAP:
 1. Who do you want to be paired with?  
 1. What topics do you want to debate?  
 
-If you don’t want to be paired with anyone in particular, or cannot present/debate on a specific date - let me know ASAP.
+If you specifically do not want to be paired with someone, or cannot present/debate on a specific date - let me know ASAP.
 
 Finally - **PLEASE GET THE TEXTBOOKS ASAP**.
 

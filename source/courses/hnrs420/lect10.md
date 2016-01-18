@@ -1,16 +1,17 @@
-# HNRS 420 - Lecture 9 <br/><br/>Disruption Case-Study Education
+# HNRS 420 - Lecture 10 <br/><br/>Net neutrality:  Who will control the internet?
 
-Focus on the rise of online education, technology in education
+A bit of technical detail on how the internet works.  The implications of net neutrality, or lack thereof.  We'll discuss Netflix, and Verizon/Comcast
 
 ## Reading List
-* From the web
-  * [Demystifying the MOOC](http://www.nytimes.com/2014/11/02/education/edlife/demystifying-the-mooc.html?_r=0)
-  * [The future of college](http://www.theatlantic.com/features/archive/2014/08/the-future-of-college/375071/)
-  * [MOOC trends in 2014](https://www.class-central.com/report/moocs-stats-and-trends-2014/)
+* [Net neutrality comic](http://theoatmeal.com/blog/net_neutrality)
+* [FCC Chairman Tom Wheeler: This Is How We Will Ensure Net Neutrality](http://www.wired.com/2015/02/fcc-chairman-wheeler-net-neutrality/)
+- more to come.
+* [Understanding Net Neutrality Debate](http://www.nytimes.com/2014/11/11/upshot/a-super-simple-way-to-understand-the-net-neutrality-debate.html?abt=0002&abg=1)
+* [A bit of a wrinkle in the debate...](http://www.wired.com/2014/06/net_neutrality_missing/)
 
 ## Lecture Slides
-<iframe src="https://docs.google.com/presentation/d/14k9-hgIUB164Wyxcdxqf3yA0iky_23rP6IsXp96Sovk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1jQPusUYCe2mtzGa324yW9kdHLx4OIUySSYEDk_j6yfs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-## Course Discussion / Outline
-**Debate** What is the role of education?
+
+**Debate** Should net neutrality be law?

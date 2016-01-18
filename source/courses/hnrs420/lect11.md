@@ -1,17 +1,23 @@
-# HNRS 420 - Lecture 10 <br/><br/>Net neutrality:  Who will control the internet?
+# HNRS 420 - Lecture 11 and 12 <br/><br/>The fully automated society
 
-A bit of technical detail on how the internet works.  The implications of net neutrality, or lack thereof.  We'll discuss Netflix, and Verizon/Comcast
+We'll begin discussing in depth the ideas presented in "Who Owns the Future", and the implications of automation on society
 
 ## Reading List
-* [Net neutrality comic](http://theoatmeal.com/blog/net_neutrality)
-* [FCC Chairman Tom Wheeler: This Is How We Will Ensure Net Neutrality](http://www.wired.com/2015/02/fcc-chairman-wheeler-net-neutrality/)
-- more to come.
-* [Understanding Net Neutrality Debate](http://www.nytimes.com/2014/11/11/upshot/a-super-simple-way-to-understand-the-net-neutrality-debate.html?abt=0002&abg=1)
-* [A bit of a wrinkle in the debate...](http://www.wired.com/2014/06/net_neutrality_missing/)
+* [As Robots Grow Smarter, American Workers Struggle to Keep Up](http://www.nytimes.com/2014/12/16/upshot/as-robots-grow-smarter-american-workers-struggle-to-keep-up.html?abt=0002&abg=1)
+* [What Happens to Society When Robots Replace Workers?](https://hbr.org/2014/12/what-happens-to-society-when-robots-replace-workers)
+* [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
+* [The secret to the Uber economy is wealth inequality](http://qz.com/312537/the-secret-to-the-uber-economy-is-wealth-inequality/#)
+* [Unpleasant Facts and Other Musings](http://unpleasantfacts.com/the-more-fungible-worker)
+* [Job Automation: Is a Future Unemployment Crisis Looming?](http://www.huffingtonpost.com/martin-ford/job-automation-is-a-futur_b_832146.html)
+* [Replacing Middle Management with APIs](http://rein.pk/replacing-middle-management-with-apis/)
+* [Will Your Job Be Done By A Machine](http://www.npr.org/sections/money/2015/05/21/408234543/will-your-job-be-done-by-a-machine)
+* [The Software Revolution](http://blog.samaltman.com/the-software-revolution)
+* [https://medium.com/basic-income/self-driving-trucks-are-going-to-hit-us-like-a-human-driven-truck-b8507d9c5961](Self Driving Trucks)
 
 ## Lecture Slides
-<iframe src="https://docs.google.com/presentation/d/1jQPusUYCe2mtzGa324yW9kdHLx4OIUySSYEDk_j6yfs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1yt4c9W136XP3y_GCmFYzM_p2bSxwouRiqXwtSC3y-WI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-
-**Debate** Should net neutrality be law?
+## Course Discussion / Outline
+**Debate 1** What will we do - is work obsolete?
+**Debate 2** on siren servers (economy based on IP, not labor)
