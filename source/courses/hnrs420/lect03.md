@@ -1,6 +1,7 @@
 # HNRS 420 - Lecture 3 <br/><br/>The open source culture
-We'll discuss the ins and outs of what the terms "open source" and "free software" mean, and compare these concepts to the notion of closed source.  I'll describe some of the technical aspects of this, and give you some historical context to the issue.  We'll have a student-led debate, focusing on the following questions:
+We'll discuss the ins and outs of what the terms "open source" and "free software" mean, and compare these concepts to the notion of closed source.  I'll describe some of the technical aspects of this, and give you some historical context to the issue.  We'll have a student-led debate:
 
+## Debate Questions
 - Should software always be free?  
 - Should coders work for free?  
 - If this work is being used in commercial software, is this a viable economic mode?

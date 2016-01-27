@@ -18,12 +18,12 @@ Each of you will participate in three of them, as a member of one of 6 debate te
 
 | Team|Members|Debate 1|Debate 2|Debate 3
 |-----|-----|------|------|------
-| A   |  TBA   | Open Source | Ageism and Tech | Net Neutrality
-| B   |  TBA   | Open Source | Disrupting Education | Automated Society - Will we work?
-| C   |  TBA   | Security and Responsibility | Ageism and Tech | Automated Society - IP Economy?
-| D   |  TBA   | Security and Responsibility | Technology and Politics | Automated Society - Will we work?
-| E   |  TBA   | Government, Spying, and Privacy | Disrupting Education | Automated Society - IP Economy?
-| F   |  TBA   | Government, Spying, and Privacy | Technology and Politics | Net Neutrality
+| A   |  Angad Bhogal and Nischal Khatri   | Open Source | Ageism and Tech | Net Neutrality
+| B   |  Colin Verhoff and Angelina Turro | Open Source | Disrupting Education | Automated Society - Will we work?
+| C   |  Arjun Bastola and Vidhi Vakharia   | Security and Responsibility | Ageism and Tech | Automated Society - IP Economy?
+| D   |  Alicia Cahill and Alexis Tine   | Security and Responsibility | Technology and Politics | Automated Society - Will we work?
+| E   |  Steven Bunin and Lauren Schmidt    | Government, Spying, and Privacy | Disrupting Education | Automated Society - IP Economy?
+| F   |  Adam Cohler and David Ermann   | Government, Spying, and Privacy | Technology and Politics | Net Neutrality
 
 
 For each debate you are assigned, you will have one team meeting scheduled during class time.  During this meeting your team(s) will be expected to have your slides presentations prepared, along with talking points, questions for audience, and debate research completed.  I will work closely with the teams during this session.  The meeting days are listed on the course schedule.
