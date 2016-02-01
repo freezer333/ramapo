@@ -18,9 +18,9 @@ The third presentation is focused on an emerging technology.  Here are the poten
 
 | Team | Members 
 |------|---------
-| W    | Bastola, Arjun <br/>Cahill, Alicia<br/>Ermann, David
+| W    | Bastola, Arjun <br/>Tine, Alexis<br/>Ermann, David
 | X    | Bhogal, Angad<br/>Cohler, Adam<br/>Khatri Nischal
-| Y    | Bunin, Steven<br/>Tine, Alexis<br/>Vakharia, Vidhi
+| Y    | Bunin, Steven<br/>Cahill, Alicia<br/>Vakharia, Vidhi
 | Z    | Schmidt, Lauren<br/>Turro, Angelina<br/>Verhoff, Colin
 
 Please note, a big part of this course is learning to work with others.  You will be grade on how well your team can put together an integrated presentation.  Unless there is a serious problem within a team, teams will be assigned one uniform grade for each presentation.  **If you have significant problem with any team assignment due to previous issues with another student, you may request a change by 1/28**.  
