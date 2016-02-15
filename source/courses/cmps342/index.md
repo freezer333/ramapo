@@ -63,8 +63,9 @@ In addition to the textbook, there are many tutorials online that cover WebGL.  
 
 | | Due Date |
 |:-------|----:
-|[Lab 1](https://docs.google.com/document/d/1wBaFr26hW0FolZfS-6EWQqFVlgY--VHM7FGQvI7vrHc/pub)|3/3/2016
-|[Lab 2](https://docs.google.com/document/d/118jAviNeoRj4zoop9CINVJ6dv_OjgXVCC7ggoR_aqs4/pub)|3/31/2016
+|[Lab 1](https://docs.google.com/document/d/1l_VI6XdWVCOGA8Gfc6v0BhfFUHYxy9xAwl_VJwpIy3s/pub)|2/18/2016
+|[Lab 2](https://docs.google.com/document/d/1wBaFr26hW0FolZfS-6EWQqFVlgY--VHM7FGQvI7vrHc/pub)|3/3/2016
+|[Lab 3](https://docs.google.com/document/d/118jAviNeoRj4zoop9CINVJ6dv_OjgXVCC7ggoR_aqs4/pub)|3/31/2016
 |[Homework 1](https://docs.google.com/document/d/1IN_zkci_zxvTCInrhjibHlVfU3cUKFqZqmzBU6Yx1-Q/pub)|3/10/2016
 |[Homework 2](https://docs.google.com/document/d/134FypLTYMpc7dxWK_HEmCZAAx3QT4qSALDe-vWBEdGU/pub)|4/7/2016
 

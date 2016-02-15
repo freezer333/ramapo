@@ -15,7 +15,7 @@ int main (int argc, char ** argv) {
 	buffer[0] = '\0';
 	while (strcmp (buffer, "quit") ) {
 		read(pfd, buffer, 256);
-		printf("ECHO:  %s\n");
+		printf("ECHO:  %s\n", buffer);
     }
     
     printf("Child Process ending....\n");

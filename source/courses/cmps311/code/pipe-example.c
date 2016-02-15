@@ -7,10 +7,10 @@
 #define READ_END 0
 #define WRITE_END 1
 
-int pfd[2];
+
 
 int main() {
-
+	int pfd[2];
 	int pid;
 	int retval;
 	int testVariable;
@@ -25,6 +25,7 @@ int main() {
 	}
 	
 	pid = fork();
+
 	
 	if ( pid == 0 ) {
 		

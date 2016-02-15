@@ -29,6 +29,7 @@ int main() {
 	}
 	
 	// Add a print statement here - what will happen?
+	printf("Process exiting\n");
 	exit (0);
 
 

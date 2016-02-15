@@ -24,15 +24,15 @@ int main () {
   pid = fork();
   if (pid == 0) {
     /*  child process */
-	sprintf(arg, "%d", pfd[READ_END]);
-	execlp("./echoline", "echoline" , arg, NULL);
+	 sprintf(arg, "%d", pfd[READ_END]);
+	 execlp("./echoline", "echoline" , arg, NULL);
   }
   else {
     /*  parent process */
-	printf("Type Something:  ");
+	 printf("Type Something:  ");
       
     while (strcmp(buffer, "quit")) {
-	 fgets(buffer, 256, stdin);
+	    fgets(buffer, 256, stdin);
       buffer[strlen(buffer)-1] = '\0';  // TRIM new line character
       write (pfd[WRITE_END], buffer, strlen(buffer)+1);
     }
