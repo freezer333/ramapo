@@ -13,11 +13,10 @@ Ramapo College of New Jersey
 Mahwah, NJ 07430
 
 # Summer 2016 Course Schedule
-|Course|Day|Time|Room|
+|Course|Session|
 |:--|---|
 |CMPS 147 - [Introduction to Computer Science 1](courses/cmps147/Summer)|Online Course - Summer Session 1|
-|CMPS 130 - [Scientific Programming with Python](courses/cmps130/Summer)|Online Course - Summer Session 1|
-
+|CMPS 130 - [Scientific Programming with Python](courses/cmps130/Summer)|Online Course - Summer Session 2|
 ** Summer 2016 Office Hours (starting 5/23/16)**:  By appointment only
 
 [See all the courses I teach on a regular basis](courses/)

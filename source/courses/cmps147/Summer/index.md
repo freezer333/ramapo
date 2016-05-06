@@ -139,8 +139,8 @@ Labs represent 10% of your semester grade, so each lab is actually only less tha
 | [Lab 8](https://docs.google.com/presentation/d/1Y5PBeJYMusRU-4FYvzM60_MiFaqRyGrKSTswcsF-bFQ/pub?start=false&loop=false&delayms=3000#slide=id.g180b604f6_093) | 6/12 (Sunday night)
 | [Lab 9](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000#slide=id.g18155d4d1_031) | 6/12 (Sunday night)
 | [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | **6/19 (Sunday night)**
-| [Lab 11](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | 6/27 (Sunday night)
-| [Lab 12](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000#slide=id.g33e80658c_0161) | 6/27 (Sunday night)
+| [Lab 11](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | 6/26 (Sunday night)
+| [Lab 12](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000#slide=id.g33e80658c_0161) | 6/26 (Sunday night)
  
 ## Homework
 There are four assigned homework problems, with due dates listed on moodle (and below).  Homework programs will likely require 3-6 hours of your time, and will be more involved and complex than your lab assignments.  I will provide more detailed feedback on homework, and grading will be more discerning.  Homework programs 20% of your semester grade, each being 5%.  Like labs, no late homework will be accepted.
