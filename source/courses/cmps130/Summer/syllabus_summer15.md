@@ -1,9 +1,9 @@
 # Scientific Programming with 
-<img src="imgs/python.png"/>
+<img src="../imgs/python.png"/>
 
 **Meeting Time:  **This is an online course
 **Location:  **This is an online course
-**Date:  **July 6th - August 6th, 2015
+**Date:  **July 11th - August 11th, 2016
 **Professor:**&nbsp;&nbsp;[Scott Frees](http://pages.ramapo.edu/~sfrees), Professor of Computer Science
 
 ** Contact Information**
@@ -52,7 +52,7 @@ ISBN 978-0-262-52500-8
 
 The course will follow the textbook quite closely, it is a required resource.
 
-For all of the material and excercises in this course students may use any operating system Python runs on (which include Microsoft Windows, Mac OS X, and all distributions of Linux). 
+For all of the material and exercises in this course students may use any operating system Python runs on (which include Microsoft Windows, Mac OS X, and all distributions of Linux). 
 
 Students will need a source code editor - [Sublime Text](http://www.sublimetext.com/) or [Atom](https://atom.io/) are recommended - but any editor will be fine.  Students must have Administrator access to the machines they work on in order to [install Python (version 3)](https://www.python.org/downloads/) if it is not already installed.
 
@@ -61,7 +61,7 @@ The course has been organized into a series of modules, each of which covers an 
 
 Most modules also have programming excercises associated with them which you should complete (on your own).  Solutions and video recordings of the solution being developed are also posted - however I strongly recommend you try each excercise on your own before watching me solve it!  And of course - the way I solve it may not be the only correct way to do so!
 
-## Week 1 - Monday 7/6 - Sunday 7/12
+## Week 1 - Monday 7/11 - Sunday 7/17
 - [Module 00](modules/module00) - Introduction to Computation
 - [Module 01](modules/module01) - Introduction to Python Programming
 - [Module 02](modules/module02) - Strings and Input
@@ -69,7 +69,7 @@ Most modules also have programming excercises associated with them which you sho
 - [Module 04](modules/module04) - Loops
 - [Module 05](modules/module05) - Functions
 
-## Week 2 - Monday 7/13 - Sunday 7/19
+## Week 2 - Monday 7/18 - Sunday 7/24
 - [Module 06](modules/module06) - Recursion
 - [Module 07](modules/module07) - Global Variables 
 - [Module 08](modules/module08) - Modules 
@@ -78,20 +78,20 @@ Most modules also have programming excercises associated with them which you sho
 - [Module 11](modules/module11) - Lists
 - [Module 12](modules/module12) - Dictionaries
 
-## Week 3 Monday 7/20 - Sunday 7/26
+## Week 3 Monday 7/25 - Sunday 7/31
 - [Module 13](modules/module13) - Testing and Debugging
 - [Module 14](modules/module14) - Exceptions and Assertions
 - [Module 15](modules/module15) - Abstract Data Types and Classes
 - [Module 16](modules/module16) - Inheritance
 - [Module 17](modules/module17) - Encapsulation and Generators
 
-## Week 4 - Monday 7/27 - Sunday 8/02
+## Week 4 - Monday 8/1 - Sunday 8/7
 - [Module 18](modules/module18) - Algorithm Complexity
 - [Module 19](modules/module19) - Search
 - [Module 20](modules/module20) - Sort
 - [Module 21](modules/module21) - Hash Tables
 
-## Week 5 - Monday 8/03 - Wednesday 8/05
+## Week 5 - Monday 8/8 - Thursday 8/11
 - [Module 22](modules/module22) - Plotting Data with PyLab
 - [Module 23](modules/module23) - Stochastic Programs and Statistical Simulation
 
@@ -111,25 +111,25 @@ There are four assigned homework problems, with due dates listed on moodle (and 
 
 |Link to Homework Assignment| Due Date 
 |--|----
-| [Homework 1](hw/hw1/) | 7/11/2015 (Saturday night)
-| [Homework 2](hw/hw2/) | 7/18/2015 (Saturday night)
-| [Homework 3](hw/hw3/) | 8/01/2015 (Saturday night)
-| [Homework 4](hw/hw4/) | 8/06/2015 (Thursday night)
-| [Homework for CS Majors (*see below*)](hw/hw_cs_elective/) | 8/06/2015 (Thursday night)
+| [Homework 1](hw/hw1/) | 7/17/2016 (Sunday night)
+| [Homework 2](hw/hw2/) | 7/24/2016 (Sunday night)
+| [Homework 3](hw/hw3/) | 7/7/2016 (Sunday night)
+| [Homework 4](hw/hw4/) | 8/11/2016 (Thursday night)
+| [Homework for CS Majors (*see below*)](hw/hw_cs_elective/) | 8/11/2016 (Thursday night)
 
 **CS Majors** - If you are a computer science major, you may elect to complete the last "bonus" homework assignment.  If you complete it satisfactorily, you will be permitted to count this course as one of your required CS electives.  **Note - you do not need to take this option** if you are simply taking this course for credits, this is only necessary if you want this course to count specifically as a CS elective, or if you want this to be included in your computer science "major GPA".  If you complete this assignment, your homework grade (20% of course) will be averaged from all five completed assignments instead of four.
 
 **Non-CS Majors** - The extra 5th assignment is geared towards **CS majors only**, and requires you to work extensively in C++ as well as Python.  You should not view this as an extra credit opportunity, or anything like that.  If you wish, on your own time, to give it a try - enjoy!  You will learn a lot, but please do not view this as something your are in any way expected to work on as part of your course credit.
 
 ## Exams (Mid Term and Final)
-Midterm and Final Exams will be proctored, **meaning you will be required to come to campus twice during the five week semester**.  Special accommodations/waivers for this policy will be made on a case-by-case basis, typically for students who attend other institutions as their primary degree-granting school or Ramapo students who live beyond reasonable commuting distance (~1 hour) from campus.  **This must be negotiated with the instructor before July 10th**.  
+Midterm and Final Exams will be proctored, **meaning you will be required to come to campus twice during the five week semester**.  Special accommodations/waivers for this policy will be made on a case-by-case basis, typically for students who attend other institutions as their primary degree-granting school or Ramapo students who live beyond reasonable commuting distance (~1 hour) from campus.  **This must be negotiated with the instructor before July 17th**.  
 
-Mid-Term exam will July 22nd, and the final exam will be held on August 5th.  Exam proctoring will be scheduled with every attempt to accommodate student schedules, including a night session to allow working students to attend.  The exams will last 3 hours each.
+Mid-Term exam will July 26th, and the final exam will be held on August 10th.  Exam proctoring will be scheduled with every attempt to accommodate student schedules, including a night session to allow working students to attend.  The exams will last 3 hours each.
 
 |  | Modules Covered | Date
 |--|---|---
-| **Mid Term Exam** | Modules 1-12 | Wednesday, 7/22/2015 (9am or 6pm)
-| **Final Exam** | Modules 13-23 | Wednesday, 8/05/2015 (9am or 6pm)
+| **Mid Term Exam** | Modules 1-12 | Tuesday, 7/26/2016 (9am or 6pm)
+| **Final Exam** | Modules 13-23 | Wednesday, 8/10/2015 (9am or 6pm)
 
 You will be required to let me know in advance which session (9am or 6pm) you intend to attend.
 
