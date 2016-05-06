@@ -3,14 +3,14 @@ I regularly teach eight computer science courses that count toward the CS major,
 
 **Attention Computer Science Majors:**  be sure to review your [requirements](http://www.ramapo.edu/catalog-2014-2015/tas/compscience/) and [four-year plan](http://www.ramapo.edu/four-year-2014-2015/tas/computer-science/) when selecting courses.
 
-## [CMPS 130 - Scientific Programming with Python](cmps130)
+## [CMPS 130 - Scientific Programming with Python](cmps130/Summer)
 This course covers common computational approaches to solving scientific problems using the Python programming language.  The first half of the course is dedicated to mastery of the Python language within the context of fundamental computer science topics, such object orientation, algorithmic complexity, recursion, and debugging/testing.  The second half of the course focuses on practical scientific applications of Python in data analysis and experimentation.  Student will develop programs using stochastic models, experimental probability and statistics, Monte Carlo simulation, regression analysis, and dynamic programming.  PyLab, a graphing library similar to MatLab, will be utilized such that students can develop programs to report results using scatter plots, bar graphs, histograms, etc.  
 
 The course is specifically geared towards students with high aptitude in math, science, and critical thinking.  Previous programming experience is recommended, but not required.  The course will provide sufficient introduction to computer programming to the non-major, previous course work in computer science is not required.  The course’s emphasis on numerical problem solving and data analysis, along with the introduction to the Python programming language, makes it a relevant and valuable course for computer science majors at the sophomore/junior level.
 
 **Attention Computer Science Majors**: this course does NOT count as one of your [7 required upper-level electives](http://www.ramapo.edu/catalog-2014-2015/tas/compscience/).  However, with approval, this course can be taken in conjunction with an additional project geared towards more advanced students which allows for it to count towards your 7 required electives through Ramapo's course equivalency procedures.  **See me for details**.
 
-## [CMPS 147 - Introduction to Computer Science](cmps147/Winter)
+## [CMPS 147 - Introduction to Computer Science](cmps147/Summer)
 An introduction to programming methodology including: basic concepts of computer systems, the programming languages C/C++, algorithm design, program development, implementation, and testing.
 
 *I teach this course frequently, including during both summer and winter sessions online.  This course is offered by CS faculty other than myself in the Spring and Fall on a regular basis as well.*
