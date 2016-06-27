@@ -1,4 +1,4 @@
-# CMPS 147 Summer 2016 
+# CMPS 147 Summer 2016
 
 ## Introduction to Computer Science 1
 
@@ -39,9 +39,9 @@ You are required to obtain a copy of the textbook for this course, which will be
 <a href='http://www.amazon.com/Introduction-Programming-3rd-Daniel-Liang/dp/0133252817/ref=sr_1_fkmr3_3?ie=UTF8&qid=1417271048&sr=8-3-fkmr3&keywords=Introduction+to+Programming+with+C%2B%2B+%28Brief+Version%29%3B+Lang%2C+Y.+Daniel%3B+ISBN%3A++0-13-232049'><img src='http://ecx.images-amazon.com/images/I/516vxstfV%2BL.jpg' height='200' width='140'/></a>
 
 # Course Objectives
-|Student Learning Outcomes| Lectures | Exams | Homework 
+|Student Learning Outcomes| Lectures | Exams | Homework
 |:--|----|--|--
-| Computer organization, Evolution/History of Programming Languages |X |X |X 
+| Computer organization, Evolution/History of Programming Languages |X |X |X
 | How to write and compile programs in several environments |X |X| X
 |Data Types, Arithmetic and Logical Operators, Operator Precedence |X |X |X
 |Conditional / Branch Mechanisms |X |X |X
@@ -127,7 +127,7 @@ At the end of some of the modules in the course is a dedicated slide with a Lab 
 Labs represent 10% of your semester grade, so each lab is actually only less than 1% of your overall grade.  Labs will be graded generously, and honest attempt at completing the problem will result in a 7 or 8 out of 10 points.  A working program will earn a 10/10.  The purpose of these labs is so I can review your progress each week and provide feedback to you.  Please make every attempt to complete each on by the assigned due date.
 
 
-|Link to Lab Assignment| Due Date 
+|Link to Lab Assignment| Due Date
 |--|----
 | [Lab 1](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.g33af15c55_0144) | 5/29 (Sunday night)
 | [Lab 2](https://docs.google.com/presentation/d/1fbiI6n8cNwljDS2yUH-PR_Kr1UpfdgKizWuqt-5IIFE/pub?start=false&loop=false&delayms=3000&slide=id.g33b4d3301_0137) | 5/29 (Sunday night)
@@ -141,11 +141,11 @@ Labs represent 10% of your semester grade, so each lab is actually only less tha
 | [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | **6/19 (Sunday night)**
 | [Lab 11](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | 6/26 (Sunday night)
 | [Lab 12](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000#slide=id.g33e80658c_0161) | 6/26 (Sunday night)
- 
+
 ## Homework
 There are four assigned homework problems, with due dates listed on moodle (and below).  Homework programs will likely require 3-6 hours of your time, and will be more involved and complex than your lab assignments.  I will provide more detailed feedback on homework, and grading will be more discerning.  Homework programs 20% of your semester grade, each being 5%.  Like labs, no late homework will be accepted.
 
-|Link to Homework Assignment| Due Date 
+|Link to Homework Assignment| Due Date
 |--|----
 | [Homework 1](../hw1/Homework1.html) | 5/29 (Sunday night)
 | [Homework 2](../hw2/Homework2.html) | 6/5 (Sunday night)
@@ -165,7 +165,7 @@ Mid-Term exam will June 7th, and the final exam will be held on June 27th.  Exam
 
 You will be required to let me know in advance which session (9am or 6pm) you intend to attend.
 
-# Grading 
+# Grading
 
 | % | Activity
 |------------------:|:---------------
@@ -186,6 +186,8 @@ You will be required to let me know in advance which session (9am or 6pm) you in
 
 ## Policy on Academic Integrity
 Students are expected to read and understand Ramapo College’s Academic Integrity Policy, which can be found in the Ramapo College Catalog.  Members of the Ramapo College community are expected to be honest and forthright in their academic endeavors.  Students who are suspected of violating this policy will be referred to the Office of the Provost.
+
+**Please consult my explanation of academic integrity regarding computer science [here](/~sfrees/integrity.html)**
 
 When completing lab programming exercises, you may review code with your fellow students; however, copying source code is strictly forbidden.  For homework programming assignments, you may discuss ideas, however you may not allow others to see your source code or examine others’.  Sharing of source code is extremely easy to detect and is strictly prohibited.   If sharing of source code is suspected, intentional or otherwise, both parties will immediately be referred to the Office of the Provost.
 

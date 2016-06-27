@@ -1,4 +1,4 @@
-# Scientific Programming with 
+# Scientific Programming with
 <img src="../imgs/python.png"/>
 
 **Meeting Time:  **This is an online course
@@ -17,16 +17,22 @@ This course covers common computational approaches to solving scientific problem
 
 The course is specifically geared towards students with high aptitude in math, science, and critical thinking.  Previous programming experience is recommended, but not required.  The course will provide sufficient introduction to computer programming to the non-major, previous course work in computer science is not required.  The course’s emphasis on numerical problem solving and data analysis, along with the introduction to the Python programming language, makes it a relevant and valuable course for computer science majors at the sophomore/junior level and for science students wishing to learn how programming can help them in their fields.
 
-## Welcome Video and Syllabus Overview
+<div style="float:left;margin-bottom:2em">
+<h2>Course Summary</h2>
 <video width="420" height="315" controls poster="http://pages.ramapo.edu/~sfrees/courses/cmps130/welcome.jpg">
   <source src="http://pages.ramapo.edu/~sfrees/courses/cmps130/welcome.mp4" type="video/mp4">
   Your browser does not support the video tag.  This video can also be viewed on YouTube <a href="https://youtu.be/z10QvnElMB4">here</a>
 </video>
+</div>
 
+<div style="float:right;margin-bottom:2em">
+<h2>Course Policies</h2>
 <video width="420" height="315" controls>
   <source src="http://pages.ramapo.edu/~sfrees/courses/cmps130/syllabus.mp4" type="video/mp4">
   Your browser does not support the video tag.  This video can also be viewed on YouTube <a href="https://youtu.be/NCl09PRSepc">here</a>
 </video>
+</div>
+
 
 ## Online Course Delivery
 **This course is online, and asynchronous - meaning you can access course material at any time.**While all modules/assignments are accessible from this site, we will use [moodle](http://moodle.ramapo.edu/) to submit all programming assignments electronically.  **Please review the college's guide to online courses and moodle [here](http://www.ramapo.edu/summer/online/)**.
@@ -38,7 +44,7 @@ If you have never taken an online course, you may be surprised how easy it is to
 I will respond to emails very quickly, so whenever you are struggling with a concept, program, or anything else - please get in touch.  It is best to send me your code as an attachment with any email, so I can see precisely what you are doing.  I will hold office hours by appointment, just email me and we'll work out a time to meet on campus.  We will also be able to video conference on Skype if needed.
 
 # Course Objectives
-This course prepares a student to utilize computer programming in scientific and experimental applications and analysis.  Students will gain (1) an understanding of the Python programming language, including concepts such as conditional branching, loops, functions, object orientation, and recursion; (2) a broad understanding of numerical methods, algorithmic complexity, and scientific programming concepts such as stochastic programs, probability, Monte Carlo simulation, and dynamic programming. 
+This course prepares a student to utilize computer programming in scientific and experimental applications and analysis.  Students will gain (1) an understanding of the Python programming language, including concepts such as conditional branching, loops, functions, object orientation, and recursion; (2) a broad understanding of numerical methods, algorithmic complexity, and scientific programming concepts such as stochastic programs, probability, Monte Carlo simulation, and dynamic programming.
 
 1. Students will be able to write and execute Python programs using all of the following programming concepts: conditional execution, looping, and iteration, collection data types, functions, recursion, function objects, and object orientation
 2. Students will be able to apply Python programming skills to scientific and computational problems such as: presentation of statistical data in graphical form, stochastic models, Monte Carlo simulation
@@ -48,52 +54,52 @@ This course prepares a student to utilize computer programming in scientific and
 <a href="http://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262525003/ref=pd_sim_14_1?ie=UTF8&refRID=0A9QVDKTPH2CPVWAMBFR"><img src="http://ecx.images-amazon.com/images/I/810f%2BhpJpSL.jpg" style="margin-right:1em;margin-bottom:4em;float:left; width:200px"/></a>
 <a href="http://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262525003/ref=pd_sim_14_1?ie=UTF8&refRID=0A9QVDKTPH2CPVWAMBFR">Introduction to Computation and Programming Using Python</a>
 John V. Guttag
-ISBN 978-0-262-52500-8 
+ISBN 978-0-262-52500-8
 
 The course will follow the textbook quite closely, it is a required resource.
 
-For all of the material and exercises in this course students may use any operating system Python runs on (which include Microsoft Windows, Mac OS X, and all distributions of Linux). 
+For all of the material and exercises in this course students may use any operating system Python runs on (which include Microsoft Windows, Mac OS X, and all distributions of Linux).
 
 Students will need a source code editor - [Sublime Text](http://www.sublimetext.com/) or [Atom](https://atom.io/) are recommended - but any editor will be fine.  Students must have Administrator access to the machines they work on in order to [install Python (version 3)](https://www.python.org/downloads/) if it is not already installed.
 
 <h1 style="clear:both">Modules</h1>
 The course has been organized into a series of modules, each of which covers an individual topic of the course.  Each module will include at least one slide deck, along with a video recording of the lecture corresponding to the slides.  Many modules will have a series of lectures associated with them.  
 
-Most modules also have programming excercises associated with them which you should complete (on your own).  Solutions and video recordings of the solution being developed are also posted - however I strongly recommend you try each excercise on your own before watching me solve it!  And of course - the way I solve it may not be the only correct way to do so!
+Most modules also have programming exercises associated with them which you should complete (on your own).  Solutions and video recordings of the solution being developed are also posted - however I strongly recommend you try each exercise on your own before watching me solve it!  And of course - the way I solve it may not be the only correct way to do so!
 
 ## Week 1 - Monday 7/11 - Sunday 7/17
-- [Module 00](modules/module00) - Introduction to Computation
-- [Module 01](modules/module01) - Introduction to Python Programming
-- [Module 02](modules/module02) - Strings and Input
-- [Module 03](modules/module03) - Branching Programs
-- [Module 04](modules/module04) - Loops
-- [Module 05](modules/module05) - Functions
+- [Module 00](../modules/module00) - Introduction to Computation
+- [Module 01](../modules/module01) - Introduction to Python Programming
+- [Module 02](../modules/module02) - Strings and Input
+- [Module 03](../modules/module03) - Branching Programs
+- [Module 04](../modules/module04) - Loops
+- [Module 05](../modules/module05) - Functions
 
 ## Week 2 - Monday 7/18 - Sunday 7/24
-- [Module 06](modules/module06) - Recursion
-- [Module 07](modules/module07) - Global Variables 
-- [Module 08](modules/module08) - Modules 
-- [Module 09](modules/module09) - Reading and Writing Files
-- [Module 10](modules/module10) - Generalized Sequences -> Tuples
-- [Module 11](modules/module11) - Lists
-- [Module 12](modules/module12) - Dictionaries
+- [Module 06](../modules/module06) - Recursion
+- [Module 07](../modules/module07) - Global Variables
+- [Module 08](../modules/module08) - Modules
+- [Module 09](../modules/module09) - Reading and Writing Files
+- [Module 10](../modules/module10) - Generalized Sequences -> Tuples
+- [Module 11](../modules/module11) - Lists
+- [Module 12](../modules/module12) - Dictionaries
 
 ## Week 3 Monday 7/25 - Sunday 7/31
-- [Module 13](modules/module13) - Testing and Debugging
-- [Module 14](modules/module14) - Exceptions and Assertions
-- [Module 15](modules/module15) - Abstract Data Types and Classes
-- [Module 16](modules/module16) - Inheritance
-- [Module 17](modules/module17) - Encapsulation and Generators
+- [Module 13](../modules/module13) - Testing and Debugging
+- [Module 14](../modules/module14) - Exceptions and Assertions
+- [Module 15](../modules/module15) - Abstract Data Types and Classes
+- [Module 16](../modules/module16) - Inheritance
+- [Module 17](../modules/module17) - Encapsulation and Generators
 
 ## Week 4 - Monday 8/1 - Sunday 8/7
-- [Module 18](modules/module18) - Algorithm Complexity
-- [Module 19](modules/module19) - Search
-- [Module 20](modules/module20) - Sort
-- [Module 21](modules/module21) - Hash Tables
+- [Module 18](../modules/module18) - Algorithm Complexity
+- [Module 19](../modules/module19) - Search
+- [Module 20](../modules/module20) - Sort
+- [Module 21](../modules/module21) - Hash Tables
 
 ## Week 5 - Monday 8/8 - Thursday 8/11
-- [Module 22](modules/module22) - Plotting Data with PyLab
-- [Module 23](modules/module23) - Stochastic Programs and Statistical Simulation
+- [Module 22](../modules/module22) - Plotting Data with PyLab
+- [Module 23](../modules/module23) - Stochastic Programs and Statistical Simulation
 
 
 I **strongly** recommend you work through each module in order - programming is not the type of thing that you can skip around with...
@@ -109,13 +115,13 @@ The Mid Term exam (see proctoring details below in exam section) will include up
 ## Homework
 There are four assigned homework problems, with due dates listed on moodle (and below).  Homework programs will likely require 3-6 hours of your time, and will be more involved and complex than the non-graded programming exercises.  I will provide feedback on homework, and partial credit will be given.  Homework programs 20% of your semester grade, each being 5%.  **No late homework will be accepted.**
 
-|Link to Homework Assignment| Due Date 
+|Link to Homework Assignment| Due Date
 |--|----
-| [Homework 1](hw/hw1/) | 7/17/2016 (Sunday night)
-| [Homework 2](hw/hw2/) | 7/24/2016 (Sunday night)
-| [Homework 3](hw/hw3/) | 8/7/2016 (Sunday night)
-| [Homework 4](hw/hw4/) | 8/11/2016 (Thursday night)
-| [Homework for CS Majors (*see below*)](hw/hw_cs_elective/) | 8/11/2016 (Thursday night)
+| [Homework 1](../hw/hw1/) | 7/17/2016 (Sunday night)
+| [Homework 2](../hw/hw2/) | 7/24/2016 (Sunday night)
+| [Homework 3](../hw/hw3/) | 8/7/2016 (Sunday night)
+| [Homework 4](../hw/hw4/) | 8/11/2016 (Thursday night)
+| [Homework for CS Majors (*see below*)](../hw/hw_cs_elective/) | 8/11/2016 (Thursday night)
 
 **CS Majors** - If you are a computer science major, you may elect to complete the last "bonus" homework assignment.  If you complete it satisfactorily, you will be permitted to count this course as one of your required CS electives.  **Note - you do not need to take this option** if you are simply taking this course for credits, this is only necessary if you want this course to count specifically as a CS elective, or if you want this to be included in your computer science "major GPA".  If you complete this assignment, your homework grade (20% of course) will be averaged from all five completed assignments instead of four.
 
@@ -129,11 +135,11 @@ Mid-Term exam will July 26th, and the final exam will be held on August 10th.  E
 |  | Modules Covered | Date
 |--|---|---
 | **Mid Term Exam** | Modules 1-12 | Tuesday, 7/26/2016 (9am or 6pm)
-| **Final Exam** | Modules 13-23 | Wednesday, 8/10/2015 (9am or 6pm)
+| **Final Exam** | Modules 13-23 | Wednesday, 8/10/2016 (9am or 6pm)
 
 You will be required to let me know in advance which session (9am or 6pm) you intend to attend.
 
-# Grading 
+# Grading
 
 | % | Activity
 |------------------:|:---------------
@@ -154,8 +160,9 @@ You will be required to let me know in advance which session (9am or 6pm) you in
 ## Policy on Academic Integrity
 Students are expected to read and understand Ramapo College’s Academic Integrity Policy, which can be found in the Ramapo College Catalog.  Members of the Ramapo College community are expected to be honest and forthright in their academic endeavors.  Students who are suspected of violating this policy will be referred to the Office of the Provost.
 
+**Please consult my explanation of academic integrity regarding computer science [HERE](/~sfrees/integrity.html)**.
+
 For homework programming assignments, you may discuss ideas, however you may not allow others to see your source code or examine others’.  Sharing of source code is extremely easy to detect and is strictly prohibited.   If sharing of source code is suspected, intentional or otherwise, both parties will immediately be referred to the Office of the Provost.
 
 # Students with Disabilities:
 If you need course adaptation or accommodations because of a disability that has been documented with the Office of Specialized Services, please make an appointment during my office hours.
-
