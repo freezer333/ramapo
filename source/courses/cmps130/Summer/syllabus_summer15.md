@@ -99,7 +99,7 @@ Most modules also have programming excercises associated with them which you sho
 I **strongly** recommend you work through each module in order - programming is not the type of thing that you can skip around with...
 
 ## Recommended Pace
-I have organized moodle into 5 weeks, with each week containing several modules.  Programming example solutions are posted within the modules they are presented in.  It is critical that you keep pace with the course and complete the modules and assignments during the week they are posted.  Homework assignments (one per week) are due Friday or Saturday (see individual assignments below) evenings at 11:59pm.  No late work will be accepted, so please try to start the programs early.  Programming Examples presented with each module should be completed independently before you view the solutions - but you do not need to turn these in.
+I have organized moodle into 5 weeks, with each week containing several modules.  Programming example solutions are posted within the modules they are presented in.  It is critical that you keep pace with the course and complete the modules and assignments during the week they are posted.  Homework assignments (one per week) are due Sunday evenings at 11:55pm.  No late work will be accepted, so please try to start the programs early.  Programming Examples presented with each module should be completed independently before you view the solutions - but you do not need to turn these in.
 
 You may work ahead of the pace on moodle, and are encouraged to do so.  All contents is loaded onto moodle on the first day of class.  The pace set on moodle and above can be best thought of as your minimum pace.  
 
@@ -113,7 +113,7 @@ There are four assigned homework problems, with due dates listed on moodle (and 
 |--|----
 | [Homework 1](hw/hw1/) | 7/17/2016 (Sunday night)
 | [Homework 2](hw/hw2/) | 7/24/2016 (Sunday night)
-| [Homework 3](hw/hw3/) | 7/7/2016 (Sunday night)
+| [Homework 3](hw/hw3/) | 8/7/2016 (Sunday night)
 | [Homework 4](hw/hw4/) | 8/11/2016 (Thursday night)
 | [Homework for CS Majors (*see below*)](hw/hw_cs_elective/) | 8/11/2016 (Thursday night)
 
