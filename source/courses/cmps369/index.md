@@ -1,8 +1,8 @@
-# CMPS 369 Fall 2015
+# CMPS 369 Fall 2016
 
 ## Web Application Development
 
-**Meeting Time:** Monday, Wednesday, Thursday 11:30am-12:40pm
+**Meeting Time:** Monday, Wednesday, Thursday 9:30am-10:40pm
 **Location:** ASB 429
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 
@@ -11,14 +11,14 @@ Office&nbsp;&nbsp;G315
 Phone&nbsp;&nbsp;(201) 684-7726
 Email&nbsp;&nbsp;[sfrees@ramapo.edu](mailto:sfrees@ramapo.edu)
 
-**Office Hours:**   Monday 12:45-1:45pm and Thursday 4-5pm
+**Office Hours:**   Wednesdays 10:45-12:15pm and Thursdays 4:30-6:00pm
 
 ## Course Description
 This course provides in-depth treatment of the critical languages, design patterns, and technologies underpinning all of modern web application development. The basics of networking, along with the details of the HTTP protocol are introduced. HTML (through version 5), CSS (through version 3) are presented from the perspective of an application developer.
 JavaScript is covered as the primary language for both client side development (utilizing jQuery and other front-end libraries) and server side (utilizing the node.js library).
 
 Advanced JavaScript topics such as closures and asynchronous programming are covered in depth.
-The course also introduces the MVC (Model View Controller) architecture for web development and covers the Express framework including EJS and Jade templating, along with front-end toosl like LESS, Bootstrap, and React.
+The course also introduces the MVC (Model View Controller) architecture for web development and covers the Express framework including EJS and Jade templating, along with front-end tools like LESS, Bootstrap, and React.
 
 An overview of other popular languages and frameworks such as LESS, Ruby on Rails, ASP.NET MVC, and PHP are also provided to increase the breadth of the students’ knowledge in the field.
 
@@ -79,13 +79,16 @@ This course will require you to write HTML, CSS, and JavaScript code. A simple t
 It is highly recommended that you have access to your own computer to do your development on, most machines in college labs will not have Node.js installed. However, for assignments only dealing with client-side programming, you may be able to use any machine in the labs.
 
 ## Course Materials - Program Editors
-While your basic text editor will allow you to write HTML/CSS and JavaScript, it can be quite error prone without an editor that supports automatic indentation and syntax highlighting. There are many possibilities. If you wish, you can also use larger integrated develoment environments (IDE), such as Microsoft Visual Studio or eclipse. Use of a full-fledged IDE is not absolutely necessary however, and many web developers prefer to use light-weight editors such as those listed below.
+While your basic text editor will allow you to write HTML/CSS and JavaScript, it can be quite error prone without an editor that supports automatic indentation and syntax highlighting. There are many possibilities. 
 
 - [Sublime Text](http://www.sublimetext.com/) - runs on Windows, Mac OSX, Linux. (Note, the free trial works forever...)
 - [Github's Atom](https://atom.io/) - runs on Windows, Mac OSX, Linux.  Free.
+- [Microsoft's VS Code](https://code.visualstudio.com) - runs on Windows, Mac OSX, Linux.  Free
+
+If you wish, you can also use larger integrated development environments (IDE), such as Microsoft Visual Studio or eclipse, Web Storm, etc. Use of a full-fledged IDE is not necessary however, and most web developers prefer to use light-weight editors such as those listed above.
 
 # Course Structure
-All slides, code, and any other material for this class will always be posted to MOODLE.  This site will be kept up to date as well, however if there is ever a difference in schedule or due date, always view Moodle as the definative source of information.
+This website is the sole place I will link HW assignments, slides, and code.  We will use MOODLE only for assignment submission.
 
 ## Schedule
 <div style="margin:0px;padding:0px;overflow:hidden">
@@ -137,14 +140,14 @@ There are three homework assignments and two larger programming projects assigne
 
 |Link to Homework Assignment| Due Date
 |--|----
-| [Homework 1](https://docs.google.com/document/d/1TFvoSgDqj26uk0F_ffVI600D0184hPugJYQURaImD4c/pub) |  9/21
-| [Homework 2](https://docs.google.com/document/d/1vD8UQT-ot7BDysyKRHCsvrRHsOkxv-rYCnnkpmbnNnc/pub) |  9/24
-| [Homework 3](https://docs.google.com/document/d/1SY9-yYsalcCoK1JLLHJqcuBNH-lkB3KM1J3xZ2g3BgM/pub) |  10/26
+| [Homework 1](https://docs.google.com/document/d/1TFvoSgDqj26uk0F_ffVI600D0184hPugJYQURaImD4c/pub) |  9/15
+| [Homework 2](https://docs.google.com/document/d/1vD8UQT-ot7BDysyKRHCsvrRHsOkxv-rYCnnkpmbnNnc/pub) |  9/19
+| [Homework 3](https://docs.google.com/document/d/1SY9-yYsalcCoK1JLLHJqcuBNH-lkB3KM1J3xZ2g3BgM/pub) |  10/20
 
 |Link to Projects| Due Date
 |--|----
-| [Project 1](https://docs.google.com/document/d/1P_cGhz1tsRNYKk7KvCRNXDdZwdyP70iv3CJ2Zc5hmDU/pub) |  10/21
-| [Project 2](https://docs.google.com/document/d/1-5Oigr6RwMwN3gMvgz-oDwA315uuJ7srt8FYPRyhDwE/pub) |  11/18
+| [Project 1](https://docs.google.com/document/d/1P_cGhz1tsRNYKk7KvCRNXDdZwdyP70iv3CJ2Zc5hmDU/pub) |  10/19
+| [Project 2](https://docs.google.com/document/d/1-5Oigr6RwMwN3gMvgz-oDwA315uuJ7srt8FYPRyhDwE/pub) |  11/10
 
 # Final Project
 The final project will be due the same day as our scheduled final exam.  The full details can be found [here](https://docs.google.com/document/d/1lfnxI3C_44m9MwZaBxAtfBb9w6jciJvoIsSQw40mXvg/pub).  You will show me your running code during the final exam period.  The final project is **instead** of the final exam.
