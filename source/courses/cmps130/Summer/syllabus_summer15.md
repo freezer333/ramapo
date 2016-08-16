@@ -34,7 +34,7 @@ The course is specifically geared towards students with high aptitude in math, s
 </div>
 
 
-## Online Course Delivery
+<h2 style="clear:both">Online Course Delivery</h2>
 **This course is online, and asynchronous - meaning you can access course material at any time.**While all modules/assignments are accessible from this site, we will use [moodle](http://moodle.ramapo.edu/) to submit all programming assignments electronically.  **Please review the college's guide to online courses and moodle [here](http://www.ramapo.edu/summer/online/)**.
 
 ## About taking an online course

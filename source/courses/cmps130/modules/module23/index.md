@@ -1,6 +1,6 @@
 # Scientific Programming with 
 <img src="../../imgs/python.png"/>
-## Module 22 - Statistics, Simulations, and Distributions
+## Module 23 - Statistics, Simulations, and Distributions
 [back to outline](../../outline.html)
 ### Summary
 The final module of this course covers chapter 12 in the textbook - however as you will see when you read this chapter, there is no additional Python syntax being introduced.  Rather, it is showing you how the skills you've learned can no be **applied** towards scientific and engineering applications.
@@ -20,7 +20,7 @@ Chapter 12
 <iframe width="420" height="315" src="https://www.youtube.com/embed/iuIydCjZ--g" frameborder="0" allowfullscreen></iframe>
 
 ### Programming Excercises
-- [Programming Exercise #27](../../exercises/pe26) - Predicting Rainfall and Droughts 
+- [Programming Exercise #27](../../exercises/pe27) - Predicting Rainfall and Droughts 
 
 
 
