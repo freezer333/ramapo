@@ -102,10 +102,7 @@ This website is the sole place I will link HW assignments, slides, and code.  We
 # In-Class Code
 
 ## Networking Examples  (Lecture 2 - 3)
-- [tcpServer.cpp](code/server-demos/tcpServer.cpp)
-- [tcpClient.cpp](code/server-demos/tcpClient.cpp)
-- [tcp_client.js](code/server-demos/tcp_client.js)
-- [tcp_server.js](code/server-demos/tcp_server.js)
+- [C++ and Node Echo Servers](code/basic-servers.zip)
 - [http.js](code/server-demos/http.js)
 
 ## HTML Service (Lectures 3-7)
