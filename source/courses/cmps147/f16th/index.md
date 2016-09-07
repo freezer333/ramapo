@@ -2,7 +2,7 @@
 ## Introduction to Computer Science 1
 
 **Meeting Time:** Thursday 6:00pm-7:40pm
-**Location:** ASB 429
+**Location:** ASB 301
 
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 
