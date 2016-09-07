@@ -156,11 +156,10 @@ The final project will be due the same day as our scheduled final exam.  The ful
 
 | % | Activity
 |------------------:|:---------------
-|5%| Attendance
 |15%| Homework Assignments (3)
 |20%| Programming Projects (2)
 |40%| Exams (2)
-|20%| Final Project (in place of Final Exam)
+|25%| Final Project (in place of Final Exam)
 
 ## Late Policy
 
