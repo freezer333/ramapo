@@ -64,7 +64,9 @@ Below is a tentative schedule for the course.  All topics and due dates are subj
 </div>
 
 ## Programming Examples
-The majority of lectures will include several programming examples.  Source code for solutions to the programming examples is also provided on Moodle.
+The majority of lectures will include several programming examples.  Below are solutions that will be derived in class:
+
+[area.cpp](code/area.cpp) - from Module 2
 
 
 # Course Assignments
