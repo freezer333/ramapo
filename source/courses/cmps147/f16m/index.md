@@ -20,9 +20,9 @@ An introduction to programming methodology including:  basic concepts of compute
 While all modules/assignments are accessible from this site, we will use [Moodle](http://moodle.ramapo.edu/) to submit all programming assignments electronically.
 
 ## About the hybrid version of this course
-Hybrid courses substitute portions of regularly scheduled class time with online lectures.  This means that although most courses at Ramapo are scheduled to meet for 220 minutes each week, **we do not**.  That also means you will need to be responsible and disciplined with keeping up with the video lectures I'll provide (below).  The video lectures in the class largely replace the in-class lectures (they are not **optional!**).  
+Hybrid courses substitute portions of regularly scheduled class time with online lectures.  This means that although most courses at Ramapo are scheduled to meet for 200 minutes each week, **we do not**.  That also means you will need to be responsible and disciplined with keeping up with the video lectures I'll provide (below).  The video lectures in the class largely replace the in-class lectures (they are not **optional!**).  
 
-<p class="highlight">While we only meet for 110 minutes each week, the you will need to be spending *at least* 110 minutes each week reading, listening, and working through the online lecture material.</p>
+<p class="highlight">While we only meet for 100 minutes each week, you will need to be spending *at least* 100 minutes each week reading, listening, and working through the online lecture material.</p>
 
 If you have never taken an hybrid course, you may be surprised how easy it is to fall behind.  When we meet in class, I will assume you've already viewed the assigned lectures online.  Most in-class meetings will be spent doing hands-on programming, using the concepts from the assigned video lectures.  I will be there to assist you, but it is your responsibility to have already digested and absorbed the material.    
 

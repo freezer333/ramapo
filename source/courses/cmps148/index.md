@@ -71,20 +71,20 @@ The majority of lectures will include several programming examples.  Source code
 You learn to program best by… programming a lot!  In this course I will be expecting you to write 3-4 programs each week of varying length.  These will be in the form of Labs and Homework programs.  You must submit all programs on moodle through the appropriate assignment links at the top of the course page.  It is imperative that you only submit the .cpp (source code) files when turning in your assignments.  I will build your programs and run them, so always triple check that you are submitting source code, and not some other Visual Studio related file (there are many!).  Note, in the first Module’s video, I will provided details instructions on how to get this right.
 
 ## Labs
-The last half of som lectures will be used as a lab period, where you will be given programming assignments to reinforce lecture topic.  The labs are designed to require about 45 minutes of your time.  Labs are to be completed in class, but if you are unable to finish before the end of the period, you may turn them in any time before the next lecture.  **No late labs will be accepted**.  You are **not** allowed to leave class early without completing the lab - if you do so you will receive a 0 on the lab.
+The last half of som lectures will be used as a lab period, where you will be given programming assignments to reinforce lecture topic.  The labs are designed to require about 45 minutes of your time.  Labs are to be completed in class.  **No late labs will be accepted**.  You are **not** allowed to leave class early without completing the lab - if you do so you will receive a 0 on the lab.
 
 Labs represent 10% of your semester grade, so each lab is actually only slightly more than 1% of your overall grade.  Labs will be graded generously, and honest attempt at completing the problem will result in a 7 or 8 out of 10 points.  A working program will earn a 10/10.  The purpose of these labs is so I can review your progress each week and provide feedback to you.  Please make every attempt to complete each on by the assigned due date.
 
 
 |Lab Assignment| Due Date
 |--|----
-| [Lab 1](Labs/lab1/) | 9/12/2016 @3:40pm
-| [Lab 2](Labs/lab2/) | 9/15/2016 @3:40pm
-| [Lab 3](Labs/lab3/) | 9/22/2016 @3:40pm
-| [Lab 4](Labs/lab4/) | 10/10/2016 @3:40pm
-| [Lab 5](Labs/lab5/) | 10/20/2016 @3:40pm
-| [Lab 6](Labs/lab6/) | 11/7/2016 @3:40pm
-| [Lab 7](Labs/lab7/) | 12/5/2016 @3:40pm
+| [Lab 1](Labs/lab1/) | 9/12/2016 @12:40pm
+| [Lab 2](Labs/lab2/) | 9/15/2016 @12:40pm
+| [Lab 3](Labs/lab3/) | 9/22/2016 @12:40pm
+| [Lab 4](Labs/lab4/) | 10/10/2016 @12:40pm
+| [Lab 5](Labs/lab5/) | 10/20/2016 @12:40pm
+| [Lab 6](Labs/lab6/) | 11/7/2016 @12:40pm
+| [Lab 7](Labs/lab7/) | 12/5/2016 @12:40pm
 
 
 ## Homework
@@ -92,7 +92,7 @@ Homework programs will likely require 3-6 hours of your time, and will be more i
 
 |Link to Homework Assignment| Due Date
 |--|----
-| [Homework 1](HW/HW1.pdf) | 6/26/2016 (@11:59pm)
+| [Homework 1](HW/HW1.pdf) | 9/26/2016 (@11:59pm)
 | [Homework 2](HW/HW2.pdf) | 10/3/2016 (@11:59pm)
 | [Homework 3](HW/HW3.pdf) | 10/27/2016 (@11:59pm)
 | [Homework 4](HW/HW4.pdf) | 12/5/2016 (@11:59pm)
