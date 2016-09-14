@@ -106,7 +106,7 @@ This website is the sole place I will link HW assignments, slides, and code.  We
 - [http.js](code/server-demos/http.js)
 
 ## HTML Service (Lectures 3-7)
-- [03_http_file_demo](code/03_http_file_demo/index.html)
+- [03_http_file_demo](code/03_http_file_demo.zip)
 
 ## HTML Form processing and EJS Templates (Lectures 8-9)
 - [05_form_processing_demo](code/05_form_processing.tar.gz)
