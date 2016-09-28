@@ -72,7 +72,7 @@ The listing below contains links to each module.
 <p class="highlight">It is your responsibility to view the Modules (and complete the assigned reading) on your own.  The schedule below outlines by which in-class meeting you are required to have complete the module for.  Viewing and reading through each module is NOT optional - they ARE THE LECTURES!</p>
 
 <p><a href="../slides_pdf">Slides in PDF form (for printing)</a></p>
-<p><a href="https://docs.google.com/presentation/d/1Cs7K_4eyc4iExSeP6OzbR6uL2Fq-4j8CE0L7x5DHSfU/pub?start=false&loop=false&delayms=3000">Slides for first night of class (combination of Modules 0-2)</a></p>
+<p><a href="https://docs.google.com/presentation/d/1Cs7K_4eyc4iExSeP6Oz bR6uL2Fq-4j8CE0L7x5DHSfU/pub?start=false&loop=false&delayms=3000">Slides for first night of class (combination of Modules 0-2)</a></p>
 
 
 | Module  | Topic | Lecture Slides|  Recorded Video

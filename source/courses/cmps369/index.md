@@ -109,15 +109,15 @@ This website is the sole place I will link HW assignments, slides, and code.  We
 - [03_http_file_demo](code/03_http_file_demo.zip)
 
 ## HTML Form processing and EJS Templates (Lectures 8-9)
-- [05_form_processing_demo](code/05_form_processing.tar.gz)
-- [06_form_templates_demo](code/06_form_templates.tar.gz)
-- [07_guessing_game_1_demo](code/07_guessing1.tar.gz)
+- [05_form_processing_demo](code/05_form_processing.zip)
+- [06_form_templates_demo](code/06_form_templates.zip)
+- [07_guessing_game_1_demo](code/07_guessing1.zip)
 - [08_guessing_sessions](code/08_guessing_sessions.zip)
 
 ## JavaScript Examples
-- [09_js_examples](code/09_js_examples)
+- [09_js_examples](code/09_js_examples.zip)
 - [10_guessing_spas](code/10_guessing_spas.zip)
-- [11_jquery](code/11_jquery)
+- [11_jquery](code/11_jquery.zip)
 - [12_guessing_ajax](code/12_guessing_ajax.zip)
 
 ## Database Examples
