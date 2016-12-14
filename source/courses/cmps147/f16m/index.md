@@ -212,5 +212,9 @@ Students are expected to read and understand Ramapo College’s Academic Integri
 
 <p class="angry"><b>Please make no mistake,</b>  while you may use the internet to gather information about code or help with syntax, websites that contain *complete solutions* to programs are 100%, <b>absolutely</b>, inappropriate and not acceptable resources to use while completing ANY work in this class.  <br/><br/>If you copy large portions of code <b>from ANYWHERE, you have CHEATED</b>.  Sharing/copying source code is extremely easy to detect and is strictly prohibited.   If sharing of source code is suspected, intentional or otherwise, <b>all</b> parties will immediately be referred to the Office of the Provost.</p>
 
+## Make-Up Exam Policy
+Make-ups will not be given for the exams given during the semester.  Failure to attend class on those days will result in a zero.  Make-ups will only be given in extraordinary circumstances (college approved absence) such as a documented medical or religious absence.
+
+
 # Students with Disabilities:
 If you need course adaptation or accommodations because of a disability that has been documented with the Office of Specialized Services, please make an appointment during my office hours.
