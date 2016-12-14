@@ -3,7 +3,7 @@
 
 **Meeting Time:  **This is an online course
 **Location:  **This is an online course
-**Date:  **December 23rd, 2015 - January 15th, 2016
+**Date:  **December 23rd, 2016 - January 14th, 2017
 **Professor:**&nbsp;&nbsp;[Scott Frees](http://pages.ramapo.edu/~sfrees), Professor of Computer Science
 
 ** Contact Information**
@@ -18,7 +18,7 @@ This course covers common computational approaches to solving scientific problem
 The course is specifically geared towards students with high aptitude in math, science, and critical thinking.  Previous programming experience is recommended, but not required.  The course will provide sufficient introduction to computer programming to the non-major, previous course work in computer science is not required.  The course’s emphasis on numerical problem solving and data analysis, along with the introduction to the Python programming language, makes it a relevant and valuable course for computer science majors at the sophomore/junior level and for science students wishing to learn how programming can help them in their fields.
 
 ## Welcome Video and Syllabus Overview
-<div class="highlight">The syllabus overview video below was recorded for the 2015 Summer Session.  **The information presented 100% accurate to the Winter session**, except due dates.  The due dates that you see on my screen while I'm talking are NOT FOR THE WINTER SESSION.  Please see all the text on this website for accurate due dates for the Winter Session.
+<div class="highlight">The syllabus overview video below was recorded for the 2016 Summer Session.  **The information presented 100% accurate to the Winter session**, except due dates.  The due dates that you see on my screen while I'm talking are NOT FOR THE WINTER SESSION.  Please see all the text on this website for accurate due dates for the Winter Session.
 </div>
 
 <video width="420" height="315" controls poster="http://pages.ramapo.edu/~sfrees/courses/cmps130/welcome.jpg">
@@ -64,37 +64,38 @@ The course has been organized into a series of modules, each of which covers an 
 
 Most modules also have programming exercises associated with them which you should complete (on your own).  Solutions and video recordings of the solution being developed are also posted - however I strongly recommend you try each exercise on your own before watching me solve it!  And of course - the way I solve it may not be the only correct way to do so!
 
-## Week 1 - Wednesday 12/23 - Sunday 12/26
+## Week 1 - Friday 12/23 - Sunday 1/1
 - [Module 00](../modules/module00) - Introduction to Computation
 - [Module 01](../modules/module01) - Introduction to Python Programming
 - [Module 02](../modules/module02) - Strings and Input
 - [Module 03](../modules/module03) - Branching Programs
 - [Module 04](../modules/module04) - Loops
 - [Module 05](../modules/module05) - Functions
-
-## Week 2 - Monday 12/27 - Sunday 1/3
 - [Module 06](../modules/module06) - Recursion
 - [Module 07](../modules/module07) - Global Variables
+
+## Week 2 - Monday 1/2 - Sunday 1/8
 - [Module 08](../modules/module08) - Modules
 - [Module 09](../modules/module09) - Reading and Writing Files
 - [Module 10](../modules/module10) - Generalized Sequences -> Tuples
 - [Module 11](../modules/module11) - Lists
 - [Module 12](../modules/module12) - Dictionaries
-
-## Week 3 Monday 1/4 - Sunday 1/10
 - [Module 13](../modules/module13) - Testing and Debugging
 - [Module 14](../modules/module14) - Exceptions and Assertions
+
+## Week 3 Monday 1/9 - Sunday 1/14
 - [Module 15](../modules/module15) - Abstract Data Types and Classes
 - [Module 16](../modules/module16) - Inheritance
 - [Module 17](../modules/module17) - Encapsulation and Generators
-
-## Week 4 - Monday 1/11- Friday 1/15
 - [Module 18](../modules/module18) - Algorithm Complexity
 - [Module 19](../modules/module19) - Search
 - [Module 20](../modules/module20) - Sort
 - [Module 21](../modules/module21) - Hash Tables
 - [Module 22](../modules/module22) - Plotting Data with PyLab
 - [Module 23](../modules/module23) - Stochastic Programs and Statistical Simulation
+
+## Week 4 - Monday 1/11- Friday 1/15
+
 
 
 I **strongly** recommend you work through each module in order - programming is not the type of thing that you can skip around with...
