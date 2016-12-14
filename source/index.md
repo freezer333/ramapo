@@ -21,6 +21,12 @@ Mahwah, NJ 07430
 |[CMPS 369 - Web Application Development](courses/cmps369/)|Mondays, Wednesdays, and Thursdays 9:30am-10:40am|ASB 429
 ** Fall 2016 Office Hours (starting 9/14/16)**:  Wednesdays 10:45am-12:15pm and Thursdays 4:30pm-6pm
 
+# Winter 2017 Course Schedule
+|Course
+|:--|
+|[CMPS 130 - Scientific Programming with Python](courses/cmps130/Winter)
+** Winter office hours by appointment only.
+
 [See all the courses I teach on a regular basis](courses/)
 
 ## Publications
