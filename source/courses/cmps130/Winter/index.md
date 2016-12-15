@@ -83,7 +83,7 @@ Most modules also have programming exercises associated with them which you shou
 - [Module 13](../modules/module13) - Testing and Debugging
 - [Module 14](../modules/module14) - Exceptions and Assertions
 
-## Week 3 Monday 1/9 - Sunday 1/14
+## Week 3 Monday 1/9 - Saturday 1/14
 - [Module 15](../modules/module15) - Abstract Data Types and Classes
 - [Module 16](../modules/module16) - Inheritance
 - [Module 17](../modules/module17) - Encapsulation and Generators
@@ -94,18 +94,14 @@ Most modules also have programming exercises associated with them which you shou
 - [Module 22](../modules/module22) - Plotting Data with PyLab
 - [Module 23](../modules/module23) - Stochastic Programs and Statistical Simulation
 
-## Week 4 - Monday 1/11- Friday 1/15
-
-
-
 I **strongly** recommend you work through each module in order - programming is not the type of thing that you can skip around with...
 
 ## Recommended Pace
-I have organized the course into 4 weeks, with each week containing several modules.  Programming example solutions are posted within the modules they are presented in.  It is critical that you keep pace with the course and complete the modules and assignments during the week they are posted.  Homework assignments (one per week) are due Friday or Saturday (see individual assignments below) evenings at 11:59pm.  No late work will be accepted, so please try to start the programs early.  Programming Examples presented with each module should be completed independently before you view the solutions - but you do not need to turn these in.
+I have organized the course into 3 weeks, with each week containing several modules.  Programming example solutions are posted within the modules they are presented in.  It is critical that you keep pace with the course and complete the modules and assignments during the week they are posted.  Homework assignments (one per week) are due Sunday (see individual assignments below) evenings at 11:59pm.  No late work will be accepted, so please try to start the programs early.  Programming Examples presented with each module should be completed independently before you view the solutions - but you do not need to turn these in.
 
 You may work ahead of the pace, **and are encouraged to do so**.  
 
-The Mid Term exam (see proctoring details below in exam section) will include up to and including Module 12.  The Final Exam will be comprehensive and include content from all Modules
+The Mid Term exam will include up to and including Module 12.  The Final Exam will be comprehensive and include content from all Modules.
 
 
 ## Homework
@@ -113,24 +109,22 @@ There are three assigned homework problems, with due dates listed below.  Homewo
 
 |Link to Homework Assignment| Due Date
 |--|----
-| [Homework 1](../hw/hw1/) | 12/27/2015 (Sunday night)
-| [Homework 2](../hw/hw2/) | 1/3/2016 (Sunday night)
-| [Homework 3](../hw/hw3/) | 1/15/2016 (Friday night)
-| [Homework for CS Majors (*see below*)](../hw/hw_cs_elective/) | 1/15/2016 (Friday night)
+| [Homework 1](../hw/hw1/) | 1/1/2017 (Sunday night)
+| [Homework 2](../hw/hw2/) | 1/8/2017 (Sunday night)
+| [Homework 3](../hw/hw3/) | 1/14/2017 (Saturday night)
+| [Homework for CS Majors (*see below*)](../hw/hw_cs_elective/) | 1/14/2017 (Saturday night)
 
 **CS Majors** - If you are a computer science major, you may elect to complete the last "bonus" homework assignment.  If you complete it satisfactorily, you will be permitted to count this course as one of your required CS electives.  **Note - you do not need to take this option** if you are simply taking this course for credits, this is only necessary if you want this course to count specifically as a CS elective, or if you want this to be included in your computer science "major GPA".  If you complete this assignment, your homework grade (20% of course) will be averaged from all four completed assignments instead of three.
 
-**Non-CS Majors** - The extra 5th assignment is geared towards **CS majors only**, and requires you to work extensively in C++ as well as Python.  You should not view this as an extra credit opportunity, or anything like that.  If you wish, on your own time, to give it a try - enjoy!  You will learn a lot, but please do not view this as something your are in any way expected to work on as part of your course credit.
+**Non-CS Majors** - The extra 4th assignment is geared towards **CS majors only**, and requires you to work extensively in C++ as well as Python.  You should not view this as an extra credit opportunity, or anything like that.  If you wish, on your own time, to give it a try - enjoy!  You will learn a lot, but please do not view this as something your are in any way expected to work on as part of your course credit.
 
 ## Exams (Mid Term and Final)
-Midterm and Final Exams will be proctored, **meaning you will be required to come to campus twice during the five week semester**.  Special accommodations/waivers for this policy will be made on a case-by-case basis, typically for students who attend other institutions as their primary degree-granting school or Ramapo students who live beyond reasonable commuting distance (~1 hour) from campus.  **This must be negotiated with the instructor before December 28th**.  
-
-Exam proctoring will be scheduled with every attempt to accommodate student schedules, including a night session to allow working students to attend.  The exams will last 3 hours each.
+Midterm and Final Exams will be taken remotely, you will not need to come to campus.  Exams must be taken during one of two designated time slots (see below), and are to be completed within the three hour time window.  
 
 |  | Modules Covered | Date
 |--|---|---
-| **Mid Term Exam** | Modules 1-12 | Wednesday, 1/6/2016 (9am or 6pm)
-| **Final Exam** | Modules 13-23 | Friday, 1/15/2016 (9am or 6pm)
+| **Mid Term Exam** | Modules 1-12 | Friday, 1/6/2017 (9am or 6pm)
+| **Final Exam** | Modules 13-23 | Friday, 1/13/2017 (9am or 6pm)
 
 You will be required to let me know in advance which session (9am or 6pm) you intend to attend.
 
