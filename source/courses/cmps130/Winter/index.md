@@ -113,7 +113,7 @@ There are three assigned homework problems, with due dates listed below.  Homewo
 | [Homework 2](../hw/hw2/) | 1/8/2017 (Sunday night)
 | [Homework 3](../hw/hw3/) | 1/14/2017 (Saturday night)
 | [Homework for CS Majors (*see below*)](../hw/hw_cs_elective/) | 1/14/2017 (Saturday night)
-
+ 
 **CS Majors** - If you are a computer science major, you may elect to complete the last "bonus" homework assignment.  If you complete it satisfactorily, you will be permitted to count this course as one of your required CS electives.  **Note - you do not need to take this option** if you are simply taking this course for credits, this is only necessary if you want this course to count specifically as a CS elective, or if you want this to be included in your computer science "major GPA".  If you complete this assignment, your homework grade (20% of course) will be averaged from all four completed assignments instead of three.
 
 **Non-CS Majors** - The extra 4th assignment is geared towards **CS majors only**, and requires you to work extensively in C++ as well as Python.  You should not view this as an extra credit opportunity, or anything like that.  If you wish, on your own time, to give it a try - enjoy!  You will learn a lot, but please do not view this as something your are in any way expected to work on as part of your course credit.

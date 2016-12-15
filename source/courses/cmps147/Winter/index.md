@@ -1,4 +1,4 @@
-# CMPS 147 Winter 2016
+# CMPS 147 Winter 2017
 ## Introduction to Computer Science 1
 
 **Meeting Time:  **This is an online course
@@ -21,7 +21,6 @@ If you have never taken an online course, you may be surprised how easy it is to
 
 ### How to get help:
 I will respond to emails very quickly, so whenever you are struggling with a concept, program, or anything else - please get in touch.  It is best to send me your code as an attachment with any email, so I can see precisely what you are doing.  I will hold office hours by appointment, just email me and we'll work out a time to meet on campus.
-
 
 ## Co-Requisites
 100 level General Education Math.
@@ -56,7 +55,7 @@ used throughout the semester.  The textbook can be purchased at the college book
 ## Modules
 The entire course has been broken into 30 individual modules.  Each module is posted as a slide show, and as a recorded video lecture (around 30-60 minutes in length each).  Each module will list, on the first slide, where in the textbook the topics discussed will be found.  You should approach each module as a set of resources - composed of the book chapter sections, the slides, the video, and the associated programming examples.  The textbook should be considered a required resource.
 
-### Week 1 - 12/23 - 12/26
+### Week 1 - 12/23 - 1/1
 | Module  | Topic | Lecture Slides|  Recorded Video
 |--|:--|:--|:--|:--
 | 0 | Course Policies | [Slides](https://docs.google.com/presentation/d/1Sggyft8QRdvOnpAxCT9wuvFkTrjg7AQaOKHEt50u4AQ/pub?start=false&loop=false&delayms=3000) |
@@ -70,7 +69,7 @@ The entire course has been broken into 30 individual modules.  Each module is po
 | 8 | Problem Solving with Functions | [Slides](https://docs.google.com/presentation/d/1qMVAFY4SKhYF1RuS55rhVTV8DO1c58QCkGiRUWtUVUk/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/1CEIwo8eMsU)|
 | 9 | Output Formatting | [Slides](https://docs.google.com/presentation/d/1OSsv_Np5BbXmjSTpDw0xYRypeUC6lDB6b_zyjcyLvfY/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/P5MMuS3Sry4) |
 
-### Week 2 -  12/27 - 1/3
+### Week 2 -  1/2 - 1/8
 | Module  | Topic | Lecture Slides|  Recorded Video
 |:--|:--|:--|:--
 | 10 | Boolean Data and Relational Operators | [Slides](https://docs.google.com/presentation/d/1P2xeMbC0ymAoOGY91VbRnup2dd06wB8q8uAN_i31XYw/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/ECeK3pLplgg)
@@ -83,7 +82,7 @@ The entire course has been broken into 30 individual modules.  Each module is po
 | 17 | Do-while Loops | [Slides](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000) | [Video](http://youtu.be/4VMQOH_F9Yk)
 | 18 | for loops | [Slides](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/U3S2JntuwQA)
 
-### Week 3   1/4 - 1/10
+### Week 3   1/9 - 1/14
 | Module  | Topic | Lecture Slides|  Recorded Video
 |:--|:--|:--|:--
 | 19 | Introduction to functions | [Slides](https://docs.google.com/presentation/d/10JM5mVOvcGEjWy2Nhs9yUHro8cBkzws2anCc397tQ-Y/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/PqFi-oiFq5w)
@@ -96,12 +95,8 @@ The entire course has been broken into 30 individual modules.  Each module is po
 | 26 | Partially filled arrays | [Slides](https://docs.google.com/presentation/d/19jKmGVfr8OnuXkObjkXmmJVAvmdIfhlOUIfrHBmYSO0/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/q2p6dtoyAog)
 | 27 | Arrays and Functions | [Slides](https://docs.google.com/presentation/d/1B3sILuHFmO9ffIqHZ5sxFlA2kKRp0dIlVc5OpQ5jAEE/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/kuR3TGN8zTE)
 | 28 | Sorted Arrays | [Slides](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/T1JDnYX0YZc)
-
-### Week 4  - 1/11 - 1/15
-| Module  | Topic | Lecture Slides|  Recorded Video
-|:--|:--|:--|:--
 | 29 | C-Strings | [Slides](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/AjnK9pmUgDs)
-| 30 | The string class | [Slides](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/BI-ERMHEkZw)
+
 
 ## Programming Examples
 The majority of modules will include several programming examples.  The module’s video lecture will include a recording of the solution being developed.  Source code for solutions to the programming examples is also provided on moodle (and below).  I highly recommend that you practice these examples without looking at the lecture videos or source code solutions as a method of preparing for the course’s exams.
@@ -109,11 +104,11 @@ The majority of modules will include several programming examples.  The module�
 All programming example source code from the modules is found in [Programming Examples.zip](../ProgrammingExamples.zip)
 
 ## Recommended Pace
-I have organized moodle into 4 weeks, with each week containing several modules.  Programming example solutions are posted within the same week as the modules they are presented in.  It is critical that you keep pace with the course and complete the modules and labs during the week they are posted.  Lab assignments (roughly 3 per week) and Homework assignments (one per week) are due Friday or Saturday (see individual assignments below) evenings at 11:59pm.  No late work will be accepted, so please try to start the programs early.  
+I have organized moodle into 3 weeks, with each week containing several modules.  Programming example solutions are posted within the same week as the modules they are presented in.  It is critical that you keep pace with the course and complete the modules and labs during the week they are posted.  Lab assignments (roughly 3 per week) and Homework assignments (one per week) are due Saturday or Sunday (see individual assignments below) evenings at 11:59pm.  No late work will be accepted, so please try to start the programs early.  
 
 You may work ahead of the pace on moodle, and are encouraged to do so.  All contents is loaded onto moodle on the first day of class.  The pace set on moodle and above can be best thought of as your minimum pace.  
 
-The Mid Term exam (see proctoring details below in exam section) will include up to and including Module 18.  The Final Exam will be comprehensive and include content from all Modules
+The Mid Term exam will include up to and including Module 18.  The Final Exam will be comprehensive and include content from all Modules
 
 # Course Assignments
 You learn to program best by… programming a lot!  In this course I will be expecting you to write 3-4 programs each week of varying length.  These will be in the form of Labs and Homework programs.  You must submit all programs on moodle through the appropriate assignment links at the top of the course page.  It is imperative that you only submit the .cpp (source code) files when turning in your assignments.  I will build your programs and run them, so always triple check that you are submitting source code, and not some other Visual Studio related file (there are many!).  Note, in the first Module’s video, I will provided details instructions on how to get this right.
@@ -126,39 +121,36 @@ Labs represent 10% of your semester grade, so each lab is actually only less tha
 
 |Link to Lab Assignment| Due Date
 |--|----
-| [Lab 1](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.g33af15c55_0144) | 12/27/2015 (Sunday night)
-| [Lab 2](https://docs.google.com/presentation/d/1fbiI6n8cNwljDS2yUH-PR_Kr1UpfdgKizWuqt-5IIFE/pub?start=false&loop=false&delayms=3000&slide=id.g33b4d3301_0137) | 12/27/2015 (Sunday night)
-| [Lab 3](https://docs.google.com/presentation/d/1HYuMZ8fHBVKqX1GziqB4pWJLyaPePKVJxOYYjYUBCNM/pub?start=false&loop=false&delayms=3000#slide=id.g33b873ba6_081) | 12/27/2015 (Sunday night)
-| [Lab 4](https://docs.google.com/presentation/d/1OSsv_Np5BbXmjSTpDw0xYRypeUC6lDB6b_zyjcyLvfY/pub?start=false&loop=false&delayms=3000#slide=id.g1807909b6_0114) | 12/27/2015 (Sunday night)
-| [Lab 5](https://docs.google.com/presentation/d/1E-4ps_HhL6_UeKZKHEBx2UNV11EVhyvkRmVxasE_llE/pub?start=false&loop=false&delayms=3000#slide=id.g180824865_065) | **1/3/2016 (Sunday night)**
-| [Lab 6](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000#slide=id.g180819e3b_078) | **1/3/2016 (Sunday night)**
-| [Lab 7](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000#slide=id.g180825c8b_092) | **1/3/2016 (Sunday night)**
-| [Lab 8](https://docs.google.com/presentation/d/1Y5PBeJYMusRU-4FYvzM60_MiFaqRyGrKSTswcsF-bFQ/pub?start=false&loop=false&delayms=3000#slide=id.g180b604f6_093) | 1/10/2016 (Sunday night)
-| [Lab 9](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000#slide=id.g18155d4d1_031) | 1/10/2016 (Sunday night)
-| [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | 1/10/2016 (Sunday night)
-| [Lab 11](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | **1/15/2016 (Friday night)**
-| [Lab 12](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000#slide=id.g33e80658c_0161) | **1/15/2016 (Friday night)**
-
+| [Lab 1](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.g33af15c55_0144) | 1/1 (Sunday night)
+| [Lab 2](https://docs.google.com/presentation/d/1fbiI6n8cNwljDS2yUH-PR_Kr1UpfdgKizWuqt-5IIFE/pub?start=false&loop=false&delayms=3000&slide=id.g33b4d3301_0137) | 1/1 (Sunday night)
+| [Lab 3](https://docs.google.com/presentation/d/1HYuMZ8fHBVKqX1GziqB4pWJLyaPePKVJxOYYjYUBCNM/pub?start=false&loop=false&delayms=3000#slide=id.g33b873ba6_081) | 1/1 (Sunday night)
+| [Lab 4](https://docs.google.com/presentation/d/1OSsv_Np5BbXmjSTpDw0xYRypeUC6lDB6b_zyjcyLvfY/pub?start=false&loop=false&delayms=3000#slide=id.g1807909b6_0114) | 1/1 (Sunday night)
+| [Lab 5](https://docs.google.com/presentation/d/1E-4ps_HhL6_UeKZKHEBx2UNV11EVhyvkRmVxasE_llE/pub?start=false&loop=false&delayms=3000#slide=id.g180824865_065) | 1/8 (Sunday night)
+| [Lab 6](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000#slide=id.g180819e3b_078) | 1/8 (Sunday night)
+| [Lab 7](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000#slide=id.g180825c8b_092) | 1/8 (Sunday night)
+| [Lab 8](https://docs.google.com/presentation/d/1Y5PBeJYMusRU-4FYvzM60_MiFaqRyGrKSTswcsF-bFQ/pub?start=false&loop=false&delayms=3000#slide=id.g180b604f6_093) | **1/14 (Saturday night)**
+| [Lab 9](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000#slide=id.g18155d4d1_031) | **1/14 (Saturday night)**
+| [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | **1/14 (Saturday night)**
+| [Lab 11](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | **1/14 (Saturday night)**
+s
 ## Homework
 There are four assigned homework problems, with due dates listed on moodle (and below).  Homework programs will likely require 3-6 hours of your time, and will be more involved and complex than your lab assignments.  I will provide more detailed feedback on homework, and grading will be more discerning.  Homework programs 20% of your semester grade, each being 5%.  Like labs, no late homework will be accepted.
 
 |Link to Homework Assignment| Due Date
 |--|----
-| [Homework 1](../hw1/Homework1.html) | 12/27/2015 (Sunday night)
-| [Homework 2](../hw2/Homework2.html) |  1/3/2016 (Sunday night)
-| [Homework 3](../hw3/Homework3.html) |  1/10/2016 (Sunday night)
-| [Homework 4](../hw4/Homework4.html) | 1/15/2016 (Friday night)
+| [Homework 1](../hw1/Homework1.html) |  1/1 (Sunday night)
+| [Homework 2](../hw2/Homework2.html) |  1/8 (Sunday night)
+| [Homework 3](../hw3/Homework3.html) |  1/14 (Saturday night)
+
 
 
 ## Exams (Mid Term and Final)
-Midterm and Final Exams will be proctored, **meaning you will be required to come to campus twice during the four week semester**.  Special accommodations/waivers for this policy will be made on a case-by-case basis, typically for students who attend other institutions as their primary degree-granting school or Ramapo students who live beyond reasonable commuting distance (~1 hour) from campus.  **This must be negotiated with the instructor before December 28th, 2015**.  
-
-Exam proctoring will be scheduled with every attempt to accommodate student schedules, including a night session to allow working students to attend.  The exams will last 3 hours each.
+Midterm and Final Exams will be taken remotely, you will not need to come to campus.  Exams must be taken during one of two designated time slots (see below), and are to be completed within the three hour time window.  
 
 |  | Modules Covered | Date
 |--|---|---
-| **Mid Term Exam** | Modules 1-18 | Wednesday, 1/6/2016 (9am or 6pm)
-| **Final Exam** | Modules 19-31 | Friday, 1/15/2016 (9am or 6pm)
+| **Mid Term Exam** | Modules 1-12 | Friday, 1/6/2017 (9am or 6pm)
+| **Final Exam** | Modules 13-23 | Friday, 1/13/2017 (9am or 6pm)
 
 You will be required to let me know in advance which session (9am or 6pm) you intend to attend.
 
