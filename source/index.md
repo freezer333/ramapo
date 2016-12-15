@@ -25,6 +25,7 @@ Mahwah, NJ 07430
 |Course
 |:--|
 |[CMPS 130 - Scientific Programming with Python](courses/cmps130/Winter)
+|[CMPS 147 - Intro to Computer Science 1](courses/cmps147/Winter)
 ** Winter office hours by appointment only.
 
 [See all the courses I teach on a regular basis](courses/)
