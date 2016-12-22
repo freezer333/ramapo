@@ -34,7 +34,7 @@ A study of the design, use, and analysis of operating systems. The course will i
 ## [CMPS 342 - Computer Graphics](cmps342)
 An introduction to computer graphics.  The course will include relevant coordinate geometry, graphic devices, primitive graphics operations, polygons, transformations, windows, clipping, and three-dimensional graphics.  The course teaches the fundamental techniques and skills of Computer Graphics utilizing WebGL - which is a modern graphics library built on OpenGL ES 2.0 and supported on nearly all modern computing devices, including mobile devices.  In addition to pure 3D computer graphics, students will also learn how to utilize the web - using HTML and JavaScript to deliver their 3D visualizations
 
-*I teach this each every three semesters (typically) - this course will next be offered Spring 2016*
+*I teach this each every three semesters (typically)*
 
 ## [CMPS 364 - Database Systems](cmps364)
 
@@ -56,9 +56,5 @@ JavaScript is covered as the primary language for both client side development (
 The course also introduces the MVC (Model View Controller) architecture for web development and covers the Express framework including EJS and Jade templating. An overview of other popular languages and frameworks such as LESS, Ruby on Rails, ASP.NET MVC, and PHP are also provided to increase the breadth of the students’ knowledge in the field.
 Note, this course is taught under the assumption that the student has programming knowledge and experience in an object-oriented language such as C++ or Java, as it JavaScript is used extensively throughout the semester. The emphasis of this course is web development from an application programmer’s perspective. It is a technical course, not suitable for students without an adequate background in computer science.
 
-*I teach this each every three semesters (typically) - this course will next be offered Fall 2015*
+*I teach this each every three semesters (typically) - this course will next be offered Fall 2017*
 
-## [HNRS 420 - Computation and Society](hnrs420)
-The focus of this course is the exploration of how computers have, and continue to transform our society. The course will begin with a historical, and hands-on study of how a computer and the software that drives it is created, including a topical treatment of programming to familiarize the student with computing. The course will then focus on the major innovations that computing is enabling in our society, and how these impact economics, ethics, and law. This will include topics such as hacking and identity/financial fraud, crypto currencies such as Bitcoin, data mining and privacy issues, and the effects of automation and computerization on economic and social imbalances. This course does not assume any previous experience in computer programming.
-
-*This course will be offered in the Spring of 2015 and Spring of 2016.  It is only available for students in the Ramapo College Honors program.*
