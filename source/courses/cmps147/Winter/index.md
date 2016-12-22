@@ -28,8 +28,7 @@ I will respond to emails very quickly, so whenever you are struggling with a con
 ## Course Materials
 You must have access to the internet and a computer suitable for installing Microsoft Visual Studio (i.e. any computer running Microsoft Windows 7 or Windows 8).   Microsoft Visual Studio is freely available - please consult the directions/tuturial [located here](../vs/VisualStudioAtHome.html).
 
-If you have a Mac (or run Linux), you will be
-able to install similar programs on these machines - I will provide you tutorials and instructions upon request.
+If you have a Mac (or run Linux), you will be able to install similar programs on these machines.  For Mac users, [click here](../../xcode) for instructions on using Xcode.
 
 You are required to obtain a copy of the textbook for this course, which will be an extremely critical resource
 used throughout the semester.  The textbook can be purchased at the college bookstore, or easily online (click image link below):
@@ -58,7 +57,7 @@ The entire course has been broken into 30 individual modules.  Each module is po
 ### Week 1 - 12/23 - 1/1
 | Module  | Topic | Lecture Slides|  Recorded Video
 |--|:--|:--|:--|:--
-| 0 | Course Policies | [Slides](https://docs.google.com/presentation/d/1Sggyft8QRdvOnpAxCT9wuvFkTrjg7AQaOKHEt50u4AQ/pub?start=false&loop=false&delayms=3000) |
+| 0 | Course Policies | [Slides](https://docs.google.com/presentation/d/1Sggyft8QRdvOnpAxCT9wuvFkTrjg7AQaOKHEt50u4AQ/pub?start=false&loop=false&delayms=3000) | [Video](https://youtu.be/3ztgV6vj1O8)
 | 1 | Fundamentals of Computing | [Slides](https://docs.google.com/presentation/d/11QGJH0p3mvy7uSppzoAyRbQePkvz03sL8LJuFIUjykA/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/brLBuCwRcWc)
 | 2 | Programming Abstractions | [Slides](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video 1](http://youtu.be/XudnG5UWDM4) - [Video 2](http://youtu.be/kGtix9-Pr0o)
 | 3 | Syntax, Literals, Operators | [Slides](https://docs.google.com/presentation/d/1Czj8UntL0MBlzYiomOdn9I_lhG3m2ismnMtcTzM4Yvw/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/9TOcrOcc8BE)
