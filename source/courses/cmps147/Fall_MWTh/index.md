@@ -110,7 +110,7 @@ It is your responsibility to view the Modules (and complete the assigned reading
 | 30 | The string class | [Slides](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/BI-ERMHEkZw)
 
 ### Programming Examples
-The majority of modules will include several programming examples.  The module’s video lecture will include a recording of the solution being developed.  Source code for solutions to the programming examples is also provided on appiversity (and below).  I highly recommend that you practice these examples without looking at the lecture videos or source code solutions as a method of preparing for the course’s exams.
+The majority of modules will include several programming examples.  The module’s video lecture will include a recording of the solution being developed.  Source code for solutions to the programming examples is also provided on Moodle (and below).  I highly recommend that you practice these examples without looking at the lecture videos or source code solutions as a method of preparing for the course’s exams.
 
 All programming example source code from the modules is found in [Programming Examples.zip](../ProgrammingExamples.zip)
 

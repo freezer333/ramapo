@@ -86,7 +86,7 @@ Labs represent 10% of your semester grade, so each lab is actually only slightly
 | [Lab 4](Labs/lab4/) | 10/10/2016 @12:40pm
 | [Lab 5](Labs/lab5/) | 10/20/2016 @12:40pm
 | [Lab 6](Labs/lab6/) | 11/7/2016 @12:40pm
-| [Lab 7](Labs/lab7/) | 12/5/2016 @12:40pm
+| [Lab 7](Labs/lab7/) | 12/9/2016 @12:40pm
 
 
 ## Homework
