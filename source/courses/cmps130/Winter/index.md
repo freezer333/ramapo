@@ -18,11 +18,9 @@ This course covers common computational approaches to solving scientific problem
 The course is specifically geared towards students with high aptitude in math, science, and critical thinking.  Previous programming experience is recommended, but not required.  The course will provide sufficient introduction to computer programming to the non-major, previous course work in computer science is not required.  The course’s emphasis on numerical problem solving and data analysis, along with the introduction to the Python programming language, makes it a relevant and valuable course for computer science majors at the sophomore/junior level and for science students wishing to learn how programming can help them in their fields.
 
 ## Welcome Video and Syllabus Overview
-<div class="highlight">The syllabus overview video below was recorded for the 2016 Summer Session.  **The information presented 100% accurate to the Winter session**, except due dates.  The due dates that you see on my screen while I'm talking are NOT FOR THE WINTER SESSION.  Please see all the text on this website for accurate due dates for the Winter Session.
-</div>
 
 <video width="420" height="315" controls poster="http://pages.ramapo.edu/~sfrees/courses/cmps130/welcome.jpg">
-  <source src="http://pages.ramapo.edu/~sfrees/courses/cmps130/welcome.mp4" type="video/mp4">
+  <source src="https://pages.ramapo.edu/~sfrees/courses/cmps130/welcome.mp4" type="video/mp4">
   Your browser does not support the video tag.  This video can also be viewed on YouTube <a href="https://youtu.be/z10QvnElMB4">here</a>
 </video>
 
