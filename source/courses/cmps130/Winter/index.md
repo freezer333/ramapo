@@ -27,7 +27,7 @@ The course is specifically geared towards students with high aptitude in math, s
 </video>
 
 <video width="420" height="315" controls>
-  <source src="../syllabus.mp4" type="video/mp4">
+  <source src="http://pages.ramapo.edu/~sfrees/courses/cmps130/syllabus.mp4" type="video/mp4">
   Your browser does not support the video tag.  This video can also be viewed on YouTube <a href="https://youtu.be/NCl09PRSepc">here</a>
 </video>
 

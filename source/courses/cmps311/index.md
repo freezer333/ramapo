@@ -1,4 +1,4 @@
-# CMPS 311 - Operating Systems - Spring 2016
+# CMPS 311 - Operating Systems - Spring 2017
 **Meeting Time:  **&nbsp;&nbsp;Mondays, Wednesday, and Thursdays, 9:30am - 10:40am
 **Location:  **&nbsp;&nbsp;ASB Room 429
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
@@ -57,13 +57,13 @@ Click [here](code/) for source code discussed in lectures throughout the semeste
 ## Homework Assignments
 Homework assignments are worth 100 points, and are turned in electronically, on Moodle.
 
-* [Homework 1](hw/hw1)  - Due on 1/28/16
-* [Homework 2](hw/hw2)  - Due on 2/3/16
-* [Homework 3](hw/hw3)  - Due on 2/8/16
-* [Homework 4](hw/hw4)  - Due on 2/17/16
-* [Homework 5](hw/hw5)  - Due on 3/2/16
-* [Homework 6](hw/hw6)  - Due on 3/31/16
-* [Homework 7](hw/hw7)  - Due on 4/27/15
+* [Homework 1](hw/hw1)  - Due on 1/26/17
+* [Homework 2](hw/hw2)  - Due on 2/1/17
+* [Homework 3](hw/hw3)  - Due on 2/6/17
+* [Homework 4](hw/hw4)  - Due on 2/15/17
+* [Homework 5](hw/hw5)  - Due on 3/1/17
+* [Homework 6](hw/hw6)  - Due on 3/27/17
+* [Homework 7](hw/hw7)  - Due on 4/26/17
 
 <hr class="print-page"/>
 
@@ -80,8 +80,8 @@ You will write a written report on the history, evolution, and design of ONE of 
 
 The paper will technical aspects of the platforms, but largely focus on the its history and development.  While technical details are must (for example, what type of filesystem does the OS use?), your efforts on this report should be directed on clearly articulating where the operating system came from (did it evolve from something else?), how it became what it is today (were there any releases that were failures, spectacular successes?), and where it is headed (is it on its way out, or is it primed to take over the world?).
 
-* A first draft is due on 3/30/2016.  This draft is expected to be a complete paper, and you will be graded on its quality.  I will offer advice for revisions.
-* Your final draft is due the last day of the Fall 2015 semester (before finals).  Your grade is based on the quality of your writing, the depth in which you covered the subject, and how you responded to revision requests from your first draft.
+* A first draft is due on 3/30/2017.  This draft is expected to be a complete paper, and you will be graded on its quality.  I will offer advice for revisions.
+* **Your final draft is due the last day of class (before finals)**.  Your grade is based on the quality of your writing, the depth in which you covered the subject, and how you responded to revision requests from your first draft.
 
 
 

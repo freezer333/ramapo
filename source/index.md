@@ -12,21 +12,13 @@ Ramapo College of New Jersey
 505 Ramapo Valley Road
 Mahwah, NJ 07430
 
-# Fall 2016 Course Schedule
+# Spring 2017 Course Schedule
 |Course|Time|Room
 |:--|---|---|
-|[CMPS 147 - Intro to Computer Science 1](courses/cmps147/f16m)|Mondays 2pm-3:40pm|ASB 429
-|[CMPS 147 - Intro to Computer Science 1](courses/cmps147/f16th)|Thursdays 6pm-7:40pm|ASB 429
-|[CMPS 148 - Intro to Computer Science 2](courses/cmps148/)|Mondays and Thursdays 11am-12:40pm|ASB 429
-|[CMPS 369 - Web Application Development](courses/cmps369/)|Mondays, Wednesdays, and Thursdays 9:30am-10:40am|ASB 429
-** Fall 2016 Office Hours (starting 9/14/16)**:  Wednesdays 10:45am-12:15pm and Thursdays 4:30pm-6pm
-
-# Winter 2017 Course Schedule
-|Course
-|:--|
-|[CMPS 130 - Scientific Programming with Python](courses/cmps130/Winter)
-|[CMPS 147 - Intro to Computer Science 1](courses/cmps147/Winter)
-** Winter office hours by appointment only.
+|[CMPS 311 - Operating Systems](courses/cmps311)|Mondays, Wednesdays, and Thursdays 9:30am-10:40am|ASB 429
+|[CMPS 342 - Computer Graphics](courses/cmps342)|Mondays and Thursdays 11am-12:40pm|ASB 429
+|[CMPS 364 - Database Systems](courses/cmps364/)|Thursdays 6:00pm-19:30pm|ASB 429
+** Spring 2017 Office Hours (starting 1/19/17)**:  Wednesdays 10:45am-12:15pm and Thursdays 4:30pm-6pm
 
 [See all the courses I teach on a regular basis](courses/)
 

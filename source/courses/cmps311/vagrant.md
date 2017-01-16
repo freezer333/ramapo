@@ -13,7 +13,7 @@ In this document, I will show you likely the *easiest* way to get up and running
 The virtualization software I'll use in this document is called [Vagrant](https://www.vagrantup.com/).  It is free software.  It actually depends on VirtualBox, so the first step is to download both.
 
 ## Download Vagrant and VirtualBox
-Go to the Vagrant [download link](https://www.vagrantup.com/downloads) and be sure to choose the right platform (Mac OS X, Windows).
+Go to the Vagrant [download link](https://www.vagrantup.com/downloads.html) and be sure to choose the right platform (Mac OS X, Windows).
 
 Go to the VirtualBox [download link](https://www.virtualbox.org/wiki/Downloads) and make sure you download the install for the right platform as well (under VirtualBox platform packages)
 

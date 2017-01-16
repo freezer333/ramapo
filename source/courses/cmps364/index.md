@@ -1,9 +1,10 @@
-# CMPS 364 Spring 2016
+# CMPS 364 Spring 2017
 ## Database Design
 
 **Meeting Time:  **&nbsp;&nbsp;Thursdays, 6pm-9:30pm
 **Location:  **&nbsp;&nbsp;ASB Room 429
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
+Office Hours &nbsp;&nbsp;Wednesdays 11am-12pm and Thursday 4-5pm
 
 ** Contact Information**
 Office&nbsp;&nbsp;G315
@@ -14,7 +15,7 @@ Email&nbsp;&nbsp;[sfrees@ramapo.edu](mailto:sfrees@ramapo.edu)
 This course provides in-depth treatment of relational database design, the Structured Query Language (SQL), along with non-traditional databases such as key and document stores.
 The first portion of the semester is dedicated to relational schema design, emphasizing normalization, ER and UML modeling, and aspects of the SQL DDL for creating constraints and relationships between data models.
 
-The second segment of the semester is focused on SQL and query design. We will use the H2 database through the Java programming language, utilizing JDBC.
+The second segment of the semester is focused on SQL and query design. We will use the SQLite database through the JavaScript programming language running in Node.js.
 
 The third portion of the class is dedicated to a variety of different technologies related to data representation, storage, and retieval. This includes XML/XSLT, JSON and MongoDB, and the Redis key-store database.
 
@@ -31,9 +32,10 @@ CMPS 231 Data Structures
 *Note, the textbook is required for this course, and will be relavent to nearly each lecture.*
 
 ## Programming Environment
-This course will require you to write SQL and Java code. A simple text editor is all that is necessary, however installing a good programming editor is highly recommended. In addition, you will also need to install H2. H2 is a Java-based database implementation which is compatable with all major operating systems (Windows, Mac OS X, Linux) as long as Java has been installed on the system.  It is highly recommended that you have access to your own computer to do your development on.
+This course will require you to write SQL and JavaScript code. You will need to install Node.js (JavaScript runtime) on your machine to do the programming work, however this will be explained in detail during class.  A simple text editor is all that is necessary for your programming, however installing a good programming editor is highly recommended. In addition, you will also need to install SQLite. SQLite is a relational database compatable with all major operating systems (Windows, Mac OS X, Linux).  It is highly recommended that you have access to your own computer to do your development on.
 
-When we begin programming with Java, you are encouraged to download [eclipse](http://www.eclipse.org/downloads/). Please make sure you download and install the newest version of the standard edition (or the another more specialized edition). We will go over the creation of programs in eclipse during class time.
+### SQLite
+You can download SQLite (for Windows, Mac, or Linux) [here](https://sqlite.org/).  SQLite comes with a command line interface (CLI) which is described in much detail [here](https://sqlite.org/cli.html).  You may use the CLI if you wish, but you might also find a graphical front-end a bit easier to work with.  I recommend installing [DB Browser for SQLite](http://sqlitebrowser.org/) for this purpose.  You may download the **portable** version (Windows) for use on campus lab machines.  
 
 ## Course Objectives
 * Theoretical basis for relational database design
@@ -44,7 +46,7 @@ When we begin programming with Java, you are encouraged to download [eclipse](ht
 * Constraints and Triggers
 * Views
 * Index implementation
-* Programming against Databases using Java (JDBC, JPA)
+* Programming against Databases using JavaScript / Node.js
 * XML and XPATH/XSLT
 * Use of Document-store database (MongoDB)
 
@@ -60,11 +62,10 @@ Below is a tentative schedule for the course.  All topics and due dates are subj
 ## Homework Assignments
 Homework assignments are worth between 50 and 100 points, and are turned in electronically as well.  
 
-* [Homework 1](hw/hw1.html)  - Due on 2/11/16
-* [Homework 2](hw/hw2.html)  - Due on 2/18/16
-* [Homework 3](hw/hw3.html)  - Due on 3/3/16
-* [Homework 4](hw/hw4.html)  - Due on 3/24/16
-* [Homework 5](hw/hw5.pdf)  - Due on 4/28/16
+* [Homework 1](hw/hw1.html)  - Due on 2/9/17
+* [Homework 2](hw/hw2.html)  - Due on 2/16/17
+* [Homework 3](hw/hw3.html)  - Due on 3/23/17
+* [Homework 4](hw/hw4.html)  - Due on 4/20/17
 
 ## Late Policy
 All assignments will be turned in electronically.  A late penalty of 5 points per day will be applied to all late assignments.  The required format/method of your electronic submissions will be outlined for each assignment.  Deviation from these requirements may result in a 5-point penalty.  
