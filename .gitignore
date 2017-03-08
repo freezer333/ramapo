@@ -16,3 +16,4 @@ site/
 sftpCache.json
 .ftppass
 Gruntfile.js
+.vscode*

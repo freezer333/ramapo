@@ -2,6 +2,8 @@
 
 ## Introduction to Computer Science 1
 
+<div class="highlight">Please note that this syllabus has not yet been updated for the Summer 2017 session.  All dates are from last year, however most of the content is still accurate.  This course page will be updated soon.</div>
+
 **Meeting Time:  **This is an online course
 **Location:  **This is an online course
 **Date:  **May 23rd - June 27th, 2016

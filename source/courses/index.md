@@ -4,11 +4,11 @@ I regularly teach eight computer science courses that count toward the CS major,
 **Attention Computer Science Majors:**  be sure to review your [requirements](http://www.ramapo.edu/catalog-2014-2015/tas/compscience/) and [four-year plan](http://www.ramapo.edu/four-year-2014-2015/tas/computer-science/) when selecting courses.
 
 ## [CMPS 130 - Scientific Programming with Python](cmps130/Summer)
-This course covers common computational approaches to solving scientific problems using the Python programming language.  The first half of the course is dedicated to mastery of the Python language within the context of fundamental computer science topics, such object orientation, algorithmic complexity, recursion, and debugging/testing.  The second half of the course focuses on practical scientific applications of Python in data analysis and experimentation.  Student will develop programs using stochastic models, experimental probability and statistics, Monte Carlo simulation, regression analysis, and dynamic programming.  PyLab, a graphing library similar to MatLab, will be utilized such that students can develop programs to report results using scatter plots, bar graphs, histograms, etc.  
+This course covers common computational approaches to solving scientific problems using the Python programming language.  The course is dedicated to mastery of the Python language within the context of fundamental computer science topics, such object orientation, algorithmic complexity, recursion, and debugging/testing.  
 
-The course is specifically geared towards students with high aptitude in math, science, and critical thinking.  Previous programming experience is recommended, but not required.  The course will provide sufficient introduction to computer programming to the non-major, previous course work in computer science is not required.  The course’s emphasis on numerical problem solving and data analysis, along with the introduction to the Python programming language, makes it a relevant and valuable course for computer science majors at the sophomore/junior level.
+The course is specifically geared towards students with no (or just a little) previous programming experience.
 
-**Attention Computer Science Majors**: this course does NOT count as one of your [7 required upper-level electives](http://www.ramapo.edu/catalog-2014-2015/tas/compscience/).  However, with approval, this course can be taken in conjunction with an additional project geared towards more advanced students which allows for it to count towards your 7 required electives through Ramapo's course equivalency procedures.  **See me for details**.
+**Attention Computer Science Majors**: this course does NOT count as one of your [7 required upper-level electives](http://www.ramapo.edu/catalog-2014-2015/tas/compscience/).  Please see CMPS 367 (Advanced Topics) for a Python course offered over the summer/winter sessions that DOES count as a CS Elective.
 
 ## [CMPS 147 - Introduction to Computer Science](cmps147/Summer)
 An introduction to programming methodology including: basic concepts of computer systems, the programming languages C/C++, algorithm design, program development, implementation, and testing.
@@ -47,6 +47,14 @@ The third portion of the class is dedicated to a variety of different technologi
 While the course will include discussions on database security, data protection, and administration, the primary focus of the course is software development using databases.
 
 *I teach this each every three semesters (typically)*
+
+
+## [CMPS 367 - Advanced Topics - Scientific Programming with Python](cmps367/Summer)
+This course covers common computational approaches to solving scientific problems using the Python programming language.  The first half of the course is dedicated to mastery of the Python language within the context of fundamental computer science topics, such object orientation, algorithmic complexity, recursion, and debugging/testing.  The second half of the course focuses on practical scientific applications of Python in data analysis and experimentation.  Student will develop programs using stochastic models, experimental probability and statistics, Monte Carlo simulation, regression analysis, and dynamic programming.  PyLab, a graphing library similar to MatLab, will be utilized such that students can develop programs to report results using scatter plots, bar graphs, histograms, etc.  
+
+The course is specifically geared towards students WITH previous programming experience.  
+
+*This course is almost exclusively offered during Summer and Winter sessions, online*
 
 ## [CMPS 369 - Web Application Development](cmps369)
 This course provides in-depth treatment of the critical languages, design patterns, and technologies underpinning all of modern web application development. The basics of networking, along with the details of the HTTP protocol are introduced. HTML (through version 5), CSS (through version 3) are presented from the perspective of an application developer.

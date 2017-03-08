@@ -20,6 +20,15 @@ Mahwah, NJ 07430
 |[CMPS 364 - Database Systems](courses/cmps364/)|Thursdays 6:00pm-19:30pm|ASB 429
 ** Spring 2017 Office Hours (starting 1/19/17)**:  Wednesdays 10:45am-12:15pm and Thursdays 4:30pm-6pm
 
+
+# Summer Session 1 2017 Course Schedule
+|Course|Format|&nbsp;|
+|:--|---|---|
+|[CMPS 130 - Scientific Programming in Python](courses/cmps130/Summer)|Online|No programming background needed, intended for Non-Computer Science Majors|
+|[CMPS 147 - Introduction to Computer Science I](courses/cmps147/Summer)|Online| No programming background needed, intended for all majors (including CS Majors)|
+|[CMPS 367 - Advanced Topics - Python Programming](courses/cmps367/Summer)|Online| Computer Science Elective (CS Majors, Bioinformatics Majors)|
+** Summer office hours by appointment only**
+
 [See all the courses I teach on a regular basis](courses/)
 
 ## Publications

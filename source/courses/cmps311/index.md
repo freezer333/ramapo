@@ -58,9 +58,9 @@ Click [here](code/) for source code discussed in lectures throughout the semeste
 Homework assignments are worth 100 points, and are turned in electronically, on Moodle.
 
 * [Homework 1](hw/hw1)  - Due on 1/26/17
-* [Homework 2](hw/hw2)  - Due on 2/1/17
-* [Homework 3](hw/hw3)  - Due on 2/6/17
-* [Homework 4](hw/hw4)  - Due on 2/15/17
+* [Homework 2](hw/hw2)  - Due on 2/6/17
+* [Homework 3](hw/hw3)  - Due on 2/13/17
+* [Homework 4](hw/hw4)  - Due on 2/20/17
 * [Homework 5](hw/hw5)  - Due on 3/1/17
 * [Homework 6](hw/hw6)  - Due on 3/27/17
 * [Homework 7](hw/hw7)  - Due on 4/26/17
