@@ -65,7 +65,7 @@ Homework assignments are worth between 50 and 100 points, and are turned in elec
 * [Homework 1](hw/hw1.html)  - Due on 2/9/17
 * [Homework 2](hw/hw2.html)  - Due on 2/16/17
 * [Homework 3](hw/hw3.html)  - Due on 3/23/17
-* [Homework 4](hw/hw4.html)  - Due on 4/20/17
+* Homework 4  - Due on 4/20/17
 
 ## Late Policy
 All assignments will be turned in electronically.  A late penalty of 5 points per day will be applied to all late assignments.  The required format/method of your electronic submissions will be outlined for each assignment.  Deviation from these requirements may result in a 5-point penalty.  
