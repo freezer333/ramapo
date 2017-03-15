@@ -1,12 +1,10 @@
-# CMPS 147 Summer 2016
+# CMPS 147 Summer 2017
 
 ## Introduction to Computer Science 1
 
-<div class="highlight">Please note that this syllabus has not yet been updated for the Summer 2017 session.  All dates are from last year, however most of the content is still accurate.  This course page will be updated soon.</div>
-
-**Meeting Time:  **This is an online course
-**Location:  **This is an online course
-**Date:  **May 23rd - June 27th, 2016
+**Meeting Time:** This is an online course
+**Location:** This is an online course
+**Date:** May 22nd - June 26th, 2017
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 
 ** Contact Information**
@@ -57,7 +55,7 @@ You are required to obtain a copy of the textbook for this course, which will be
 ## Modules
 The entire course has been broken into 30 individual modules.  Each module is posted as a slide show, and as a recorded video lecture (around 30-60 minutes in length each).  Each module will list, on the first slide, where in the textbook the topics discussed will be found.  You should approach each module as a set of resources - composed of the book chapter sections, the slides, the video, and the associated programming examples.  The textbook should be considered a required resource.
 
-### Week 1 - Monday 5/23 - Sunday 5/29
+### Week 1 - Monday 5/22 - Sunday 5/28
 | Module  | Topic | Lecture Slides|  Recorded Video
 |--|:--|:--|:--|:--
 | 0 | Course Policies | [Slides](https://docs.google.com/presentation/d/1Sggyft8QRdvOnpAxCT9wuvFkTrjg7AQaOKHEt50u4AQ/pub?start=false&loop=false&delayms=3000&slide=id.g17f500d17_028) | [Video 1](http://youtu.be/IsK0AauRsYg), [Video 2](https://youtu.be/n1Xe7xFaYXg)
@@ -71,7 +69,7 @@ The entire course has been broken into 30 individual modules.  Each module is po
 | 8 | Problem Solving with Functions | [Slides](https://docs.google.com/presentation/d/1qMVAFY4SKhYF1RuS55rhVTV8DO1c58QCkGiRUWtUVUk/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/1CEIwo8eMsU)|
 | 9 | Output Formatting | [Slides](https://docs.google.com/presentation/d/1OSsv_Np5BbXmjSTpDw0xYRypeUC6lDB6b_zyjcyLvfY/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/P5MMuS3Sry4) |
 
-### Week 2 -  Monday 5/30 - Sunday 6/5
+### Week 2 - Monday 5/29 - Sunday 6/4
 | Module  | Topic | Lecture Slides|  Recorded Video
 |:--|:--|:--|:--
 | 10 | Boolean Data and Relational Operators | [Slides](https://docs.google.com/presentation/d/1P2xeMbC0ymAoOGY91VbRnup2dd06wB8q8uAN_i31XYw/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/ECeK3pLplgg)
@@ -84,7 +82,7 @@ The entire course has been broken into 30 individual modules.  Each module is po
 | 17 | Do-while Loops | [Slides](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000) | [Video](http://youtu.be/4VMQOH_F9Yk)
 | 18 | for loops | [Slides](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/U3S2JntuwQA)
 
-### Week 3   Monday 6/6 - Sunday 6/12
+### Week 3 Monday 6/5 - Sunday 6/11
 | Module  | Topic | Lecture Slides|  Recorded Video
 |:--|:--|:--|:--
 | 19 | Introduction to functions | [Slides](https://docs.google.com/presentation/d/10JM5mVOvcGEjWy2Nhs9yUHro8cBkzws2anCc397tQ-Y/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/PqFi-oiFq5w)
@@ -94,7 +92,7 @@ The entire course has been broken into 30 individual modules.  Each module is po
 | 23 | Pass by value and pass by Reference | [Slides](https://docs.google.com/presentation/d/1SzvW7mBGZNptfhG7pDGAT0SS_M8LpUI5Ji42J_9sWrQ/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/dLM13cqTvoI)
 |24 | Problem solving with functions | [Slides](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/_xamPbaIq3U)
 
-### Week 4  - Monday 6/13 - Sunday 6/19
+### Week 4 - Monday 6/12 - Sunday 6/18
 | Module  | Topic | Lecture Slides|  Recorded Video
 |:--|:--|:--|:--
 | 25 | Numeric Arrays | [Slides](https://docs.google.com/presentation/d/1fGNYHgXo0zkDIT5P7ya_NR_lpaNLGfewiPuftHECf9U/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/K-ILtkKIG4M)
@@ -102,7 +100,7 @@ The entire course has been broken into 30 individual modules.  Each module is po
 | 27 | Arrays and Functions | [Slides](https://docs.google.com/presentation/d/1B3sILuHFmO9ffIqHZ5sxFlA2kKRp0dIlVc5OpQ5jAEE/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/kuR3TGN8zTE)
 | 28 | Sorted Arrays | [Slides](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/T1JDnYX0YZc)
 
-### Week 5  - Monday 6/20 - Monday 6/27
+### Week 5 - Monday 6/19 - Sunday 6/26
 | Module  | Topic | Lecture Slides|  Recorded Video
 |:--|:--|:--|:--
 | 29 | C-Strings | [Slides](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/AjnK9pmUgDs)
@@ -131,16 +129,16 @@ Labs represent 10% of your semester grade, so each lab is actually only less tha
 
 |Link to Lab Assignment| Due Date
 |--|----
-| [Lab 1](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.g33af15c55_0144) | 5/29 (Sunday night)
-| [Lab 2](https://docs.google.com/presentation/d/1fbiI6n8cNwljDS2yUH-PR_Kr1UpfdgKizWuqt-5IIFE/pub?start=false&loop=false&delayms=3000&slide=id.g33b4d3301_0137) | 5/29 (Sunday night)
-| [Lab 3](https://docs.google.com/presentation/d/1HYuMZ8fHBVKqX1GziqB4pWJLyaPePKVJxOYYjYUBCNM/pub?start=false&loop=false&delayms=3000#slide=id.g33b873ba6_081) | 5/29 (Sunday night)
-| [Lab 4](https://docs.google.com/presentation/d/1OSsv_Np5BbXmjSTpDw0xYRypeUC6lDB6b_zyjcyLvfY/pub?start=false&loop=false&delayms=3000#slide=id.g1807909b6_0114) | 5/29 (Sunday night)
-| [Lab 5](https://docs.google.com/presentation/d/1E-4ps_HhL6_UeKZKHEBx2UNV11EVhyvkRmVxasE_llE/pub?start=false&loop=false&delayms=3000#slide=id.g180824865_065) | **6/5 (Sunday night)**
-| [Lab 6](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000#slide=id.g180819e3b_078) | **6/5 (Sunday night)**
-| [Lab 7](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000#slide=id.g180825c8b_092) | **6/5 (Sunday night)**
-| [Lab 8](https://docs.google.com/presentation/d/1Y5PBeJYMusRU-4FYvzM60_MiFaqRyGrKSTswcsF-bFQ/pub?start=false&loop=false&delayms=3000#slide=id.g180b604f6_093) | 6/12 (Sunday night)
-| [Lab 9](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000#slide=id.g18155d4d1_031) | 6/12 (Sunday night)
-| [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | **6/19 (Sunday night)**
+| [Lab 1](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.g33af15c55_0144) | 5/28 (Sunday night)
+| [Lab 2](https://docs.google.com/presentation/d/1fbiI6n8cNwljDS2yUH-PR_Kr1UpfdgKizWuqt-5IIFE/pub?start=false&loop=false&delayms=3000&slide=id.g33b4d3301_0137) | 5/28 (Sunday night)
+| [Lab 3](https://docs.google.com/presentation/d/1HYuMZ8fHBVKqX1GziqB4pWJLyaPePKVJxOYYjYUBCNM/pub?start=false&loop=false&delayms=3000#slide=id.g33b873ba6_081) | 5/28 (Sunday night)
+| [Lab 4](https://docs.google.com/presentation/d/1OSsv_Np5BbXmjSTpDw0xYRypeUC6lDB6b_zyjcyLvfY/pub?start=false&loop=false&delayms=3000#slide=id.g1807909b6_0114) | 5/28 (Sunday night)
+| [Lab 5](https://docs.google.com/presentation/d/1E-4ps_HhL6_UeKZKHEBx2UNV11EVhyvkRmVxasE_llE/pub?start=false&loop=false&delayms=3000#slide=id.g180824865_065) | **6/4 (Sunday night)**
+| [Lab 6](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000#slide=id.g180819e3b_078) | **6/4 (Sunday night)**
+| [Lab 7](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000#slide=id.g180825c8b_092) | **6/4 (Sunday night)**
+| [Lab 8](https://docs.google.com/presentation/d/1Y5PBeJYMusRU-4FYvzM60_MiFaqRyGrKSTswcsF-bFQ/pub?start=false&loop=false&delayms=3000#slide=id.g180b604f6_093) | 6/11 (Sunday night)
+| [Lab 9](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000#slide=id.g18155d4d1_031) | 6/11 (Sunday night)
+| [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | **6/18 (Sunday night)**
 | [Lab 11](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | 6/26 (Sunday night)
 | [Lab 12](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000#slide=id.g33e80658c_0161) | 6/26 (Sunday night)
 
@@ -149,23 +147,23 @@ There are four assigned homework problems, with due dates listed on moodle (and 
 
 |Link to Homework Assignment| Due Date
 |--|----
-| [Homework 1](../hw1/Homework1.html) | 5/29 (Sunday night)
-| [Homework 2](../hw2/Homework2.html) | 6/5 (Sunday night)
-| [Homework 3](../hw3/Homework3.html) | 6/12 (Sunday night)
-| [Homework 4](../hw4/Homework4.html) | 6/19 (Sunday night)
+| [Homework 1](../hw1/Homework1.html) | 5/28 (Sunday night)
+| [Homework 2](../hw2/Homework2.html) | 6/4 (Sunday night)
+| [Homework 3](../hw3/Homework3.html) | 6/11 (Sunday night)
+| [Homework 4](../hw4/Homework4.html) | 6/18 (Sunday night)
 
 
 ## Exams (Mid Term and Final)
-Midterm and Final Exams will be proctored, **meaning you will be required to come to campus twice during the five week semester**.  Special accommodations/waivers for this policy will be made on a case-by-case basis, typically for students who attend other institutions as their primary degree-granting school or Ramapo students who live beyond reasonable commuting distance (~1 hour) from campus.  **This must be negotiated with the instructor before May 30th**.  
+Midterm and Final Exams will be taken remotely, **meaning you will not be required to come to campus to take them**.  The exams will last 3 hours each.  
 
 Mid-Term exam will June 7th, and the final exam will be held on June 27th.  Exam proctoring will be scheduled with every attempt to accommodate student schedules, including a night session to allow working students to attend.  The exams will last 3 hours each.
 
 |  | Modules Covered | Date
 |--|---|---
-| **Mid Term Exam** | Modules 1-18 | Tuesday, 6/7 (9am or 6pm)
-| **Final Exam** | Modules 19-30 | Monday, 6/27 (9am or 6pm)
+| **Mid Term Exam** | Modules 1-18 | Monday, 6/5/2017 (9am or 6pm)
+| **Final Exam** | Modules 1-30 | Monday, 6/26/2017 (9am or 6pm)
 
-You will be required to let me know in advance which session (9am or 6pm) you intend to attend.
+You will be required to let me know in advance which session (9am or 6pm) you intend to attend.  I will email you the exam at the given time and you will upload the answers to Moodle.
 
 # Grading
 
