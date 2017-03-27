@@ -62,7 +62,7 @@ Homework assignments are worth 100 points, and are turned in electronically, on 
 * [Homework 3](hw/hw3)  - Due on 2/13/17
 * [Homework 4](hw/hw4)  - Due on 2/20/17
 * [Homework 5](hw/hw5)  - Due on 3/1/17
-* [Homework 6](hw/hw6)  - Due on 3/27/17
+* [Homework 6](hw/hw6)  - Due on 4/3/17
 * [Homework 7](hw/hw7)  - Due on 4/26/17
 
 <hr class="print-page"/>
