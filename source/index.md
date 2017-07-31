@@ -12,22 +12,13 @@ Ramapo College of New Jersey
 505 Ramapo Valley Road
 Mahwah, NJ 07430
 
-# Spring 2017 Course Schedule
-|Course|Time|Room
+# Fall 2017 Course Schedule
+|Course|Time|Room|
 |:--|---|---|
-|[CMPS 311 - Operating Systems](courses/cmps311)|Mondays, Wednesdays, and Thursdays 9:30am-10:40am|ASB 429
-|[CMPS 342 - Computer Graphics](courses/cmps342)|Mondays and Thursdays 11am-12:40pm|ASB 429
-|[CMPS 364 - Database Systems](courses/cmps364/)|Thursdays 6:00pm-19:30pm|ASB 429
-** Spring 2017 Office Hours (starting 1/19/17)**:  Wednesdays 10:45am-12:15pm and Thursdays 4:30pm-6pm
+|[CMPS 147 - Introduction to Computer Science I](courses/cmps147/f17m)|Mondays 11:20am-1:00pm| ASB 429|
+|[CMPS 147 - Introduction to Computer Science I](courses/cmps147/f17th)|Thursdays 6:05pm-7:45pm| G 301|
 
-
-# Summer Session 1 2017 Course Schedule
-|Course|Format|&nbsp;|
-|:--|---|---|
-|[CMPS 130 - Scientific Programming in Python](courses/cmps130/Summer)|Online|No programming background needed, intended for Non-Computer Science Majors|
-|[CMPS 147 - Introduction to Computer Science I](courses/cmps147/Summer)|Online| No programming background needed, intended for all majors (including CS Majors)|
-|[CMPS 367 - Advanced Topics - Python Programming](courses/cmps367/Summer)|Online| Computer Science Elective (CS Majors, Bioinformatics Majors)|
-** Summer office hours by appointment only**
+Office hours held each Monday and Thursday from 4-5pm, or by appointment.
 
 [See all the courses I teach on a regular basis](courses/)
 

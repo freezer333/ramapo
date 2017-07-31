@@ -27,9 +27,9 @@ This course is specifically designed for students **who already have experience 
 
 **Please note, this course will be counted towards a Computer Science elective for Computer Science majors.  If you are looking for an introductory course, you should consider taking CMPS 130 instead.**
 
-<h2 style="clear:both">Online Course Delivery</h2>
+<h2 style="clear:both">Hybrid Course Delivery</h2>
 
-**This course is online, and asynchronous - meaning you can access course material at any time.**  While all modules/assignments are accessible from this site, we will use [moodle](http://moodle.ramapo.edu/) to submit all programming assignments electronically.  
+**This course is primarily online, and asynchronous - meaning you can access course material at any time.**  While all modules/assignments are accessible from this site, we will use [moodle](http://moodle.ramapo.edu/) to submit all programming assignments electronically.  Since you will be required to come to campus to take the Mid-Term and Final Exams, the college requires that this course be listed as "Hybrid".
 
 **Please review the college's guide to online courses and moodle [here](http://www.ramapo.edu/summer/online/)**.
 
@@ -117,15 +117,13 @@ There are 5 assigned homework problems, with due dates listed on moodle (and bel
 | [Homework 4](../hw/hw4/) | 6/18/2017 (Sunday night)  **Requires C++ Programming**
 | [Homework 5](../hw/hw5/) | 6/26/2017 (Sunday night)
 
-## Exams (Mid Term and Final)
-Midterm and Final Exams will be taken remotely, **meaning you will not be required to come to campus to take them**.  The exams will last 3 hours each.
+## Exams (Mid Term and Final) - ON CAMPUS
+Midterm and Final Exams will be taken **on campus**. The exam will be given at two times, and prior to the exam you must let me know which time slot you will be using.  The exams will be held in ASB 429, and you will be required to use the lab computers (no external devices will be permitted).
 
 |  | Modules Covered | Date
 |--|---|---
 | **Mid Term Exam** | Modules 1-12 | Tuesday, 6/6/2017 (9am or 6pm)
 | **Final Exam** | Modules 13-23 | Monday, 6/26/2017 (9am or 6pm)
-
-You will be required to let me know in advance which session (9am or 6pm) you intend to attend.  I will email you the exam at the given time and you will upload the answers to Moodle.
 
 # Grading
 
