@@ -17,6 +17,7 @@ Mahwah, NJ 07430
 |:--|---|---|
 |[CMPS 147 - Introduction to Computer Science I](courses/cmps147/f17m)|Mondays 11:20am-1:00pm| ASB 429|
 |[CMPS 147 - Introduction to Computer Science I](courses/cmps147/f17th)|Thursdays 6:05pm-7:45pm| G 301|
+|[CMPS 369 - Web Application Development](courses/cmps369)|Thursdays 2:15pm-3:55pm| G 301|
 
 Office hours held each Monday and Thursday from 4-5pm, or by appointment.
 

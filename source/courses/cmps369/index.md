@@ -1,9 +1,9 @@
-# CMPS 369 Fall 2016
+# CMPS 369 Fall 2017
 
 ## Web Application Development
 
-**Meeting Time:** Monday, Wednesday, Thursday 9:30am-10:40pm
-**Location:** ASB 429
+**Meeting Time:** Mondays and Thursday 2:15pm-3:55pm
+**Location:** G 301
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 
 ** Contact Information**
@@ -11,7 +11,7 @@ Office&nbsp;&nbsp;G315
 Phone&nbsp;&nbsp;(201) 684-7726
 Email&nbsp;&nbsp;[sfrees@ramapo.edu](mailto:sfrees@ramapo.edu)
 
-**Office Hours:**   Wednesdays 10:45-12:15pm and Thursdays 4:30-6:00pm
+**Office Hours:**   Mondays and Thursdays 4-5pm, or by appointment
 
 ## Course Description
 This course provides in-depth treatment of the critical languages, design patterns, and technologies underpinning all of modern web application development. The basics of networking, along with the details of the HTTP protocol are introduced. HTML (through version 5), CSS (through version 3) are presented from the perspective of an application developer.
@@ -92,7 +92,7 @@ This website is the sole place I will link HW assignments, slides, and code.  We
 
 ## Schedule
 <div style="margin:0px;padding:0px;overflow:hidden">
-    <iframe src="https://docs.google.com/spreadsheets/d/1mp40LwkelKq8KOVs5gXJL83qmy8G8vNUOTd0DjkbL2k/pubhtml?gid=103028565&single=true" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:1200px;width:100%;" height="100%" width="100%"></iframe>
+    <iframe src="https://docs.google.com/spreadsheets/d/1LDNTAOORV8aGnhkfJpT06Noa1JeTjxTEng8nkpPdH6A/pubhtml?gid=103028565&single=true" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:1200px;width:100%;" height="100%" width="100%"></iframe>
 </div>
 
 ## Other slides/Resources
@@ -138,14 +138,14 @@ There are three homework assignments and two larger programming projects assigne
 
 |Link to Homework Assignment| Due Date
 |--|----
-| [Homework 1](https://docs.google.com/document/d/1TFvoSgDqj26uk0F_ffVI600D0184hPugJYQURaImD4c/pub) |  9/15
-| [Homework 2](https://docs.google.com/document/d/1vD8UQT-ot7BDysyKRHCsvrRHsOkxv-rYCnnkpmbnNnc/pub) |  9/19
-| [Homework 3](https://docs.google.com/document/d/1SY9-yYsalcCoK1JLLHJqcuBNH-lkB3KM1J3xZ2g3BgM/pub) |  10/20
+| [Homework 1](https://docs.google.com/document/d/1TFvoSgDqj26uk0F_ffVI600D0184hPugJYQURaImD4c/pub) |  9/18
+| [Homework 2](https://docs.google.com/document/d/1vD8UQT-ot7BDysyKRHCsvrRHsOkxv-rYCnnkpmbnNnc/pub) |  9/25
+| [Homework 3](https://docs.google.com/document/d/1SY9-yYsalcCoK1JLLHJqcuBNH-lkB3KM1J3xZ2g3BgM/pub) |  10/26
 
 |Link to Projects| Due Date
 |--|----
-| [Project 1](https://docs.google.com/document/d/1P_cGhz1tsRNYKk7KvCRNXDdZwdyP70iv3CJ2Zc5hmDU/pub) |  10/19
-| [Project 2](https://docs.google.com/document/d/1-5Oigr6RwMwN3gMvgz-oDwA315uuJ7srt8FYPRyhDwE/pub) |  11/17
+| [Project 1](https://docs.google.com/document/d/1P_cGhz1tsRNYKk7KvCRNXDdZwdyP70iv3CJ2Zc5hmDU/pub) |  10/16
+| [Project 2](https://docs.google.com/document/d/1-5Oigr6RwMwN3gMvgz-oDwA315uuJ7srt8FYPRyhDwE/pub) |  11/16
 
 # Final Project
 The final project will be due the same day as our scheduled final exam.  The full details can be found [here](https://docs.google.com/document/d/1lfnxI3C_44m9MwZaBxAtfBb9w6jciJvoIsSQw40mXvg/pub).  You will show me your running code during the final exam period.  The final project is **instead** of the final exam.
