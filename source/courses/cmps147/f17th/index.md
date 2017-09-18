@@ -154,9 +154,10 @@ Labs represent 30% of your semester grade, so each lab is actually only about 3%
 The calendar below is subject to change - please make sure you read your emails!  Note that while each schedule lecture includes either a lab or an exam, on days where we are doing labs I will generally lecture for about 20 minutes at the beginning of the session.  This lecture is NOT a replacement for the videos - it's just a brief review to get us ready for the lab.
 
 <div style="margin:0px;padding:0px;overflow:hidden">
-    <iframe src="https://docs.google.com/spreadsheets/d/1yuFdyuPs8xX86QYmTJeT3RTfXILqoPoBnAj8wFi1BTQ/pubhtml?gid=1074603040&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:500px;width:100%;" height="100%" width="100%"></iframe>
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTm4J5JR1U6GlUlnUC4Hf150fmj2n79bC7CM9I-rjkDEDumB2xhJTIGekDIrYtGXQpXKMcrjOnWVujp/pubhtml?gid=25241272&single=true" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:500px;width:100%;" height="100%" width="100%"></iframe>
 </div>
 
+During each lab meeting, we will have a short [pre-lab](https://docs.google.com/document/d/e/2PACX-1vROAhuxywzqkZwWVDwieTb82ugNAxOBHj5aVFI6QdXBqMyXQxB-EEb77YHv4IjUYkMIyTVeMzas8zeh/pub) lecture to help you get started.
 <hr class="print-page"/>
 
 # Study Problems

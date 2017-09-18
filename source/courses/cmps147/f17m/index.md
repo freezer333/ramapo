@@ -156,6 +156,8 @@ The calendar below is subject to change - please make sure you read your emails!
     <iframe src="https://docs.google.com/spreadsheets/d/1yuFdyuPs8xX86QYmTJeT3RTfXILqoPoBnAj8wFi1BTQ/pubhtml?gid=1074603040&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:500px;width:100%;" height="100%" width="100%"></iframe>
 </div>
 
+During each lab meeting, we will have a short [pre-lab](https://docs.google.com/document/d/e/2PACX-1vROAhuxywzqkZwWVDwieTb82ugNAxOBHj5aVFI6QdXBqMyXQxB-EEb77YHv4IjUYkMIyTVeMzas8zeh/pub) lecture to help you get started.
+
 <hr class="print-page"/>
 
 # Study Problems
