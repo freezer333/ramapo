@@ -126,7 +126,7 @@ This website is the sole place I will link HW assignments, slides, and code.  We
 
 ## Express Examples
 - [16_guessing_express.zip](code/16_guessing_express.zip)
-- [17_guessing_jade.zip](code/17_guessing_jade.zip)
+- [17_guessing_pug.zip](code/17_guessing_pug.zip)
 - [18_guessing_less.zip](code/18_guessing_less.zip)
 - [19_guessing_bootstrap.zip](code/19_guessing_bootstrap.zip)
 
