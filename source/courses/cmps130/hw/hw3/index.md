@@ -67,7 +67,7 @@ def get_median_rainfall_for_year(self, year):
         in table
     """
 ```
-* [median](http://www.math.toronto.edu/lshorser/Averages.pdf) requires you to sort the data, so you'll need to create a temporary list.
+* [median](https://www.mathsisfun.com/definitions/median.html) requires you to sort the data, so you'll need to create a temporary list.
 
 ## Part 3 (10 points)
 Create two *generator* methods (see section 8.3.1 in the text) that allow a caller to iterate through rainfall data by year (all months in the year), or by month (all years for a given month).  The should look like the following (but remember, they don't return a list, they should `yeild` values!)

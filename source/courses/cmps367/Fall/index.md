@@ -90,7 +90,7 @@ Most modules also have programming exercises associated with them which you shou
 I **strongly** recommend you work through each module in order - programming is not the type of thing that you can skip around with...
 
 ## Homework
-There are 5 assigned homework problems, with due dates listed on the schedule below, and on moodle.  Homework programs will likely require 3-6 hours of your time, and will be more involved and complex than the non-graded programming exercises.  I will provide feedback on homework, and partial credit will be given.  Homework programs 20% of your semester grade, each being 5%.  **No late homework will be accepted.**
+There are 5 assigned homework problems, with due dates listed on the schedule below, and on moodle.  Homework programs will likely require 3-6 hours of your time, and will be more involved and complex than the non-graded programming exercises.  I will provide feedback on homework, and partial credit will be given.  **No late homework will be accepted.**
 
 |Link to Homework Assignment| Due Date
 |--|----
