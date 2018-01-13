@@ -9,7 +9,10 @@ html
         script(src="https://code.jquery.com/jquery-3.2.1.js")
         script(src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.9/vue.js")
         script(src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.4/moment.js")
-
+    style.
+        .guess {
+            margin-right:1em;
+        }
     body(style='padding-top:5em')
         .container#history(v-cloak)
             a.btn.btn-primary(href="/") Play
@@ -23,7 +26,8 @@ html
                     tr(v-for='game in games') 
                         td {{format(game.date)}}
                         td {{game.secret}}
-                        td {{game.guesses.length}}
+                        td 
+                            span.guess(v-for='guess in game.guesses') {{guess}}
             
 
         script.
@@ -36,7 +40,6 @@ html
 
                 mounted: function () {
                     var v = this;
-                    console.log("history mounted");
                     v.fetch_games();
                     setInterval(v.fetch_games, 1000 * 10);
                 },
@@ -47,13 +50,11 @@ html
                     },
                     fetch_games: function () {
                         var v = this;
-                        console.log("getting");
                         $.getJSON("/history/games", function(data) {
                             v.games = data.games;
                             v.games.sort(function(a, b){
                                 return b.date - a.date;
                             })
-                            console.log(v.games);
                         })
                     }
                 }
