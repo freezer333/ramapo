@@ -133,6 +133,9 @@ This website is the sole place I will link HW assignments, slides, and code.  We
 ## Authentication / Passport example
 - [20_guessing_secure.zip](code/20_guessing_secure.zip)
 
+## Reactive example
+- [21_guessing_vue.zip](code/21_guessing_vue.zip)
+
 # Homework Assignments
 There are three homework assignments and two larger programming projects assigned for this course.  
 
