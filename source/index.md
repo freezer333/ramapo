@@ -12,15 +12,14 @@ Ramapo College of New Jersey
 505 Ramapo Valley Road
 Mahwah, NJ 07430
 
-# Fall 2017 Course Schedule
+# Fall 2018 Course Schedule
 |Course|Time|Room|
 |:--|---|---|
-|[CMPS 147 - Introduction to Computer Science I](courses/cmps147/f17m)|Mondays 11:20am-1:00pm| ASB 429|
-|[CMPS 147 - Introduction to Computer Science I](courses/cmps147/f17th)|Thursdays 6:05pm-7:45pm| G 301|
-|[CMPS 367 - Advanced Topics:  Python Programming](courses/cmps367/Fall)|Tuesdays 6:05pm-9:25pm| ASB 426|
-|[CMPS 369 - Web Application Development](courses/cmps369)|Thursdays 2:15pm-3:55pm| G 301|
+|[CMPS 342 - Computer Graphics](courses/cmps342)|Mondays / Thursdays 11:20am-1:00pm| ASB 429|
+|[CMPS 364 - Database Systems](courses/cmps364)|Mondays / Thursdays 4:10pm-5:50pm| G 301|
+|[CMPS 364 - Database Systems](courses/cmps364)|Thursdays 6:00pm-9:35pm|  ASB 429|
 
-Office hours held each Monday and Thursday from 4-5pm, or by appointment.
+Office hours held each Monday and Thursday from 3-4pm, or by appointment.
 
 [See all the courses I teach on a regular basis](courses/)
 

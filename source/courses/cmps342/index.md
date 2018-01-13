@@ -1,7 +1,7 @@
-# CMPS 342 Spring 2017
+# CMPS 342 Spring 2018
 ## Computer Graphics
 
-**Meeting Time:  **&nbsp;&nbsp;Mondays and Thursdays, 11:00am:-12:40pm
+**Meeting Time:  **&nbsp;&nbsp;Mondays and Thursdays, 11:20am:-1:00pm
 **Location:  **&nbsp;&nbsp;ASB Room 429
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 
@@ -64,12 +64,12 @@ In addition to the textbook, there are many tutorials online that cover WebGL.  
 
 | | Due Date |
 |:-------|----:
-|[Lab 1](https://docs.google.com/document/d/1l_VI6XdWVCOGA8Gfc6v0BhfFUHYxy9xAwl_VJwpIy3s/pub)|2/16/2017
-|[Lab 2](https://docs.google.com/document/d/1wBaFr26hW0FolZfS-6EWQqFVlgY--VHM7FGQvI7vrHc/pub)|3/6/2017
-|[Lab 3](https://docs.google.com/document/d/118jAviNeoRj4zoop9CINVJ6dv_OjgXVCC7ggoR_aqs4/pub)|3/27/2017
-|[Lab 4](https://docs.google.com/document/d/1QpUpeL1k3du-5lxF9zXRg-WPwkI06TKRUixTnWZXFFY/pub)|4/20/2017
-|[Homework 1](https://docs.google.com/document/d/1IN_zkci_zxvTCInrhjibHlVfU3cUKFqZqmzBU6Yx1-Q/pub)|3/9/2017
-|[Homework 2](https://docs.google.com/document/d/134FypLTYMpc7dxWK_HEmCZAAx3QT4qSALDe-vWBEdGU/pub)|4/10/2017
+|[Lab 1](https://docs.google.com/document/d/1l_VI6XdWVCOGA8Gfc6v0BhfFUHYxy9xAwl_VJwpIy3s/pub)|2/15/2018
+|[Lab 2](https://docs.google.com/document/d/1wBaFr26hW0FolZfS-6EWQqFVlgY--VHM7FGQvI7vrHc/pub)|3/5/2018
+|[Lab 3](https://docs.google.com/document/d/118jAviNeoRj4zoop9CINVJ6dv_OjgXVCC7ggoR_aqs4/pub)|3/26/2018
+|[Lab 4](https://docs.google.com/document/d/1QpUpeL1k3du-5lxF9zXRg-WPwkI06TKRUixTnWZXFFY/pub)|4/23/2018
+|[Homework 1](https://docs.google.com/document/d/1IN_zkci_zxvTCInrhjibHlVfU3cUKFqZqmzBU6Yx1-Q/pub)|3/8/2018
+|[Homework 2](https://docs.google.com/document/d/134FypLTYMpc7dxWK_HEmCZAAx3QT4qSALDe-vWBEdGU/pub)|4/12/2018
 
 Labs and Homeworks are worth the same amount of points.  The difference is that we will start labs in class, and you'll be able to work in pairs.  Labs turned in during the class time are able to earn 100%, labs turned in by the beginning of the next lecture are only eligible for a 90%.  Due dates listed above are subject to change, and indicate the date of the *following* lecture.
 
@@ -77,7 +77,7 @@ Labs and Homeworks are worth the same amount of points.  The difference is that 
 All assignments will be turned in electronically.  A late penalty of 5 points per day will be applied to all late assignments.  The required format/method of your electronic submissions will be outlined for each assignment.  Deviation from these requirements may result in a 5-point penalty.  
 
 ## Attendance Policy
-Attendance will be recorded by the instructor and, along with class participation, will be a determining factor in making border-line final grade decisions.  **More than 5 documented absences (more than 5 minutes late) will result in a deduction of 1 full letter grade.  I will begin this policy starting Monday, 1/27**.
+Attendance will be recorded by the instructor and, along with class participation, will be a determining factor in making border-line final grade decisions.  **More than 5 documented absences (more than 5 minutes late) will result in a deduction of 1 full letter grade.  I will begin this policy starting Monday, 1/29**.
 
 ## Grading
 
