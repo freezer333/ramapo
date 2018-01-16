@@ -9,7 +9,7 @@
 Office&nbsp;&nbsp;G315
 Phone&nbsp;&nbsp;(201) 684-7726
 Email&nbsp;&nbsp;[sfrees@ramapo.edu](mailto:sfrees@ramapo.edu)
-Office Hours &nbsp;&nbsp;Wednesdays 11am-12pm and Thursday 4-5pm
+Office hours held each Monday and Thursday from 3-4pm, or by appointment.
 
 ## Course Description
 An introduction to computer graphics.  The course will include relevant coordinate geometry, graphic devices, primitive graphics operations, polygons, transformations, windows, clipping, and three-dimensional graphics.  The course teaches the fundamental techniques and skills of Computer Graphics utilizing WebGL - which is a modern graphics library built on OpenGL ES 2.0 and supported on nearly all modern computing devices, including mobile devices.  In addition to pure 3D computer graphics, students will also learn how to utilize the web - using HTML and JavaScript to deliver their 3D visualizations
