@@ -84,8 +84,10 @@ Attendance will be recorded by the instructor and, along with class participatio
 
 | % | Activity | Frequency/Description
 |------------------:|:---------------|-------
-|30%|Homework + Projects | 5 assignments
-|40%|Exams | 2 exams during the semester
+|10%|In-class Labs | about 7 assignments
+|10%|Homework | 3 assignments
+|15%|Programming Projects | 2 assignments
+|35%|Exams | 2 exams during the semester
 |30%|Final Exam | Comprehensive
 
 ## Academic Integrity
