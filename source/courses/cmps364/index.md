@@ -65,9 +65,9 @@ Below is a tentative schedule for the course.  All topics and due dates are subj
 </div>
 
 ## Homework Assignments
-* [Homework 1](hw/hw1_.html)  - Due on 2/8/18
-* [Homework 2](hw/hw2_.html)  - Due on 2/15/18
-* [Homework 3](hw/hw3_.html)  - Due on 4/12/18
+* [Homework 1](hw/hw1.html)  - Due on 2/8/18
+* [Homework 2](hw/hw2.html)  - Due on 2/15/18
+* [Homework 3](hw/hw3.html)  - Due on 4/12/18
 
 ## Programming Projects Assignments
 * [Project 1](project1.html)  - Due on 3/29/18
