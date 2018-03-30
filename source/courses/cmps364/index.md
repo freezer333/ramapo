@@ -54,19 +54,19 @@ Below is a tentative schedule for the course.  All topics and due dates are subj
 
 **You must keep up with the readings** associated with each lecture.  
 
-### SECTION 02
+### SECTION 01
 <div style="margin:0px;padding:0px;overflow:hidden">
     <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcjrwPtOQGpOjcIsEVURrLtxuxjhRly5fJ23gl67gB_N4npxdlJbRKTvP042TAeDlfbmsCHFOE8Kp3/pubhtml?gid=1767444203&single=true" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:800px;width:100%;" height="100%" width="100%"></iframe>
 </div>
 
-### SECTION 01
+### SECTION 02
 <div style="margin:0px;padding:0px;overflow:hidden">
     <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcjrwPtOQGpOjcIsEVURrLtxuxjhRly5fJ23gl67gB_N4npxdlJbRKTvP042TAeDlfbmsCHFOE8Kp3/pubhtml?gid=168507821&single=true" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:800px;width:100%;" height="100%" width="100%"></iframe>
 </div>
 
 ## Homework Assignments
-* [Homework 1](hw/hw1_.html)  - Due on 2/8/18
-* [Homework 2](hw/hw2_.html)  - Due on 2/15/18
+* [Homework 1](hw/hw1.html)  - Due on 2/8/18
+* [Homework 2](hw/hw2.html)  - Due on 2/15/18
 * [Homework 3](hw/hw3_.html)  - Due on 4/12/18
 
 ## Programming Projects Assignments
