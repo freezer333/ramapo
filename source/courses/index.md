@@ -3,14 +3,14 @@ I regularly teach eight computer science courses that count toward the CS major,
 
 **Attention Computer Science Majors:**  be sure to review your [requirements](http://www.ramapo.edu/catalog-2014-2015/tas/compscience/) and [four-year plan](http://www.ramapo.edu/four-year-2014-2015/tas/computer-science/) when selecting courses.
 
-## [CMPS 130 - Scientific Programming with Python](cmps130/Summer)
+## [CMPS 130 - Scientific Programming with Python](cmps130/Winter)
 This course covers common computational approaches to solving scientific problems using the Python programming language.  The course is dedicated to mastery of the Python language within the context of fundamental computer science topics, such object orientation, algorithmic complexity, recursion, and debugging/testing.  
 
 The course is specifically geared towards students with no (or just a little) previous programming experience.
 
 **Attention Computer Science Majors**: this course does NOT count as one of your [7 required upper-level electives](http://www.ramapo.edu/catalog-2014-2015/tas/compscience/).  Please see CMPS 367 (Advanced Topics) for a Python course offered over the summer/winter sessions that DOES count as a CS Elective.
 
-## [CMPS 147 - Introduction to Computer Science](cmps147/Summer)
+## [CMPS 147 - Introduction to Computer Science](cmps147/Winter)
 An introduction to programming methodology including: basic concepts of computer systems, the programming languages C/C++, algorithm design, program development, implementation, and testing.
 
 *I teach this course frequently, including during both summer and winter sessions online.  This course is offered by CS faculty other than myself in the Spring and Fall on a regular basis as well.*

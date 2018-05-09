@@ -54,6 +54,8 @@ Below is a tentative schedule for the course.  All topics and due dates are subj
 
 **You must keep up with the readings** associated with each lecture.  
 
+PDF Versions of all lecture slides found [here](slides)
+
 ### SECTION 01
 <div style="margin:0px;padding:0px;overflow:hidden">
     <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcjrwPtOQGpOjcIsEVURrLtxuxjhRly5fJ23gl67gB_N4npxdlJbRKTvP042TAeDlfbmsCHFOE8Kp3/pubhtml?gid=1767444203&single=true" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:800px;width:100%;" height="100%" width="100%"></iframe>
@@ -67,10 +69,10 @@ Below is a tentative schedule for the course.  All topics and due dates are subj
 ## Homework Assignments
 * [Homework 1](hw/hw1.html)  - Due on 2/8/18
 * [Homework 2](hw/hw2.html)  - Due on 2/15/18
-* [Homework 3](hw/hw3_.html)  - Due on 4/12/18
+* [Homework 3](hw/hw3.html)  - Due on 4/19/18
 
 ## Programming Projects Assignments
-* [Project 1](project1.html)  - Due on 3/29/18
+* [Project 1](project1.html)  - Due on 4/05/18
 * [Project 2](project2.html)  - Due on 4/30/18
 
 
@@ -84,8 +86,10 @@ Attendance will be recorded by the instructor and, along with class participatio
 
 | % | Activity | Frequency/Description
 |------------------:|:---------------|-------
-|30%|Homework + Projects | 5 assignments
-|40%|Exams | 2 exams during the semester
+|10%|In-class Labs | about 7 assignments
+|10%|Homework | 3 assignments
+|15%|Programming Projects | 2 assignments
+|35%|Exams | 2 exams during the semester
 |30%|Final Exam | Comprehensive
 
 ## Academic Integrity
