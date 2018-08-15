@@ -1,8 +1,9 @@
-# CMPS 147 Fall 2017 - Section 03
+# CMPS 147 Fall 2018 - Section 02
 ## Introduction to Computer Science 1
 
-**Meeting Time:** Monday 11:20am-1:00pm
-**Location:** ASB 429
+**Meeting Time:** Thursday 6:05pm-7:45pm
+
+**Location:** G 301
 
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 
@@ -12,7 +13,7 @@ Office&nbsp;&nbsp;G315
 Phone&nbsp;&nbsp;(201) 684-7726
 Email&nbsp;&nbsp;[sfrees@ramapo.edu](mailto:sfrees@ramapo.edu)
 
-**Office Hours:**   Mondays and Thursdays 4-5pm, or by appointment
+**Office Hours:**   Mondays 4-5pm, Thursdays 4-5:30pm, or by appointment
 
 ## Course Description
 An introduction to programming methodology including:  basic concepts of computer systems, the programming languages C/C++, algorithm design, program development, implementation, and testing.
@@ -62,6 +63,15 @@ You are required to obtain a copy of the textbook for this course, which will be
 |C-Strings |X |X |X
 |String and Stream objects |X |X |X
 |Elements of good programming design |X| | | 
+
+This course is in the **Quantitative Reasoning** General Education Category.  The following objectives correspond to this designation:
+
+|Student Learning Outcomes| Lectures | Exams | Labs
+|:--|----|--|--
+| Apply mathematical concepts effectively |X |X |X
+| Demonstrate logic and reasoning skills |X |X| X|
+| Use technology to communicate, manage, or solve problems |X |X |X
+| Apply disciplinary and interdisciplinary knowledge and skills to address complex problems | | |X
 
 # Course Structure
 
@@ -134,18 +144,18 @@ Labs represent 30% of your semester grade, so each lab is actually only about 3%
 
 |Link to Lab Assignment| Due Date
 |--|----
-| [Lab 1](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.g33af15c55_0144) | 9/11 (1:00pm)
-| [Lab 2](https://docs.google.com/presentation/d/1fbiI6n8cNwljDS2yUH-PR_Kr1UpfdgKizWuqt-5IIFE/pub?start=false&loop=false&delayms=3000&slide=id.g33b4d3301_0137) | 9/18 (1:00pm)
-| [Lab 3](https://docs.google.com/presentation/d/1HYuMZ8fHBVKqX1GziqB4pWJLyaPePKVJxOYYjYUBCNM/pub?start=false&loop=false&delayms=3000#slide=id.g33b873ba6_081) |  **9/25  (11:20am)**
-| [Lab 4](https://docs.google.com/presentation/d/1OSsv_Np5BbXmjSTpDw0xYRypeUC6lDB6b_zyjcyLvfY/pub?start=false&loop=false&delayms=3000#slide=id.g1807909b6_0114) | 9/25 (1:00pm)
-| [Lab 5](https://docs.google.com/presentation/d/1E-4ps_HhL6_UeKZKHEBx2UNV11EVhyvkRmVxasE_llE/pub?start=false&loop=false&delayms=3000#slide=id.g180824865_065) | 10/09 (1:00pm)
-| [Lab 6](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000#slide=id.g180819e3b_078) | 10/23 (1:00pm)
-| [Lab 7](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000#slide=id.g180825c8b_092) | 10/30 (1:00pm)
-| [Lab 8](https://docs.google.com/presentation/d/1Y5PBeJYMusRU-4FYvzM60_MiFaqRyGrKSTswcsF-bFQ/pub?start=false&loop=false&delayms=3000#slide=id.g180b604f6_093) | 11/13 (1:00pm)
-| [Lab 9](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000#slide=id.g18155d4d1_031) | 11/20 (1:00pm)
-| [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | 12/4 (1:00pm)
-| [Lab 11](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | 12/11 (1:00pm)
-| [Lab 12 (Extra Credit)](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000#slide=id.g33e80658c_0161) | 12/15 (1:00pm)
+| [Lab 1](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.g33af15c55_0144) | 9/06 (7:45pm)
+| [Lab 2](https://docs.google.com/presentation/d/1fbiI6n8cNwljDS2yUH-PR_Kr1UpfdgKizWuqt-5IIFE/pub?start=false&loop=false&delayms=3000&slide=id.g33b4d3301_0137) | 9/13 (7:45pm)
+| [Lab 3](https://docs.google.com/presentation/d/1HYuMZ8fHBVKqX1GziqB4pWJLyaPePKVJxOYYjYUBCNM/pub?start=false&loop=false&delayms=3000#slide=id.g33b873ba6_081) |  **9/20  (6:05pm)**
+| [Lab 4](https://docs.google.com/presentation/d/1OSsv_Np5BbXmjSTpDw0xYRypeUC6lDB6b_zyjcyLvfY/pub?start=false&loop=false&delayms=3000#slide=id.g1807909b6_0114) | 9/20 (7:45pm)
+| [Lab 5](https://docs.google.com/presentation/d/1E-4ps_HhL6_UeKZKHEBx2UNV11EVhyvkRmVxasE_llE/pub?start=false&loop=false&delayms=3000#slide=id.g180824865_065) | 10/04 (7:45pm)
+| [Lab 6](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000#slide=id.g180819e3b_078) | 10/18 (7:45pm)
+| [Lab 7](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000#slide=id.g180825c8b_092) | 10/25 (7:45pm)
+| [Lab 8](https://docs.google.com/presentation/d/1Y5PBeJYMusRU-4FYvzM60_MiFaqRyGrKSTswcsF-bFQ/pub?start=false&loop=false&delayms=3000#slide=id.g180b604f6_093) | 11/08 (7:45pm)
+| [Lab 9](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000#slide=id.g18155d4d1_031) | 11/15 (7:45pm)
+| [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | 12/6 (7:45pm)
+| [Lab 11](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | 12/13 (7:45pm)
+| [Lab 12 (Extra Credit)](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000#slide=id.g33e80658c_0161) | 12/15 (6:00pm)
 
 <hr class="print-page"/>
 
@@ -153,11 +163,10 @@ Labs represent 30% of your semester grade, so each lab is actually only about 3%
 The calendar below is subject to change - please make sure you read your emails!  Note that while each schedule lecture includes either a lab or an exam, on days where we are doing labs I will generally lecture for about 20 minutes at the beginning of the session.  This lecture is NOT a replacement for the videos - it's just a brief review to get us ready for the lab.
 
 <div style="margin:0px;padding:0px;overflow:hidden">
-    <iframe src="https://docs.google.com/spreadsheets/d/1yuFdyuPs8xX86QYmTJeT3RTfXILqoPoBnAj8wFi1BTQ/pubhtml?gid=1074603040&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:500px;width:100%;" height="100%" width="100%"></iframe>
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTm4J5JR1U6GlUlnUC4Hf150fmj2n79bC7CM9I-rjkDEDumB2xhJTIGekDIrYtGXQpXKMcrjOnWVujp/pubhtml?gid=25241272&single=true" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:500px;width:100%;" height="100%" width="100%"></iframe>
 </div>
 
 During each lab meeting, we will have a short [pre-lab](https://docs.google.com/document/d/e/2PACX-1vROAhuxywzqkZwWVDwieTb82ugNAxOBHj5aVFI6QdXBqMyXQxB-EEb77YHv4IjUYkMIyTVeMzas8zeh/pub) lecture to help you get started.
-
 <hr class="print-page"/>
 
 # Study Problems
@@ -167,10 +176,10 @@ There are four study problems listed below, with *suggested* completion dates li
 
 |Link to Assignment| Recommended Completion Date
 |--|----
-| [Problem 1](../hw1/Homework1.html) | 10/2/2017
-| [Problem 2](../hw2/Homework2.html) | 11/6/2017
-| [Problem 3](../hw3/Homework3.html) | 11/27/2017
-| [Problem 4](../hw4/Homework4.html) | 12/11/2017
+| [Problem 1](../hw1/Homework1.html) | 9/27
+| [Problem 2](../hw2/Homework2.html) | 11/1
+| [Problem 3](../hw3/Homework3.html) | 11/29
+| [Problem 4](../hw4/Homework4.html) | 12/13
 
 # Exams
 There will be 4 in-class programming quizzes throughout the semester, along with a final exam.  Exams are open book, open notes, and open internet.  They will involve live programming, similar to lab sessions. Some quizzes, along with the final exam, will contain some multiple choice/short answer questions as well.
@@ -179,11 +188,11 @@ You will have <b>100 minutes</b> to complete all quizzes, and three hours to com
 
 |  | Modules Covered | Date
 |--|---|---
-| **Quiz 1** | Modules  1-9  | 10/2/2017
-| **Quiz 2** | Modules 10-15 | 10/16/2017
-| **Quiz 3** | Modules 16-18 | 11/6/2017
-| **Quiz 4** | Modules 19-24 | 11/27/2017
-| **Final Exam** | Modules 1-30 | 12/21/2017 @ 8am
+| **Quiz 1** | Modules  1-9  | 9/27
+| **Quiz 2** | Modules 10-15 | 10/11
+| **Quiz 3** | Modules 16-18 | 11/1
+| **Quiz 4** | Modules 19-24 | 11/29
+| **Final Exam** | Modules 1-30 | 12/20 @ 7pm
 
 <p class="highlight">Be sure to read the policy on academic integrity and allowable internet resources at the bottom of this syllabus.</p>
 

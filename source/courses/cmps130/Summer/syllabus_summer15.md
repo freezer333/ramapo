@@ -5,7 +5,7 @@
 
 **Location:**  This is an online course
 
-**Date:**  May 22nd - June 26th, 2017
+**Date:**  May 21st - June 25th, 2018
 
 **Professor:** &nbsp;&nbsp;[Scott Frees](http://pages.ramapo.edu/~sfrees), Professor of Computer Science
 
@@ -25,7 +25,7 @@ This course covers common computational approaches to solving scientific problem
 
 The course is specifically geared towards students without previous programming experience.  The course will provide sufficient introduction to computer programming to the non-major, previous course work in computer science is not required.  The course’s emphasis on numerical problem solving and data analysis, along with the introduction to the Python programming language, makes it a relevant and valuable course for science students wishing to learn how programming can help them in their fields.
 
-**Please note, this course MAY NOT be counted towards a Computer Science elective for Computer Science majors.  If you are a Computer Science major, then you should consider taking CMPS 367 (Advanced Topics - Python Programming) instead.**
+**Please note, this course MAY NOT be counted towards a Computer Science elective for Computer Science majors.**
 
 <h2 style="clear:both">Online Course Delivery</h2>
 
@@ -63,29 +63,29 @@ The course has been organized into a series of modules, each of which covers an 
 
 Most modules also have programming exercises associated with them which you should complete (on your own).  Solutions and video recordings of the solution being developed are also posted - however I strongly recommend you try each exercise on your own before watching me solve it!  And of course - the way I solve it may not be the only correct way to do so!
 
-## Week 1 - Monday 5/22 - Sunday 5/28
+## Week 1 - Monday 5/21 - Sunday 5/27
 - [Module 00](../modules/module00) - Introduction to Computation
 - [Module 01](../modules/module01) - Introduction to Python Programming
 - [Module 02](../modules/module02) - Strings and Input
 - [Module 03](../modules/module03) - Branching Programs
 
-## Week 2 - Monday 5/29 - Sunday 6/4
+## Week 2 - Monday 5/28 - Sunday 6/3
 - [Module 04](../modules/module04) - Loops
 - [Module 05](../modules/module05) - Functions
 - [Module 06](../modules/module06) - Recursion
 
-## Week 3 Monday 6/5 - Sunday 6/11
+## Week 3 Monday 6/4 - Sunday 6/10
 - [Module 07](../modules/module07) - Global Variables
 - [Module 08](../modules/module08) - Modules
 - [Module 09](../modules/module09) - Reading and Writing Files
 
-## Week 4 - Monday 6/12 - Sunday 6/18
+## Week 4 - Monday 6/11 - Sunday 6/17
 - [Module 10](../modules/module10) - Generalized Sequences -> Tuples
 - [Module 11](../modules/module11) - Lists
 - [Module 12](../modules/module12) - Dictionaries
 - [Module 13](../modules/module13) - Testing and Debugging
 
-## Week 5 - Monday 6/19 - Sunday 6/26
+## Week 5 - Monday 6/18 - Sunday 6/25
 - [Module 14](../modules/module14) - Exceptions and Assertions
 - [Module 15](../modules/module15) - Abstract Data Types and Classes
 - [Module 16](../modules/module16) - Inheritance
@@ -101,21 +101,21 @@ The Mid Term exam will include up to and including Module 6.  The Final Exam wil
 
 
 ## Homework
-There are three assigned homework problems, with due dates listed on moodle (and below).  Homework programs will likely require 3-6 hours of your time, and will be more involved and complex than the non-graded programming exercises.  I will provide feedback on homework, and partial credit will be given.  Homework programs 20% of your semester grade, each being 5%.  **No late homework will be accepted.**
+There are three assigned homework problems, with due dates listed on moodle (and below).  Homework programs will likely require 3-6 hours of your time, and will be more involved and complex than the non-graded programming exercises.  I will provide feedback on homework, and partial credit will be given.  **No late homework will be accepted.**
 
 |Link to Homework Assignment| Due Date
 |--|----
-| [Homework 1](../hw/hw1/) | 6/4/2017 (Sunday night)
-| [Homework 2](../hw/hw2/) | 6/18/2017 (Sunday night)
-| [Homework 3](../hw/hw3/) | 6/26/2017 (Sunday night)
+| [Homework 1](../hw/hw1/) | 6/3/2018 (Sunday night)
+| [Homework 2](../hw/hw2/) | 6/17/2018 (Sunday night)
+| [Homework 3](../hw/hw3/) | 6/25/2018 (Monday night)
 
 ## Exams (Mid Term and Final)
 Midterm and Final Exams will be taken remotely, **meaning you will not be required to come to campus to take them**.  The exams will last 3 hours each.
 
 |  | Modules Covered | Date
 |--|---|---
-| **Mid Term Exam** | Modules 1-6 | Tuesday, 6/6/2017 (9am or 6pm)
-| **Final Exam** | Modules 6-16 | Monday, 6/26/2017 (9am or 6pm)
+| **Mid Term Exam** | Modules 1-6 | Tuesday, 6/5/2018 (9am or 6pm)
+| **Final Exam** | Modules 6-16 | Monday, 6/25/2018 (9am or 6pm)
 
 You will be required to let me know in advance which session (9am or 6pm) you intend to attend.  I will email you the exam at the given time and you will upload the answers to Moodle.
 
@@ -142,7 +142,7 @@ Students are expected to read and understand Ramapo College’s Academic Integri
 
 **Please consult my explanation of academic integrity regarding computer science [HERE](/~sfrees/integrity.html)**.
 
-For homework programming assignments, you may discuss ideas, however you may not allow others to see your source code or examine others’.  Sharing of source code is extremely easy to detect and is strictly prohibited.   If sharing of source code is suspected, intentional or otherwise, both parties will immediately be referred to the Office of the Provost.
+For homework programming assignments, you may discuss ideas, however you may not allow others to see your source code or examine others’.  Sharing of source code is extremely easy to detect and is strictly prohibited.   **If sharing of source code is suspected, intentional or otherwise, both parties will immediately be referred to the Office of the Provost**.
 
 # Students with Disabilities:
 If you need course adaptation or accommodations because of a disability that has been documented with the Office of Specialized Services, please make an appointment during my office hours.
