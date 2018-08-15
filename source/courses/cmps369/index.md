@@ -1,4 +1,4 @@
-# CMPS 369 Fall 2017
+# CMPS 369 Fall 2018
 
 ## Web Application Development
 
@@ -11,7 +11,7 @@ Office&nbsp;&nbsp;G315
 Phone&nbsp;&nbsp;(201) 684-7726
 Email&nbsp;&nbsp;[sfrees@ramapo.edu](mailto:sfrees@ramapo.edu)
 
-**Office Hours:**   Mondays and Thursdays 4-5pm, or by appointment
+**Office Hours:**  Mondays 4-5pm and Thursdays 4-5:30pm, by appointment.
 
 ## Course Description
 This course provides in-depth treatment of the critical languages, design patterns, and technologies underpinning all of modern web application development. The basics of networking, along with the details of the HTTP protocol are introduced. HTML (through version 5), CSS (through version 3) are presented from the perspective of an application developer.
@@ -141,14 +141,14 @@ There are three homework assignments and two larger programming projects assigne
 
 |Link to Homework Assignment| Due Date
 |--|----
-| [Homework 1](https://docs.google.com/document/d/1TFvoSgDqj26uk0F_ffVI600D0184hPugJYQURaImD4c/pub) |  9/18
+| [Homework 1](https://docs.google.com/document/d/1TFvoSgDqj26uk0F_ffVI600D0184hPugJYQURaImD4c/pub) |  9/17
 | [Homework 2](https://docs.google.com/document/d/1vD8UQT-ot7BDysyKRHCsvrRHsOkxv-rYCnnkpmbnNnc/pub) |  9/25
-| [Homework 3](https://docs.google.com/document/d/1SY9-yYsalcCoK1JLLHJqcuBNH-lkB3KM1J3xZ2g3BgM/pub) |  10/26
+| [Homework 3](https://docs.google.com/document/d/1SY9-yYsalcCoK1JLLHJqcuBNH-lkB3KM1J3xZ2g3BgM/pub) |  10/25
 
 |Link to Projects| Due Date
 |--|----
-| [Project 1](https://docs.google.com/document/d/1P_cGhz1tsRNYKk7KvCRNXDdZwdyP70iv3CJ2Zc5hmDU/pub) |  10/16
-| [Project 2](https://docs.google.com/document/d/1-5Oigr6RwMwN3gMvgz-oDwA315uuJ7srt8FYPRyhDwE/pub) |  11/16
+| [Project 1](https://docs.google.com/document/d/1P_cGhz1tsRNYKk7KvCRNXDdZwdyP70iv3CJ2Zc5hmDU/pub) |  10/15
+| [Project 2](https://docs.google.com/document/d/1-5Oigr6RwMwN3gMvgz-oDwA315uuJ7srt8FYPRyhDwE/pub) |  11/15
 
 # Final Project
 The final project will be due the same day as our scheduled final exam.  The full details can be found [here](https://docs.google.com/document/d/1lfnxI3C_44m9MwZaBxAtfBb9w6jciJvoIsSQw40mXvg/pub).  You will show me your running code during the final exam period.  The final project is **instead** of the final exam.
