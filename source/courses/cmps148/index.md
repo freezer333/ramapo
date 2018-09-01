@@ -135,3 +135,12 @@ Make-ups will not be given for the exams given during the semester.  Failure to 
 
 # Students with Disabilities:
 If you need course adaptation or accommodations because of a disability that has been documented with the Office of Specialized Services, please make an appointment during my office hours.
+
+# A Note on Sexual Misconduct 
+Ramapo College is committed to fostering a safe, productive learning environment. Title IX and our college policy prohibit discrimination on the basis of sex or gender.  Sexual misconduct — including harassment, domestic and dating violence, sexual assault, and stalking are prohibited.  The College encourages anyone experiencing sexual misconduct to talk to someone about what happened, so they can get the support they need and our college can respond appropriately.
+ 
+If you wish to speak confidentially about an incident of sexual misconduct, please contact the Counseling Center at 201-684-7522 or 201-684-6666 during nights and weekends. If you wish to report sexual misconduct or have questions about policies and procedures regarding sexualmisconduct, please contact Kat McGee, the College’s Director of Title IX at 201-684-7220.
+ 
+The College is legally obligated to investigate reports of sexual misconduct, and therefore it cannot guarantee the confidentiality of a report, but it will consider a request for confidentiality and respect it to the extent possible.  
+ 
+As a faculty member, I am also required by our College to report incidents of sexual misconduct and thus cannot guarantee confidentiality, but I will respect your privacy and only share the information with those who have a duty to respond. Should I become aware of an incident involving sexualmisconduct, I must provide our Title IX Coordinator with relevant details such as the names of those involved in the incident.
