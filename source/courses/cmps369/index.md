@@ -3,7 +3,7 @@
 ## Web Application Development
 
 **Meeting Time:** Mondays and Thursday 2:15pm-3:55pm
-**Location:** G 301
+**Location:** ASB 429
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 
 ** Contact Information**
