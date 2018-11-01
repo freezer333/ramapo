@@ -148,7 +148,7 @@ There are three homework assignments and two larger programming projects assigne
 |Link to Projects| Due Date
 |--|----
 | [Project 1](https://docs.google.com/document/d/1P_cGhz1tsRNYKk7KvCRNXDdZwdyP70iv3CJ2Zc5hmDU/pub) |  10/15
-| [Project 2](https://docs.google.com/document/d/1-5Oigr6RwMwN3gMvgz-oDwA315uuJ7srt8FYPRyhDwE/pub) |  11/15
+| [Project 2](projects/maps.html) |  11/22
 
 # Final Project
 The final project will be due the same day as our scheduled final exam.  The full details can be found [here](https://docs.google.com/document/d/1lfnxI3C_44m9MwZaBxAtfBb9w6jciJvoIsSQw40mXvg/pub).  You will show me your running code during the final exam period.  The final project is **instead** of the final exam.
