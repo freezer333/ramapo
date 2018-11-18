@@ -3,7 +3,7 @@
 ## Web Application Development
 
 **Meeting Time:** Mondays and Thursday 2:15pm-3:55pm
-**Location:** G 301
+**Location:** ASB 429
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 
 ** Contact Information**
@@ -148,7 +148,7 @@ There are three homework assignments and two larger programming projects assigne
 |Link to Projects| Due Date
 |--|----
 | [Project 1](https://docs.google.com/document/d/1P_cGhz1tsRNYKk7KvCRNXDdZwdyP70iv3CJ2Zc5hmDU/pub) |  10/15
-| [Project 2](https://docs.google.com/document/d/1-5Oigr6RwMwN3gMvgz-oDwA315uuJ7srt8FYPRyhDwE/pub) |  11/15
+| [Project 2](projects/maps.html) |  11/22
 
 # Final Project
 The final project will be due the same day as our scheduled final exam.  The full details can be found [here](https://docs.google.com/document/d/1lfnxI3C_44m9MwZaBxAtfBb9w6jciJvoIsSQw40mXvg/pub).  You will show me your running code during the final exam period.  The final project is **instead** of the final exam.
@@ -190,6 +190,9 @@ If you need course adaptation or accommodations because of a disability that has
 
 ## Make-Up Exam Policy
 Make-ups will not be given for the exams given during the semester.  Failure to attend class on those days will result in a zero.  Make-ups will only be given in extraordinary circumstances (college approved absence) such as a documented medical or religious absence.
+
+# Students with Disabilities:
+Ramapo College is committed to providing reasonable accommodations for all persons with disabilities.  If you are eligible for classroom accommodations as an individual with a disability, you are required to affiliate with The Office of Specialized Services (OSS) locating in the C Wing in room C205. OSS phone number is 201-684-7514, email is oss@ramapo.edu and website is www.ramapo.edu/oss/.   If you need course adaptation or accommodations because of a disability that has been documented with the Office of Specialized Services, please make an appointment with me.
 
 # A Note on Sexual Misconduct 
 Ramapo College is committed to fostering a safe, productive learning environment. Title IX and our college policy prohibit discrimination on the basis of sex or gender.  Sexual misconduct — including harassment, domestic and dating violence, sexual assault, and stalking are prohibited.  The College encourages anyone experiencing sexual misconduct to talk to someone about what happened, so they can get the support they need and our college can respond appropriately.
