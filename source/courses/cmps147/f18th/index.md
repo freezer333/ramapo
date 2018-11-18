@@ -231,7 +231,7 @@ Make-ups will not be given for the exams given during the semester.  Failure to 
 
 
 # Students with Disabilities:
-If you need course adaptation or accommodations because of a disability that has been documented with the Office of Specialized Services, please make an appointment during my office hours.
+Ramapo College is committed to providing reasonable accommodations for all persons with disabilities.  If you are eligible for classroom accommodations as an individual with a disability, you are required to affiliate with The Office of Specialized Services (OSS) locating in the C Wing in room C205. OSS phone number is 201-684-7514, email is oss@ramapo.edu and website is www.ramapo.edu/oss/.   If you need course adaptation or accommodations because of a disability that has been documented with the Office of Specialized Services, please make an appointment with me.
 
 # A Note on Sexual Misconduct 
 Ramapo College is committed to fostering a safe, productive learning environment. Title IX and our college policy prohibit discrimination on the basis of sex or gender.  Sexual misconduct — including harassment, domestic and dating violence, sexual assault, and stalking are prohibited.  The College encourages anyone experiencing sexual misconduct to talk to someone about what happened, so they can get the support they need and our college can respond appropriately.
