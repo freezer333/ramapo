@@ -1,12 +1,12 @@
-# CMPS 311 - Operating Systems - Spring 2017
-**Meeting Time:  **&nbsp;&nbsp;Mondays, Wednesday, and Thursdays, 9:30am - 10:40am
-**Location:  **&nbsp;&nbsp;ASB Room 429
+# CMPS 311 - Operating Systems - Spring 2019
+**Meeting Time:  **&nbsp;&nbsp;Mondays and Thursdays, 2-15pm - 3:55pm
+**Location:  **&nbsp;&nbsp;G-301
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 ** Contact Information**
 Office&nbsp;&nbsp;G315
 Phone&nbsp;&nbsp;(201) 684-7726
 Email&nbsp;&nbsp;[sfrees@ramapo.edu](mailto:sfrees@ramapo.edu)
-Office Hours &nbsp;&nbsp;Wednesdays 11am-12pm and Thursday 4-5pm
+Office Hours &nbsp;&nbsp;Mondays and Thursdays 4-5pm and by appointment
 
 ## Course Description
 A study of the design, use, and analysis of operating systems. The course will include a study of the supportive computer architecture, memory management, process management, information management, device control, operating systems structure, and evaluation.  
@@ -18,6 +18,8 @@ CMPS 231 Data Structures, CMPS 220 Assembly Language Programming, and MATH 237 D
 **Textbook** &nbsp;&nbsp; [Modern Operating Systems (4th Edition)](http://www.amazon.com/Modern-Operating-Systems-4th-Edition/dp/013359162X) by Andrew S. Tanenbaum, Herbert Bos. *Note, the textbook is required for this course, and will be relavent to nearly each lecture.*
 <img src='http://ecx.images-amazon.com/images/I/51dqadCuRiL._SX390_BO1,204,203,200_.jpg' width="200"/>
 <hr class="print-page"/>
+
+**You may use an electronic, rented, used, or new copy of the text book.  We will not be using any of the additional/bonus material associated with the purchase of a new textbook.  However, please make sure you have the 4th Edition!**
 
 ## Required Programming Environment
 **Attention Microsoft Windows Users** - while we will touch upon the Win32 API, the vast majority of the programming you will do in this course will require you to write C++ code targeting the POSIX API, which is supported by Max OS X and Linux.  You will absolutely be required to program in the POSIX environment, so if you do not currently use OS X or Linux, you'll need to create an environment.  
@@ -39,31 +41,33 @@ If you are using Windows, you can install Linux alongside Windows without too mu
 
 <hr class="print-page"/>
 ## Lecture Schedule
-Below is a tentative schedule for the course.  All topics and due dates are subject to change, and if there is a difference between what is stated here and on Moodle, please always consider Moodle to be correct (and let me know so I can correct the mismatch!).
+Below is a tentative schedule for the course.  All topics and due dates are subject to change, based on our pace and possible College closing due to weather, etc.
 
 **You must keep up with the readings** associated with each lecture.  
 
 <div style="margin:0px;padding:0px;overflow:hidden">
-    <iframe src="https://docs.google.com/spreadsheets/d/1E3dVWQWvhCqO8cxe0JM-qzVtL3bfVrZvZA5SI7S_SPs/pubhtml?gid=0&single=true" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:1200px;width:100%;" height="100%" width="100%"></iframe>
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQNUofDH6_I_L0noTcBD5N5bIe_fTmSpbsHTGsrKHKLLxo1-QciHvTCBVIs6AAW6HMhjIOpCLJ_jEED/pubhtml?gid=0&single=true" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:1200px;width:100%;" height="100%" width="100%"></iframe>
 </div>
 <hr class="print-page"/>
 <a name="modules"></a>
 
 ## Code Examples
-
 Click [here](code/) for source code discussed in lectures throughout the semester.
+
+## Printable Slides
+Click [here](slides_pdf/) for PDF versions of the module slides for printing.
 
 
 ## Homework Assignments
 Homework assignments are worth 100 points, and are turned in electronically, on Moodle.
 
-* [Homework 1](hw/hw1)  - Due on 1/26/17
-* [Homework 2](hw/hw2)  - Due on 2/6/17
-* [Homework 3](hw/hw3)  - Due on 2/13/17
-* [Homework 4](hw/hw4)  - Due on 2/20/17
-* [Homework 5](hw/hw5)  - Due on 3/1/17
-* [Homework 6](hw/hw6)  - Due on 4/3/17
-* [Homework 7](hw/hw7)  - Due on 4/26/17
+* [Homework 1](hw/hw1)  - Due on 1/31/19
+* [Homework 2](hw/hw2)  - Due on 2/7/19
+* [Homework 3](hw/hw3)  - Due on 2/14/19
+* [Homework 4](hw/hw4)  - Due on 2/21/19
+* [Homework 5](hw/hw5)  - Due on 3/11/19
+* [Homework 6](hw/hw6)  - Due on 4/8/19
+* [Homework 7](hw/hw7)  - Due on 5/6/19
 
 <hr class="print-page"/>
 
@@ -80,10 +84,8 @@ You will write a written report on the history, evolution, and design of ONE of 
 
 The paper will technical aspects of the platforms, but largely focus on the its history and development.  While technical details are must (for example, what type of filesystem does the OS use?), your efforts on this report should be directed on clearly articulating where the operating system came from (did it evolve from something else?), how it became what it is today (were there any releases that were failures, spectacular successes?), and where it is headed (is it on its way out, or is it primed to take over the world?).
 
-* A first draft is due on 3/30/2017.  This draft is expected to be a complete paper, and you will be graded on its quality.  I will offer advice for revisions.
+* A first draft is due on **4/1/2019**.  This draft is expected to be a complete paper, and you will be graded on its quality.  I will offer advice for revisions.
 * **Your final draft is due the last day of class (before finals)**.  Your grade is based on the quality of your writing, the depth in which you covered the subject, and how you responded to revision requests from your first draft.
-
-
 
 ## Late Policy
 All assignments will be turned in electronically.  A late penalty of 5 points per day will be applied to all late assignments.  The required format/method of your electronic submissions will be outlined for each assignment.  Deviation from these requirements may result in a 5-point penalty.  
@@ -114,13 +116,13 @@ IF SHARING OF SOURCE CODE IS SUSPECTED, INTENTIONAL OR OTHERWISE, BOTH PARTIES W
 Make-ups will not be given for the exams given during the semester.  Failure to attend class on those days will result in a zero.  Make-ups will only be given in extraordinary circumstances (college approved absence) such as a documented medical or religious absence.
 
 # Students with Disabilities:
-Ramapo College is committed to providing reasonable accommodations for all persons with disabilities.  If you are eligible for classroom accommodations as an individual with a disability, you are required to affiliate with The Office of Specialized Services (OSS) locating in the C Wing in room C205. OSS phone number is 201-684-7514, email is oss@ramapo.edu and website is www.ramapo.edu/oss/.   If you need course adaptation or accommodations because of a disability that has been documented with the Office of Specialized Services, please make an appointment with me.
+Ramapo College is committed to providing reasonable accommodations for all students and to offer optional academic support for those with documented physical, sensory, learning, or psychological disabilities. Students can request academic accommodations by registering with the Office of Specialized Services (OSS). Information and documentation provided to OSS are held in confidence as educational records. Students can utilize these services at any time after registering with OSS. Students who need course adaptation or accommodations due to disability reasons should make an appointment to see an OSS representative during the first week of the semester. Please note: Students must be registered with OSS to receive accommodations. For additional information, The Office of Specialized Services (OSS) is located in the C Wing in room C205. The OSS phone number is 201-684-7514 (x7514) or you can email them at oss@ramapo.edu. 
 
-# A Note on Sexual Misconduct 
-Ramapo College is committed to fostering a safe, productive learning environment. Title IX and our college policy prohibit discrimination on the basis of sex or gender.  Sexual misconduct — including harassment, domestic and dating violence, sexual assault, and stalking are prohibited.  The College encourages anyone experiencing sexual misconduct to talk to someone about what happened, so they can get the support they need and our college can respond appropriately.
- 
-If you wish to speak confidentially about an incident of sexual misconduct, please contact the Counseling Center at 201-684-7522 or 201-684-6666 during nights and weekends. If you wish to report sexual misconduct or have questions about policies and procedures regarding sexualmisconduct, please contact Kat McGee, the College’s Director of Title IX at 201-684-7220.
- 
-The College is legally obligated to investigate reports of sexual misconduct, and therefore it cannot guarantee the confidentiality of a report, but it will consider a request for confidentiality and respect it to the extent possible.  
- 
-As a faculty member, I am also required by our College to report incidents of sexual misconduct and thus cannot guarantee confidentiality, but I will respect your privacy and only share the information with those who have a duty to respond. Should I become aware of an incident involving sexualmisconduct, I must provide our Title IX Coordinator with relevant details such as the names of those involved in the incident.
+# Sexual Misconduct:
+Ramapo College is committed to fostering a safe, productive learning environment. Title IX and our college policy prohibit discrimination on the basis of sex or gender. Sexual misconduct - including harassment, domestic and dating violence, sexual assault, and stalking are prohibited. The College encourages anyone experiencing sexual misconduct to talk to someone about what happened, so they can get the support they need and our college can respond appropriately.
+
+If you wish to speak confidentially about an incident of sexual misconduct, please contact the Counseling Center at 201-684-7522 or 201-684-6666 during nights and weekends. If you wish to report sexual misconduct or have questions about policies and procedures regarding sexual misconduct, please contact Kat McGee, the College's Director of Title IX at 201-684-7220.
+
+The College is legally obligated to investigate reports of sexual misconduct, and therefore it cannot guarantee the confidentiality of a report, but it will consider a request for confidentiality and respect it to the extent possible.
+
+As a faculty member, I am also required by our College to report incidents of sexual misconduct and thus cannot guarantee confidentiality, but I will respect your privacy and only share the information with those who have a duty to respond. Should I become aware of an incident involving sexual misconduct, I must provide our Title IX Coordinator with relevant details such as the names of those involved in the incident.
