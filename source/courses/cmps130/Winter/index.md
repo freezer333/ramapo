@@ -3,7 +3,7 @@
 
 **Meeting Time:  **This is an online course
 **Location:  **This is an online course
-**Date:  **December 22nd, 2017 - January 12th, 2018
+**Date:  **December 24th, 2018 - January 18th, 2019
 **Professor:**&nbsp;&nbsp;[Scott Frees](http://pages.ramapo.edu/~sfrees), Professor of Computer Science
 
 ** Contact Information**
@@ -62,26 +62,28 @@ The course has been organized into a series of modules, each of which covers an 
 
 Most modules also have programming exercises associated with them which you should complete (on your own).  Solutions and video recordings of the solution being developed are also posted - however I strongly recommend you try each exercise on your own before watching me solve it!  And of course - the way I solve it may not be the only correct way to do so!
 
-## Week 1 - 12/22 - 12/29
+## Week 1 - 12/24 - 12/30
 - [Module 00](../modules/module00) - Introduction to Computation
 - [Module 01](../modules/module01) - Introduction to Python Programming
 - [Module 02](../modules/module02) - Strings and Input
 - [Module 03](../modules/module03) - Branching Programs
 - [Module 04](../modules/module04) - Loops
 
-## Week 2 - 12/29 - 1/5
+## Week 2 - 12/31 - 1/6
 - [Module 05](../modules/module05) - Functions
 - [Module 06](../modules/module06) - Recursion
 - [Module 07](../modules/module07) - Global Variables
 - [Module 08](../modules/module08) - Modules
+
+## Week 3 - 1/7 - 1/13
 - [Module 09](../modules/module09) - Reading and Writing Files
 - [Module 10](../modules/module10) - Generalized Sequences -> Tuples
 - [Module 11](../modules/module11) - Lists
-
-## Week 3 - 1/5 - 1/12
 - [Module 12](../modules/module12) - Dictionaries
 - [Module 13](../modules/module13) - Testing and Debugging
 - [Module 14](../modules/module14) - Exceptions and Assertions
+
+## Week 4 - 1/14 - 1/18
 - [Module 15](../modules/module15) - Abstract Data Types and Classes
 - [Module 16](../modules/module16) - Inheritance
 - [Module 17](../modules/module17) - Encapsulation and Generators
@@ -89,7 +91,7 @@ Most modules also have programming exercises associated with them which you shou
 I **strongly** recommend you work through each module in order - programming is not the type of thing that you can skip around with...
 
 ## Recommended Pace
-I have organized the course into 3 weeks, with each week containing several modules.  Programming example solutions are posted within the modules they are presented in.  It is critical that you keep pace with the course and complete the modules and assignments during the week they are posted.  Homework assignments (one per week) are due Friday (see individual assignments below) evenings at 11:59pm.  No late work will be accepted, so please try to start the programs early.  Programming Examples presented with each module should be completed independently before you view the solutions - but you do not need to turn these in.
+I have organized the course into 4 weeks, with each week containing several modules.  Programming example solutions are posted within the modules they are presented in.  It is critical that you keep pace with the course and complete the modules and assignments during the week they are posted.  Homework assignments (one per week) are due Sunday (see individual assignments below) evenings at 11:59pm.  No late work will be accepted, so please try to start the programs early.  Programming Examples presented with each module should be completed independently before you view the solutions - but you do not need to turn these in.
 
 You may work ahead of the pace, **and are encouraged to do so**.  
 
@@ -101,17 +103,17 @@ There are three assigned homework problems, with due dates listed below.  Homewo
 
 |Link to Homework Assignment| Due Date
 |--|----
-| [Homework 1](../hw/hw1/) | 12/29 (Friday night @11:59pm)
-| [Homework 2](../hw/hw2/) | 1/5 (Friday night @11:59pm)
-| [Homework 3](../hw/hw3/) | 1/12 (Friday night @11:59pm)
+| [Homework 1](../hw/hw1/) | 1/6 (Sunday night @11:59pm)
+| [Homework 2](../hw/hw2/) | 1/13 (Sunday night @11:59pm)
+| [Homework 3](../hw/hw3/) | 1/18 (FRIDAY night @11:59pm)
 
 ## Exams (Mid Term and Final)
 Exams **are taken on campus, in ASB 429**.  Exams must be taken during one of two designated time slots (see below), and are to be completed within the three hour time window.  Unless you have a extraordinary circumstance, you must come to campus to take the Mid Term and Final Exam.  
 
 |  | Modules Covered | Date
 |--|---|---
-| **Mid Term Exam** | Modules 1-8 | Thursday, 1/4/2018 (9am or 6pm)
-| **Final Exam** | Modules 1-17 | Friday, 1/12/2018 (9am or 6pm)
+| **Mid Term Exam** | Modules 1-8 | Monday, 1/7/2019 (9am or 6pm)
+| **Final Exam** | Modules 1-17 | Friday, 1/18/2019 (9am or 6pm)
 
 # Grading
 
@@ -134,7 +136,22 @@ Exams **are taken on campus, in ASB 429**.  Exams must be taken during one of tw
 ## Policy on Academic Integrity
 Students are expected to read and understand Ramapo College’s Academic Integrity Policy, which can be found in the Ramapo College Catalog.  Members of the Ramapo College community are expected to be honest and forthright in their academic endeavors.  Students who are suspected of violating this policy will be referred to the Office of the Provost.
 
-For homework programming assignments, you may discuss ideas, however you may not allow others to see your source code or examine others’.  Sharing of source code is extremely easy to detect and is strictly prohibited.   If sharing of source code is suspected, intentional or otherwise, both parties will immediately be referred to the Office of the Provost.
+<p class="highlight">When completing programming exercises, you may discuss code with your fellow students; however, copying source code is strictly forbidden.  For quizzes and exams, you are not allowed to communicate with anyone, for any reason.  
+</p>
+
+<p class="angry"><b>Please make no mistake,</b>  while you may use the internet to gather information about code or help with syntax, websites that contain *complete solutions* to programs are 100%, <b>absolutely</b>, inappropriate and not acceptable resources to use while completing ANY work in this class.  <br/><br/>If you copy large portions of code <b>from ANYWHERE, you have CHEATED</b>.  Sharing/copying source code is extremely easy to detect and is strictly prohibited.   If sharing of source code is suspected, intentional or otherwise, <b>all</b> parties will immediately be referred to the Office of the Provost.</p>
+
+**Please consult my explanation of academic integrity regarding computer science [here](/~sfrees/integrity.html)**
+
 
 # Students with Disabilities:
-Ramapo College is committed to providing reasonable accommodations for all persons with disabilities.  If you are eligible for classroom accommodations as an individual with a disability, you are required to affiliate with The Office of Specialized Services (OSS) locating in the C Wing in room C205. OSS phone number is 201-684-7514, email is oss@ramapo.edu and website is www.ramapo.edu/oss/.   If you need course adaptation or accommodations because of a disability that has been documented with the Office of Specialized Services, please make an appointment with me.
+Ramapo College is committed to providing reasonable accommodations for all students and to offer optional academic support for those with documented physical, sensory, learning, or psychological disabilities. Students can request academic accommodations by registering with the Office of Specialized Services (OSS). Information and documentation provided to OSS are held in confidence as educational records. Students can utilize these services at any time after registering with OSS. Students who need course adaptation or accommodations due to disability reasons should make an appointment to see an OSS representative during the first week of the semester. Please note: Students must be registered with OSS to receive accommodations. For additional information, The Office of Specialized Services (OSS) is located in the C Wing in room C205. The OSS phone number is 201-684-7514 (x7514) or you can email them at oss@ramapo.edu. 
+
+# A Note on Sexual Misconduct 
+Ramapo College is committed to fostering a safe, productive learning environment. Title IX and our college policy prohibit discrimination on the basis of sex or gender.  Sexual misconduct — including harassment, domestic and dating violence, sexual assault, and stalking are prohibited.  The College encourages anyone experiencing sexual misconduct to talk to someone about what happened, so they can get the support they need and our college can respond appropriately.
+ 
+If you wish to speak confidentially about an incident of sexual misconduct, please contact the Counseling Center at 201-684-7522 or 201-684-6666 during nights and weekends. If you wish to report sexual misconduct or have questions about policies and procedures regarding sexual misconduct, please contact Kat McGee, the College’s Director of Title IX at 201-684-7220.
+ 
+The College is legally obligated to investigate reports of sexual misconduct, and therefore it cannot guarantee the confidentiality of a report, but it will consider a request for confidentiality and respect it to the extent possible.  
+ 
+As a faculty member, I am also required by our College to report incidents of sexual misconduct and thus cannot guarantee confidentiality, but I will respect your privacy and only share the information with those who have a duty to respond. Should I become aware of an incident involving sexual misconduct, I must provide our Title IX Coordinator with relevant details such as the names of those involved in the incident.

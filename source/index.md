@@ -12,6 +12,13 @@ Ramapo College of New Jersey
 505 Ramapo Valley Road
 Mahwah, NJ 07430
 
+# Winter 2019 Course Schedule
+|Course|Time|Room|
+|:--|---|---|
+|[CMPS 130 - Scientific Programming with Python](courses/cmps130/Winter)|Online| -|
+
+Office hours will be held by appointment via web conference / phone.
+
 # Fall 2018 Course Schedule
 |Course|Time|Room|
 |:--|---|---|
