@@ -1,10 +1,10 @@
-# CMPS 364 Spring 2018
+# CMPS 364 Spring 2019
 ## Database Design
 
-**Meeting Times:  **&nbsp;&nbsp;Section 01:  Thursdays, 6:05pm-9:35pm;  Section 02:   Mondays/Thursdays 4:10pm - 5:50pm
+**Meeting Times:  **&nbsp;&nbsp;Thursdays, 6:05pm-9:35pm;
 **Location:  **&nbsp;&nbsp;ASB Room 429
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
-Office hours held each Monday and Thursday from 3-4pm, or by appointment.
+Office hours held each Monday and Thursday from 4-5pm, or by appointment.
 
 ** Contact Information**
 Office&nbsp;&nbsp;G315
@@ -17,7 +17,7 @@ The first portion of the semester is dedicated to relational schema design, emph
 
 The second segment of the semester is focused on SQL and query design. We will use the SQLite database through the Python programming language.
 
-The third portion of the class is dedicated to a variety of different technologies related to data representation, storage, and retieval. This includes JSON and MongoDB, and the Redis key-store database.
+The third portion of the class is dedicated to a variety of different technologies related to data representation, storage, and retrieval. This includes JSON and MongoDB, and the Redis key-store database.
 
 While the course will include discussions on database security, data protection, and administration, the primary focus of the course is software development using databases.
 
@@ -29,7 +29,7 @@ CMPS 231 Data Structures
 
 <img src='http://ecx.images-amazon.com/images/I/51JtltOJPVL.jpg' width="200"/>
 
-*Note, the textbook is required for this course, and will be relavent to nearly each lecture.*
+*Note, the textbook is required for this course, and will be relevant to nearly each lecture.*
 
 ## Programming Environment
 This course will require you to write SQL and Python code. You will need to install Python3 on your machine to do the programming work, however this will be explained in detail during class.  A simple text editor is all that is necessary for your programming, however installing a good programming editor is highly recommended. In addition, you will also need to install SQLite. SQLite is a relational database compatable with all major operating systems (Windows, Mac OS X, Linux).  It is highly recommended that you have access to your own computer to do your development on.
@@ -56,24 +56,17 @@ Below is a tentative schedule for the course.  All topics and due dates are subj
 
 PDF Versions of all lecture slides found [here](slides)
 
-### SECTION 01
-<div style="margin:0px;padding:0px;overflow:hidden">
-    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcjrwPtOQGpOjcIsEVURrLtxuxjhRly5fJ23gl67gB_N4npxdlJbRKTvP042TAeDlfbmsCHFOE8Kp3/pubhtml?gid=1767444203&single=true" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:800px;width:100%;" height="100%" width="100%"></iframe>
-</div>
-
-### SECTION 02
 <div style="margin:0px;padding:0px;overflow:hidden">
     <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcjrwPtOQGpOjcIsEVURrLtxuxjhRly5fJ23gl67gB_N4npxdlJbRKTvP042TAeDlfbmsCHFOE8Kp3/pubhtml?gid=168507821&single=true" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:800px;width:100%;" height="100%" width="100%"></iframe>
 </div>
 
 ## Homework Assignments
-* [Homework 1](hw/hw1.html)  - Due on 2/8/18
-* [Homework 2](hw/hw2.html)  - Due on 2/15/18
-* [Homework 3](hw/hw3.html)  - Due on 4/19/18
+* [Homework 1](hw/hw1.html)  - Due on 2/14/19
+* [Homework 2](hw/hw2.html)  - Due on 2/21/19
 
 ## Programming Projects Assignments
-* [Project 1](project1.html)  - Due on 4/05/18
-* [Project 2](project2.html)  - Due on 4/30/18
+* [Project 1](project1.html)  - Due on 4/11/19
+* [Project 2](project2.html)  - Due on 5/02/19
 
 
 ## Late Policy
@@ -86,8 +79,8 @@ Attendance will be recorded by the instructor and, along with class participatio
 
 | % | Activity | Frequency/Description
 |------------------:|:---------------|-------
-|10%|In-class Labs | about 7 assignments
-|10%|Homework | 3 assignments
+|15%|In-class Labs | about 7 assignments
+| 5%|Homework | 2 assignments
 |15%|Programming Projects | 2 assignments
 |35%|Exams | 2 exams during the semester
 |30%|Final Exam | Comprehensive
@@ -104,12 +97,12 @@ IF SHARING OF SOURCE CODE IS SUSPECTED, INTENTIONAL OR OTHERWISE, BOTH PARTIES W
 Make-ups will not be given for the exams given during the semester.  Failure to attend class on those days will result in a zero.  Make-ups will only be given in extraordinary circumstances (college approved absence) such as a documented medical or religious absence.
 
 # Students with Disabilities:
-Ramapo College is committed to providing reasonable accommodations for all persons with disabilities.  If you are eligible for classroom accommodations as an individual with a disability, you are required to affiliate with The Office of Specialized Services (OSS) locating in the C Wing in room C205. OSS phone number is 201-684-7514, email is oss@ramapo.edu and website is www.ramapo.edu/oss/.   If you need course adaptation or accommodations because of a disability that has been documented with the Office of Specialized Services, please make an appointment with me.
+Ramapo College is committed to providing reasonable accommodations for all students and to offer optional academic support for those with documented physical, sensory, learning, or psychological disabilities. Students can request academic accommodations by registering with the Office of Specialized Services (OSS). Information and documentation provided to OSS are held in confidence as educational records. Students can utilize these services at any time after registering with OSS. Students who need course adaptation or accommodations due to disability reasons should make an appointment to see an OSS representative during the first week of the semester. Please note: Students must be registered with OSS to receive accommodations. For additional information, The Office of Specialized Services (OSS) is located in the C Wing in room C205. The OSS phone number is 201-684-7514 (x7514) or you can email them at oss@ramapo.edu. 
 
 # A Note on Sexual Misconduct 
 Ramapo College is committed to fostering a safe, productive learning environment. Title IX and our college policy prohibit discrimination on the basis of sex or gender.  Sexual misconduct — including harassment, domestic and dating violence, sexual assault, and stalking are prohibited.  The College encourages anyone experiencing sexual misconduct to talk to someone about what happened, so they can get the support they need and our college can respond appropriately.
  
-If you wish to speak confidentially about an incident of sexual misconduct, please contact the Counseling Center at 201-684-7522 or 201-684-6666 during nights and weekends. If you wish to report sexual misconduct or have questions about policies and procedures regarding sexualmisconduct, please contact Kat McGee, the College’s Director of Title IX at 201-684-7220.
+If you wish to speak confidentially about an incident of sexual misconduct, please contact the Counseling Center at 201-684-7522 or 201-684-6666 during nights and weekends. If you wish to report sexual misconduct or have questions about policies and procedures regarding sexual misconduct, please contact Kat McGee, the College’s Director of Title IX at 201-684-7220.
  
 The College is legally obligated to investigate reports of sexual misconduct, and therefore it cannot guarantee the confidentiality of a report, but it will consider a request for confidentiality and respect it to the extent possible.  
  
