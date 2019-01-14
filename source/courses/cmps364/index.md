@@ -65,8 +65,8 @@ PDF Versions of all lecture slides found [here](slides)
 * [Homework 2](hw/hw2.html)  - Due on 2/21/19
 
 ## Programming Projects Assignments
-* [Project 1](project1.html)  - Due on 4/11/19
-* [Project 2](project2.html)  - Due on 5/02/19
+* [Project 1](project1/)  - Due on 4/11/19
+* [Project 2](project2/)  - Due on 5/02/19
 
 
 ## Late Policy
