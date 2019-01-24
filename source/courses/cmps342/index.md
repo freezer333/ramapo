@@ -1,4 +1,4 @@
-# CMPS 342 Spring 2018
+# CMPS 342 Spring 2019
 ## Computer Graphics
 
 **Meeting Time:  **&nbsp;&nbsp;Mondays and Thursdays, 11:20am:-1:00pm
@@ -9,7 +9,7 @@
 Office&nbsp;&nbsp;G315
 Phone&nbsp;&nbsp;(201) 684-7726
 Email&nbsp;&nbsp;[sfrees@ramapo.edu](mailto:sfrees@ramapo.edu)
-Office hours held each Monday and Thursday from 3-4pm, or by appointment.
+Office hours held each Monday and Thursday from 4-5pm, or by appointment.
 
 ## Course Description
 An introduction to computer graphics.  The course will include relevant coordinate geometry, graphic devices, primitive graphics operations, polygons, transformations, windows, clipping, and three-dimensional graphics.  The course teaches the fundamental techniques and skills of Computer Graphics utilizing WebGL - which is a modern graphics library built on OpenGL ES 2.0 and supported on nearly all modern computing devices, including mobile devices.  In addition to pure 3D computer graphics, students will also learn how to utilize the web - using HTML and JavaScript to deliver their 3D visualizations
@@ -64,12 +64,12 @@ In addition to the textbook, there are many tutorials online that cover WebGL.  
 
 | | Due Date |
 |:-------|----:
-|[Lab 1](https://docs.google.com/document/d/1l_VI6XdWVCOGA8Gfc6v0BhfFUHYxy9xAwl_VJwpIy3s/pub)|2/15/2018
-|[Lab 2](https://docs.google.com/document/d/1wBaFr26hW0FolZfS-6EWQqFVlgY--VHM7FGQvI7vrHc/pub)|3/5/2018
-|[Lab 3](https://docs.google.com/document/d/118jAviNeoRj4zoop9CINVJ6dv_OjgXVCC7ggoR_aqs4/pub)|3/26/2018
-|[Lab 4](https://docs.google.com/document/d/1QpUpeL1k3du-5lxF9zXRg-WPwkI06TKRUixTnWZXFFY/pub)|4/23/2018
-|[Homework 1](https://docs.google.com/document/d/1IN_zkci_zxvTCInrhjibHlVfU3cUKFqZqmzBU6Yx1-Q/pub)|3/8/2018
-|[Homework 2](https://docs.google.com/document/d/134FypLTYMpc7dxWK_HEmCZAAx3QT4qSALDe-vWBEdGU/pub)|4/12/2018
+|[Lab 1](https://docs.google.com/document/d/1l_VI6XdWVCOGA8Gfc6v0BhfFUHYxy9xAwl_VJwpIy3s/pub)|2/21
+|[Lab 2](https://docs.google.com/document/d/1wBaFr26hW0FolZfS-6EWQqFVlgY--VHM7FGQvI7vrHc/pub)|3/7
+|[Lab 3](https://docs.google.com/document/d/118jAviNeoRj4zoop9CINVJ6dv_OjgXVCC7ggoR_aqs4/pub)|4/1
+|[Lab 4](https://docs.google.com/document/d/1QpUpeL1k3du-5lxF9zXRg-WPwkI06TKRUixTnWZXFFY/pub)|4/25
+|[Homework 1](https://docs.google.com/document/d/1IN_zkci_zxvTCInrhjibHlVfU3cUKFqZqmzBU6Yx1-Q/pub)|3/14
+|[Homework 2](https://docs.google.com/document/d/134FypLTYMpc7dxWK_HEmCZAAx3QT4qSALDe-vWBEdGU/pub)|4/18
 
 Labs and Homeworks are worth the same amount of points.  The difference is that we will start labs in class, and you'll be able to work in pairs.  Labs turned in during the class time are able to earn 100%, labs turned in by the beginning of the next lecture are only eligible for a 90%.  Due dates listed above are subject to change, and indicate the date of the *following* lecture.
 
@@ -77,7 +77,7 @@ Labs and Homeworks are worth the same amount of points.  The difference is that 
 All assignments will be turned in electronically.  A late penalty of 5 points per day will be applied to all late assignments.  The required format/method of your electronic submissions will be outlined for each assignment.  Deviation from these requirements may result in a 5-point penalty.  
 
 ## Attendance Policy
-Attendance will be recorded by the instructor and, along with class participation, will be a determining factor in making border-line final grade decisions.  **More than 5 documented absences (more than 5 minutes late) will result in a deduction of 1 full letter grade.  I will begin this policy starting Monday, 1/29**.
+Attendance will be recorded by the instructor and, along with class participation, will be a determining factor in making border-line final grade decisions.  **More than 5 documented absences (more than 5 minutes late) will result in a deduction of 1 full letter grade.  I will begin this policy starting Monday, 1/28**.
 
 ## Grading
 
@@ -99,12 +99,12 @@ IF SHARING OF SOURCE CODE IS SUSPECTED, INTENTIONAL OR OTHERWISE, BOTH PARTIES W
 Make-ups will not be given for the exams given during the semester.  Failure to attend class on those days will result in a zero.  Make-ups will only be given in extraordinary circumstances (college approved absence) such as a documented medical or religious absence.
 
 # Students with Disabilities:
-Ramapo College is committed to providing reasonable accommodations for all persons with disabilities.  If you are eligible for classroom accommodations as an individual with a disability, you are required to affiliate with The Office of Specialized Services (OSS) locating in the C Wing in room C205. OSS phone number is 201-684-7514, email is oss@ramapo.edu and website is www.ramapo.edu/oss/.   If you need course adaptation or accommodations because of a disability that has been documented with the Office of Specialized Services, please make an appointment with me.
+Ramapo College is committed to providing reasonable accommodations for all students and to offer optional academic support for those with documented physical, sensory, learning, or psychological disabilities. Students can request academic accommodations by registering with the Office of Specialized Services (OSS). Information and documentation provided to OSS are held in confidence as educational records. Students can utilize these services at any time after registering with OSS. Students who need course adaptation or accommodations due to disability reasons should make an appointment to see an OSS representative during the first week of the semester. Please note: Students must be registered with OSS to receive accommodations. For additional information, The Office of Specialized Services (OSS) is located in the C Wing in room C205. The OSS phone number is 201-684-7514 (x7514) or you can email them at oss@ramapo.edu. 
 
 # A Note on Sexual Misconduct 
 Ramapo College is committed to fostering a safe, productive learning environment. Title IX and our college policy prohibit discrimination on the basis of sex or gender.  Sexual misconduct — including harassment, domestic and dating violence, sexual assault, and stalking are prohibited.  The College encourages anyone experiencing sexual misconduct to talk to someone about what happened, so they can get the support they need and our college can respond appropriately.
  
-If you wish to speak confidentially about an incident of sexual misconduct, please contact the Counseling Center at 201-684-7522 or 201-684-6666 during nights and weekends. If you wish to report sexual misconduct or have questions about policies and procedures regarding sexualmisconduct, please contact Kat McGee, the College’s Director of Title IX at 201-684-7220.
+If you wish to speak confidentially about an incident of sexual misconduct, please contact the Counseling Center at 201-684-7522 or 201-684-6666 during nights and weekends. If you wish to report sexual misconduct or have questions about policies and procedures regarding sexual misconduct, please contact Kat McGee, the College’s Director of Title IX at 201-684-7220.
  
 The College is legally obligated to investigate reports of sexual misconduct, and therefore it cannot guarantee the confidentiality of a report, but it will consider a request for confidentiality and respect it to the extent possible.  
  
