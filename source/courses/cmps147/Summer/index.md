@@ -1,10 +1,10 @@
-# CMPS 147 Summer 2018
+# CMPS 147 Summer 2019
 
 ## Introduction to Computer Science 1
 
 **Meeting Time:** This is an online course
 **Location:** This is an online course
-**Date:** May 21nd - June 25th, 2018
+**Date:** May 20th - June 24th, 2019
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 
 ** Contact Information**
@@ -19,7 +19,7 @@ An introduction to programming methodology including:  basic concepts of compute
 While all modules/assignments are accessible from this site, we will use [moodle](http://moodle.ramapo.edu/) to submit all programming assignments electronically.  **Please review the college's guide to online courses and moodle [here](http://www.ramapo.edu/summer/online/)**.
 
 ## About the online version of this course
-If you have never taken an online course, you may be surprised how easy it is to fall behind.  Below I have explained the way the course is organized, and if anything is unclear please email me ASAP.  The number one thing to remember is that you need to keep pace with the content on moodle, making sure that you master each week’s modules on a consistent basis.  **Computer science, perhaps more than any other subject, builds from lesson to lesson**.  There is no lesson/module that can be safely “skipped” - they will all come back to haunt you if you don’t understand them (or don’t try to learn them!).  **So please - keep up with the work**!.
+If you have never taken an online course, you may be surprised how easy it is to fall behind.  Below I have explained the way the course is organized, and if anything is unclear please email me ASAP.  The number one thing to remember is that you need to keep pace with the content on Moodle, making sure that you master each week’s modules on a consistent basis.  **Computer science, perhaps more than any other subject, builds from lesson to lesson**.  There is no lesson/module that can be safely “skipped” - they will all come back to haunt you if you don’t understand them (or don’t try to learn them!).  **So please - keep up with the work**!.
 
 ### How to get help:
 I will respond to emails very quickly, so whenever you are struggling with a concept, program, or anything else - please get in touch.  It is best to send me your code as an attachment with any email, so I can see precisely what you are doing.  I will hold office hours by appointment, just email me and we'll work out a time to meet on campus.  We will also be able to video conference on Skype if needed.
@@ -55,7 +55,7 @@ You are required to obtain a copy of the textbook for this course, which will be
 ## Modules
 The entire course has been broken into 30 individual modules.  Each module is posted as a slide show, and as a recorded video lecture (around 30-60 minutes in length each).  Each module will list, on the first slide, where in the textbook the topics discussed will be found.  You should approach each module as a set of resources - composed of the book chapter sections, the slides, the video, and the associated programming examples.  The textbook should be considered a required resource.
 
-### Week 1 - Monday 5/21 - Sunday 5/27
+### Week 1 - Monday 5/20 - Sunday 5/26
 | Module  | Topic | Lecture Slides|  Recorded Video
 |--|:--|:--|:--|:--
 | 0 | Course Policies | [Slides](https://docs.google.com/presentation/d/1Sggyft8QRdvOnpAxCT9wuvFkTrjg7AQaOKHEt50u4AQ/pub?start=false&loop=false&delayms=3000) | 
@@ -69,7 +69,7 @@ The entire course has been broken into 30 individual modules.  Each module is po
 | 8 | Problem Solving with Functions | [Slides](https://docs.google.com/presentation/d/1qMVAFY4SKhYF1RuS55rhVTV8DO1c58QCkGiRUWtUVUk/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/1CEIwo8eMsU)|
 | 9 | Output Formatting | [Slides](https://docs.google.com/presentation/d/1OSsv_Np5BbXmjSTpDw0xYRypeUC6lDB6b_zyjcyLvfY/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/P5MMuS3Sry4) |
 
-### Week 2 - Monday 5/28 - Sunday 6/3
+### Week 2 - Monday 5/27 - Sunday 6/2
 | Module  | Topic | Lecture Slides|  Recorded Video
 |:--|:--|:--|:--
 | 10 | Boolean Data and Relational Operators | [Slides](https://docs.google.com/presentation/d/1P2xeMbC0ymAoOGY91VbRnup2dd06wB8q8uAN_i31XYw/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/ECeK3pLplgg)
@@ -82,7 +82,7 @@ The entire course has been broken into 30 individual modules.  Each module is po
 | 17 | Do-while Loops | [Slides](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000) | [Video](http://youtu.be/4VMQOH_F9Yk)
 | 18 | for loops | [Slides](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/U3S2JntuwQA)
 
-### Week 3 Monday 6/4 - Sunday 6/10
+### Week 3 Monday 6/3 - Sunday 6/9
 | Module  | Topic | Lecture Slides|  Recorded Video
 |:--|:--|:--|:--
 | 19 | Introduction to functions | [Slides](https://docs.google.com/presentation/d/10JM5mVOvcGEjWy2Nhs9yUHro8cBkzws2anCc397tQ-Y/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/PqFi-oiFq5w)
@@ -92,7 +92,7 @@ The entire course has been broken into 30 individual modules.  Each module is po
 | 23 | Pass by value and pass by Reference | [Slides](https://docs.google.com/presentation/d/1SzvW7mBGZNptfhG7pDGAT0SS_M8LpUI5Ji42J_9sWrQ/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/dLM13cqTvoI)
 |24 | Problem solving with functions | [Slides](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/_xamPbaIq3U)
 
-### Week 4 - Monday 6/11 - Sunday 6/17
+### Week 4 - Monday 6/10 - Sunday 6/16
 | Module  | Topic | Lecture Slides|  Recorded Video
 |:--|:--|:--|:--
 | 25 | Numeric Arrays | [Slides](https://docs.google.com/presentation/d/1fGNYHgXo0zkDIT5P7ya_NR_lpaNLGfewiPuftHECf9U/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/K-ILtkKIG4M)
@@ -100,23 +100,23 @@ The entire course has been broken into 30 individual modules.  Each module is po
 | 27 | Arrays and Functions | [Slides](https://docs.google.com/presentation/d/1B3sILuHFmO9ffIqHZ5sxFlA2kKRp0dIlVc5OpQ5jAEE/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/kuR3TGN8zTE)
 | 28 | Sorted Arrays | [Slides](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/T1JDnYX0YZc)
 
-### Week 5 - Monday 6/18 - Sunday 6/25
+### Week 5 - Monday 6/17 - Sunday 6/24
 | Module  | Topic | Lecture Slides|  Recorded Video
 |:--|:--|:--|:--
 | 29 | C-Strings | [Slides](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/AjnK9pmUgDs)
 | 30 | The string class | [Slides](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/BI-ERMHEkZw)
 
 ## Programming Examples
-The majority of modules will include several programming examples.  The module’s video lecture will include a recording of the solution being developed.  Source code for solutions to the programming examples is also provided on moodle (and below).  I highly recommend that you practice these examples without looking at the lecture videos or source code solutions as a method of preparing for the course’s exams.
+The majority of modules will include several programming examples.  The module’s video lecture will include a recording of the solution being developed.  Source code for solutions to the programming examples is also provided on Moodle (and below).  I highly recommend that you practice these examples without looking at the lecture videos or source code solutions as a method of preparing for the course’s exams.
 
 All programming example source code from the modules is found in [Programming Examples.zip](../ProgrammingExamples.zip)
 
 ## Recommended Pace
-I have organized moodle into 5 weeks, with each week containing several modules.  Programming example solutions are posted within the same week as the modules they are presented in.  It is critical that you keep pace with the course and complete the modules and labs during the week they are posted.  Lab assignments (roughly 3 per week) should be done **by yourself** and during the week they have been assigned.  Homework assignments (one per week) are due Sunday evenings at 11:59pm.  No late work will be accepted, so please try to start the programs early.  
+I have organized moodle into 5 weeks, with each week containing several modules.  Programming example solutions are posted within the same week as the modules they are presented in.  It is critical that you keep pace with the course and complete the modules and labs during the week they are posted.  Lab assignments (roughly 3 per week) should be done **by yourself** and during the week they have been assigned.  Homework assignments (one per week) are due at 11:59pm.  No late work will be accepted, so please try to start the programs early.  
 
 You may work ahead of the pace on moodle, and are encouraged to do so.  All contents is loaded onto moodle on the first day of class.  The pace set on moodle and above can be best thought of as your minimum pace.  
 
-The Mid Term exam (see proctoring details below in exam section) will include up to and including Module 18.  The Final Exam will be comprehensive and include content from all Modules
+The Mid Term exam will include up to and including Module 18.  The Final Exam will be comprehensive and include content from all Modules
 
 # Course Assignments
 You learn to program best by… programming a lot!  In this course I will be expecting you to write 3-4 programs each week of varying length.  These will be in the form of Labs and Homework programs.  You must submit homework programs on moodle through the appropriate assignment links at the top of the course page.  It is imperative that you only submit the .cpp (source code) files when turning in your assignments.  I will build your programs and run them, so always triple check that you are submitting source code, and not some other Visual Studio related file (there are many!).  Note, in the first Module’s video, I will provided details instructions on how to get this right.
@@ -131,28 +131,28 @@ This course has been taught in this format dozens of times, and I can assure you
 
 |Link to Lab Assignment| Recommended Completion Date
 |--|----
-| [Lab 1](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.g33af15c55_0144) | 5/27 (Sunday night)
-| [Lab 2](https://docs.google.com/presentation/d/1fbiI6n8cNwljDS2yUH-PR_Kr1UpfdgKizWuqt-5IIFE/pub?start=false&loop=false&delayms=3000&slide=id.g33b4d3301_0137) | 5/27 (Sunday night)
-| [Lab 3](https://docs.google.com/presentation/d/1HYuMZ8fHBVKqX1GziqB4pWJLyaPePKVJxOYYjYUBCNM/pub?start=false&loop=false&delayms=3000#slide=id.g33b873ba6_081) | 5/27 (Sunday night)
-| [Lab 4](https://docs.google.com/presentation/d/1OSsv_Np5BbXmjSTpDw0xYRypeUC6lDB6b_zyjcyLvfY/pub?start=false&loop=false&delayms=3000#slide=id.g1807909b6_0114) | 5/27 (Sunday night)
-| [Lab 5](https://docs.google.com/presentation/d/1E-4ps_HhL6_UeKZKHEBx2UNV11EVhyvkRmVxasE_llE/pub?start=false&loop=false&delayms=3000#slide=id.g180824865_065) | **6/3 (Sunday night)**
-| [Lab 6](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000#slide=id.g180819e3b_078) | **6/3 (Sunday night)**
-| [Lab 7](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000#slide=id.g180825c8b_092) | **6/3 (Sunday night)**
-| [Lab 8](https://docs.google.com/presentation/d/1Y5PBeJYMusRU-4FYvzM60_MiFaqRyGrKSTswcsF-bFQ/pub?start=false&loop=false&delayms=3000#slide=id.g180b604f6_093) | 6/10 (Sunday night)
-| [Lab 9](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000#slide=id.g18155d4d1_031) | 6/10 (Sunday night)
-| [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | **6/17 (Sunday night)**
-| [Lab 11](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | 6/25 (Monday night)
-| [Lab 12](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000#slide=id.g33e80658c_0161) | 6/25 (Monday night)
+| [Lab 1](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.g33af15c55_0144) | 5/26
+| [Lab 2](https://docs.google.com/presentation/d/1fbiI6n8cNwljDS2yUH-PR_Kr1UpfdgKizWuqt-5IIFE/pub?start=false&loop=false&delayms=3000&slide=id.g33b4d3301_0137) | 5/26
+| [Lab 3](https://docs.google.com/presentation/d/1HYuMZ8fHBVKqX1GziqB4pWJLyaPePKVJxOYYjYUBCNM/pub?start=false&loop=false&delayms=3000#slide=id.g33b873ba6_081) | 5/26
+| [Lab 4](https://docs.google.com/presentation/d/1OSsv_Np5BbXmjSTpDw0xYRypeUC6lDB6b_zyjcyLvfY/pub?start=false&loop=false&delayms=3000#slide=id.g1807909b6_0114) | 5/26
+| [Lab 5](https://docs.google.com/presentation/d/1E-4ps_HhL6_UeKZKHEBx2UNV11EVhyvkRmVxasE_llE/pub?start=false&loop=false&delayms=3000#slide=id.g180824865_065) | **6/2**
+| [Lab 6](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000#slide=id.g180819e3b_078) | **6/2**
+| [Lab 7](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000#slide=id.g180825c8b_092) | **6/2**
+| [Lab 8](https://docs.google.com/presentation/d/1Y5PBeJYMusRU-4FYvzM60_MiFaqRyGrKSTswcsF-bFQ/pub?start=false&loop=false&delayms=3000#slide=id.g180b604f6_093) | 6/9
+| [Lab 9](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000#slide=id.g18155d4d1_031) | 6/9
+| [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | **6/16**
+| [Lab 11](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | 6/24
+| [Lab 12](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000#slide=id.g33e80658c_0161) | 6/24
 
 ## Homework
 There are four assigned homework problems, with due dates listed on moodle (and below).  Homework programs will likely require 3-6 hours of your time, and will be more involved and complex than your lab assignments.  I will provide more detailed feedback on homework, and grading will be more discerning.  Homework programs 20% of your semester grade, each being 5%.  **No late homework will be accepted.**
 
 |Link to Homework Assignment| Due Date
 |--|----
-| [Homework 1](../hw1/Homework1.html) | 5/27 (Sunday night)
-| [Homework 2](../hw2/Homework2.html) | 6/3 (Sunday night)
-| [Homework 3](../hw3/Homework3.html) | 6/10 (Sunday night)
-| [Homework 4](../hw4/Homework4.html) | 6/17 (Sunday night)
+| [Homework 1](../hw1/Homework1.html) | 5/26
+| [Homework 2](../hw2/Homework2.html) | 6/2
+| [Homework 3](../hw3/Homework3.html) | 6/9
+| [Homework 4](../hw4/Homework4.html) | 6/16
 
 Please see the Academic Integrity section below - Homework assignments should be your own work.
 
@@ -161,8 +161,8 @@ Midterm and Final Exams will be taken remotely, **meaning you will not be requir
 
 |  | Modules Covered | Date
 |--|---|---
-| **Mid Term Exam** | Modules 1-18 | Tuesday, 6/5/2018 (9am or 6pm)
-| **Final Exam** | Modules 1-30 | Monday, 6/25/2018 (9am or 6pm)
+| **Mid Term Exam** | Modules 1-18 | Tuesday, 6/4/2018 (9am or 6pm)
+| **Final Exam** | Modules 1-30 | Monday, 6/24/2018 (9am or 6pm)
 
 You will be required to let me know in advance which session (9am or 6pm) you intend to attend.  I will email you the exam at the given time and you will upload the answers to Moodle.
 
@@ -193,5 +193,17 @@ Students are expected to read and understand Ramapo College’s Academic Integri
 
 When completing lab programming exercises, you may review code with your fellow students; however, copying source code is strictly forbidden.  For homework programming assignments, you may discuss ideas, however you may not allow others to see your source code or examine others’.  Sharing of source code is extremely easy to detect and is strictly prohibited.   If sharing of source code is suspected, intentional or otherwise, both parties will immediately be referred to the Office of the Provost.
 
-# Students with Disabilities:
-If you need course adaptation or accommodations because of a disability that has been documented with the Office of Specialized Services, please make an appointment during my office hours.
+## Make-Up Exam Policy
+Make-ups will not be given for the exams given during the semester.  Make-ups will only be given in extraordinary circumstances (college approved absence) such as a documented medical or religious absence.
+
+## Students with Disabilities:
+Ramapo College is committed to providing reasonable accommodations for all students and to offer optional academic support for those with documented physical, sensory, learning, or psychological disabilities. Students can request academic accommodations by registering with the Office of Specialized Services (OSS). Information and documentation provided to OSS are held in confidence as educational records. Students can utilize these services at any time after registering with OSS. Students who need course adaptation or accommodations due to disability reasons should make an appointment to see an OSS representative during the first week of the semester. Please note: Students must be registered with OSS to receive accommodations. For additional information, The Office of Specialized Services (OSS) is located in the C Wing in room C205. The OSS phone number is 201-684-7514 (x7514) or you can email them at oss@ramapo.edu. 
+
+## Sexual Misconduct:
+Ramapo College is committed to fostering a safe, productive learning environment. Title IX and our college policy prohibit discrimination on the basis of sex or gender. Sexual misconduct - including harassment, domestic and dating violence, sexual assault, and stalking are prohibited. The College encourages anyone experiencing sexual misconduct to talk to someone about what happened, so they can get the support they need and our college can respond appropriately.
+
+If you wish to speak confidentially about an incident of sexual misconduct, please contact the Counseling Center at 201-684-7522 or 201-684-6666 during nights and weekends. If you wish to report sexual misconduct or have questions about policies and procedures regarding sexual misconduct, please contact Kat McGee, the College's Director of Title IX at 201-684-7220.
+
+The College is legally obligated to investigate reports of sexual misconduct, and therefore it cannot guarantee the confidentiality of a report, but it will consider a request for confidentiality and respect it to the extent possible.
+
+As a faculty member, I am also required by our College to report incidents of sexual misconduct and thus cannot guarantee confidentiality, but I will respect your privacy and only share the information with those who have a duty to respond. Should I become aware of an incident involving sexual misconduct, I must provide our Title IX Coordinator with relevant details such as the names of those involved in the incident.
