@@ -1,9 +1,9 @@
-# CMPS 369 Fall 2018
+# CMPS 369 Fall 2019
 
 ## Web Application Development
 
 **Meeting Time:** Mondays and Thursday 2:15pm-3:55pm
-**Location:** ASB 429
+**Location:** ASB G301
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 
 ** Contact Information**
@@ -11,7 +11,7 @@ Office&nbsp;&nbsp;G315
 Phone&nbsp;&nbsp;(201) 684-7726
 Email&nbsp;&nbsp;[sfrees@ramapo.edu](mailto:sfrees@ramapo.edu)
 
-**Office Hours:**  Mondays 4-5pm and Thursdays 4-5:30pm, by appointment.
+**Office Hours**:&nbsp;&nbsp;Mondays 11:30am-1:00pm and Thursday 4:00pm - 5:30pm
 
 ## Course Description
 This course provides in-depth treatment of the critical languages, design patterns, and technologies underpinning all of modern web application development. The basics of networking, along with the details of the HTTP protocol are introduced. HTML (through version 5), CSS (through version 3) are presented from the perspective of an application developer.
@@ -141,14 +141,14 @@ There are three homework assignments and two larger programming projects assigne
 
 |Link to Homework Assignment| Due Date
 |--|----
-| [Homework 1](https://docs.google.com/document/d/1TFvoSgDqj26uk0F_ffVI600D0184hPugJYQURaImD4c/pub) |  9/20
-| [Homework 2](https://docs.google.com/document/d/1vD8UQT-ot7BDysyKRHCsvrRHsOkxv-rYCnnkpmbnNnc/pub) |  9/25
-| [Homework 3](https://docs.google.com/document/d/1SY9-yYsalcCoK1JLLHJqcuBNH-lkB3KM1J3xZ2g3BgM/pub) |  10/25
+| [Homework 1](https://docs.google.com/document/d/1TFvoSgDqj26uk0F_ffVI600D0184hPugJYQURaImD4c/pub) |  9/23
+| [Homework 2](https://docs.google.com/document/d/1vD8UQT-ot7BDysyKRHCsvrRHsOkxv-rYCnnkpmbnNnc/pub) |  10/3
+| [Homework 3](https://docs.google.com/document/d/1SY9-yYsalcCoK1JLLHJqcuBNH-lkB3KM1J3xZ2g3BgM/pub) |  10/28
 
 |Link to Projects| Due Date
 |--|----
-| [Project 1](https://docs.google.com/document/d/1P_cGhz1tsRNYKk7KvCRNXDdZwdyP70iv3CJ2Zc5hmDU/pub) |  10/15
-| [Project 2](projects/maps.html) |  11/22
+| [Project 1](https://docs.google.com/document/d/1P_cGhz1tsRNYKk7KvCRNXDdZwdyP70iv3CJ2Zc5hmDU/pub) |  10/21
+| [Project 2](projects/maps.html) |  11/25
 
 # Final Project
 The final project will be due the same day as our scheduled final exam.  The full details can be found [here](https://docs.google.com/document/d/1lfnxI3C_44m9MwZaBxAtfBb9w6jciJvoIsSQw40mXvg/pub).  You will show me your running code during the final exam period.  The final project is **instead** of the final exam.
@@ -185,20 +185,5 @@ Students are expected to read and understand Ramapo College’s Academic Integri
 
 When completing lab programming exercises, you may review code with your fellow students; however, copying source code is strictly forbidden.  For homework programming assignments, you may discuss ideas, however you may not allow others to see your source code or examine others’.  Sharing of source code is extremely easy to detect and is strictly prohibited.   If sharing of source code is suspected, intentional or otherwise, both parties will immediately be referred to the Office of the Provost.
 
-# Students with Disabilities:
-If you need course adaptation or accommodations because of a disability that has been documented with the Office of Specialized Services, please make an appointment during my office hours.
-
-## Make-Up Exam Policy
-Make-ups will not be given for the exams given during the semester.  Failure to attend class on those days will result in a zero.  Make-ups will only be given in extraordinary circumstances (college approved absence) such as a documented medical or religious absence.
-
-# Students with Disabilities:
-Ramapo College is committed to providing reasonable accommodations for all persons with disabilities.  If you are eligible for classroom accommodations as an individual with a disability, you are required to affiliate with The Office of Specialized Services (OSS) locating in the C Wing in room C205. OSS phone number is 201-684-7514, email is oss@ramapo.edu and website is www.ramapo.edu/oss/.   If you need course adaptation or accommodations because of a disability that has been documented with the Office of Specialized Services, please make an appointment with me.
-
-# A Note on Sexual Misconduct 
-Ramapo College is committed to fostering a safe, productive learning environment. Title IX and our college policy prohibit discrimination on the basis of sex or gender.  Sexual misconduct — including harassment, domestic and dating violence, sexual assault, and stalking are prohibited.  The College encourages anyone experiencing sexual misconduct to talk to someone about what happened, so they can get the support they need and our college can respond appropriately.
- 
-If you wish to speak confidentially about an incident of sexual misconduct, please contact the Counseling Center at 201-684-7522 or 201-684-6666 during nights and weekends. If you wish to report sexual misconduct or have questions about policies and procedures regarding sexualmisconduct, please contact Kat McGee, the College’s Director of Title IX at 201-684-7220.
- 
-The College is legally obligated to investigate reports of sexual misconduct, and therefore it cannot guarantee the confidentiality of a report, but it will consider a request for confidentiality and respect it to the extent possible.  
- 
-As a faculty member, I am also required by our College to report incidents of sexual misconduct and thus cannot guarantee confidentiality, but I will respect your privacy and only share the information with those who have a duty to respond. Should I become aware of an incident involving sexualmisconduct, I must provide our Title IX Coordinator with relevant details such as the names of those involved in the incident.
+# College-Wide Policies
+Please see the [College’s web page](https://www.ramapo.edu/fa/arc/college-wide-policies-courses) on policies that apply to all RCNJ courses, including this one.

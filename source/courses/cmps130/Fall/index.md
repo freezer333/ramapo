@@ -74,47 +74,58 @@ Most modules also have programming exercises associated with them which you shou
 ## Week 1 - 9/2 - 9/8
 - [Module 00](../modules/module00) - Introduction to Computation
 - [Module 01](../modules/module01) - Introduction to Python Programming
+
 ## Week 2 - 9/9 - 9/15
 - [Module 02](../modules/module02) - Strings and Input
 - [Module 03](../modules/module03) - Branching Programs
+
 ## Week 3 - 9/16 - 9/22
 - [Module 04](../modules/module04) - Loops
+
 ## Week 4 - 9/23 - 9/29
 - Exam 1 (Wed, 9/25 - 1pm-4pm)
+
 ## Week 5 - 9/30 - 10/6
 - [Module 05](../modules/module05) - Functions
 - [Module 06](../modules/module06) - Recursion
 - [Module 07](../modules/module07) - Global Variables
+- [Module 08](../modules/module08) - Module
 
 ## Week 6 - 10/7 - 10/13
-- [Module 08](../modules/module08) - Module
 - [Module 09](../modules/module09) - Reading and Writing Files
-
-## Week 7 - 10/14 - 10/30
 - [Module 10](../modules/module10) - Generalized Sequences -> Tuples
 - [Module 11](../modules/module11) - Lists
 
+## Week 7 - 10/14 - 10/20
+- [Module 12](../modules/module12) - Dictionaries
+
 ## Week 8 - 10/21 - 10/27
 - Exam 2 (Wed, 10/23 - 1pm-4pm)
+
 ## Week 9 - 10/28 - 11/3
-- [Module 12](../modules/module12) - Dictionaries
 - [Module 13](../modules/module13) - Testing and Debugging
 - [Module 14](../modules/module14) - Exceptions and Assertions
+
 ## Week 10 - 11/4 - 11/10
 - [Module 15](../modules/module15) - Abstract Data Types and Classes
 - [Module 16](../modules/module16) - Inheritance
+
 ## Week 11 - 11/11 - 11/17
 - [Module 17](../modules/module17) - Encapsulation and Generators
 - [Module 18](../modules/module18) - Algorithm Complexity
+
 ## Week 12 - 11/18 - 11/23
 - [Module 19](../modules/module19) - Search
 - [Module 20](../modules/module20) - Sort
 - [Module 21](../modules/module21) - Hash Tables
+
 ## Week 13 - 11/24 - 12/1 (Thanksgiving Break)
 - No work assigned.
+
 ## Week 14 - 12/2 - 12/8
 - [Module 22](../modules/module22) - Plotting Data with PyLab
 - [Module 23](../modules/module23) - Stochastic Programs and Statistical Simulation
+
 ## Week 15 - 12/9 - 12/15
 - No Module - project work.
 
@@ -135,7 +146,7 @@ There are 5 assigned homework problems, with due dates listed below.  Homework p
 |Link to Homework Assignment| Due Date
 |--|----
 | [Homework 1](../fall-hw/hw1/) | 10/6 (Sunday night @11:59pm)
-| [Homework 2](../fall-hw/hw2/) | 11/3 (Sunday night @11:59pm)
+| [Homework 2](../fall-hw/hw2/) | 10/20 (Sunday night @11:59pm)
 | [Homework 3](../fall-hw/hw3/) | 11/18 (Sunday night @11:59pm)
 | [Homework 4](../fall-hw/hw4/) | 12/8 (Sunday night @11:59pm)
 | [Homework 5](../fall-hw/hw5/) | 12/15 (Sunday night @11:59pm)
@@ -146,7 +157,7 @@ Exams **are taken at home**, however them must be completed at the designated da
 |  | Modules Covered | Date
 |--|---|---
 | **Exam 1** | Modules 1-4 | Wednesday, 9/25/2019 (1-4pm)
-| **Exam 2** | Modules 1-11 | Monday, 10/23/2019 (1-4pm)
+| **Exam 2** | Modules 1-12 | Monday, 10/23/2019 (1-4pm)
 | **Final Exam** | Modules 1-23 | Data and Time TBD
 
 # Grading
