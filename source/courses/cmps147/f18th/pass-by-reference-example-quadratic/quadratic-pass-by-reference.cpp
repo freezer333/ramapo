@@ -22,7 +22,7 @@ int quad(double a, double b, double c, double &r1, double &r2)
     }
     else
     {
-        // There are two roots (yet to be calculated)
+        // There are two roots
 
         r1 = (-b + sqrt(discriminant)) / (2 * a);
         r2 = (-b - sqrt(discriminant)) / (2 * a);

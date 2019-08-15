@@ -12,22 +12,14 @@ Ramapo College of New Jersey
 505 Ramapo Valley Road
 Mahwah, NJ 07430
 
-# Summer 2019 Course Schedule
-|Course|Time|Room|
-|:--|---|---|
-|[CMPS 130 - Scientific Programming with Python](courses/cmps130/Summer)|Online| -|
-|[CMPS 147 -Introduction to Computer Science 1](courses/cmps147/Summer)|Online| -|
-
-Office hours will be held by appointment via web conference / phone.
-
 # Spring 2019 Course Schedule
 |Course|Time|Room|
 |:--|---|---|
-|[CMPS 311 - Operating Systems](courses/cmps311)|Monday and Thursdays @2:15pm| G 301|
-|[CMPS 342 - Computer Graphics](courses/cmps342)|Monday and Thursdays @11:20am| ASB 429|
-|[CMPS 364 - Database Systems](courses/cmps364)|Thursdays @6:05pm| ASB 429|
+|[CMPS 130 - Scientific Problem Solving with Python](courses/cmps130/Fall)|Online| N/A|
+|[CMPS 231 - Data Structures and Algorithms](courses/cmps231)|Thursdays @6:05pm - 9:45pm| G301|
+|[CMPS 369 - Web Application Development](courses/cmps369)|Monday and Thursdays @2:15pm| G 301|
 
-
+**Office Hours**&nbsp;&nbsp;Mondays 11:30am-1:00pm and Thursday 4:00pm - 5:30pm
 
 [See all the courses I teach on a regular basis](courses/)
 

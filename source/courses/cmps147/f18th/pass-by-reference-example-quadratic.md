@@ -9,7 +9,7 @@ You can solve for **x** using the following formula:
 
 ![alt text](pass-by-reference-example-quadratic/formula.png "Quadratic Formula")
 
-This formula is really two, due to the **+/**:
+This formula is really two, due to the **plus and minus/**:
 
 ![alt text](pass-by-reference-example-quadratic/formula-expanded.png "Logo Title Text 1")
 
@@ -125,7 +125,7 @@ While this program is great... it would be a lot better if it actually told the 
 ### Using pass-by-reference
 Pass by reference lets us get around this problem.  When passing parameters into a function with an ampersand (&), the function can make changes to the parameter, and the calling function will be able to see those changes.
 
-In our main function, we will now declare too more variables, `root1` and `root2`.  They will be doubles, and we will pass those variables *into* `quad` - EVEN THOUGH THEY HAVE NO VALUE YET.
+In our main function, we will now declare two more variables, `root1` and `root2`.  They will be doubles, and we will pass those variables *into* `quad` - EVEN THOUGH THEY HAVE NO VALUE YET.
 
 ```c++
 int main() {
