@@ -157,7 +157,7 @@ Exams **are taken at home**, however them must be completed at the designated da
 |  | Modules Covered | Date
 |--|---|---
 | **Exam 1** | Modules 1-4 | Wednesday, 9/25/2019 (1-4pm)
-| **Exam 2** | Modules 1-12 | Monday, 10/23/2019 (1-4pm)
+| **Exam 2** | Modules 1-12 | Wednesday, 10/23/2019 (1-4pm)
 | **Final Exam** | Modules 1-23 | Data and Time TBD
 
 # Grading
