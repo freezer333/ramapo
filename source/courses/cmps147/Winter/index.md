@@ -132,15 +132,11 @@ Labs represent 10% of your semester grade, so each lab is actually only less tha
 | [Lab 2](https://docs.google.com/presentation/d/1fbiI6n8cNwljDS2yUH-PR_Kr1UpfdgKizWuqt-5IIFE/pub?start=false&loop=false&delayms=3000&slide=id.g33b4d3301_0137) | 12/28 (Saturday night @11:59pm)
 | [Lab 3](https://docs.google.com/presentation/d/1HYuMZ8fHBVKqX1GziqB4pWJLyaPePKVJxOYYjYUBCNM/pub?start=false&loop=false&delayms=3000#slide=id.g33b873ba6_081) | 12/28 (Saturday night @11:59pm)
 | [Lab 4](https://docs.google.com/presentation/d/1OSsv_Np5BbXmjSTpDw0xYRypeUC6lDB6b_zyjcyLvfY/pub?start=false&loop=false&delayms=3000#slide=id.g1807909b6_0114) | 12/28 (Saturday night @11:59pm)
-
 | [Lab 5](https://docs.google.com/presentation/d/1E-4ps_HhL6_UeKZKHEBx2UNV11EVhyvkRmVxasE_llE/pub?start=false&loop=false&delayms=3000#slide=id.g180824865_065) | 1/4 (Saturday night @11:59pm)
 | [Lab 6](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000#slide=id.g180819e3b_078) | 1/4 (Saturday night @11:59pm)
 | [Lab 7](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000#slide=id.g180825c8b_092) | 1/4 (Saturday night @11:59pm)
-
 | [Lab 8](https://docs.google.com/presentation/d/1Y5PBeJYMusRU-4FYvzM60_MiFaqRyGrKSTswcsF-bFQ/pub?start=false&loop=false&delayms=3000#slide=id.g180b604f6_093) | 1/11 (Saturday night @11:59pm)
 | [Lab 9](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000#slide=id.g18155d4d1_031) | 1/11 (Saturday night @11:59pm)
-
-
 | [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | 1/17 (Friday night @11:59pm)
 | [Lab 11](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | 1/17 (Friday night @11:59pm)
 
