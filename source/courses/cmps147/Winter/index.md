@@ -1,4 +1,4 @@
-# CMPS 147 Winter 2018
+# CMPS 147 Winter 2020
 ## Introduction to Computer Science 1
 
 **Meeting Time:** This is an online course
@@ -24,8 +24,6 @@ While all modules/assignments are accessible from this site, we will use [moodle
 ## About the online version of this course
 If you have never taken an online course, you may be surprised how easy it is to fall behind (especially during the holiday season!).  Below I have explained the way the course is organized, and if anything is unclear please email me ASAP.  The number one thing to remember is that you need to keep pace with the content on moodle, making sure that you master each week’s modules on a consistent basis.  Computer science, perhaps more than any other subject, builds from lesson to lesson.  There is no lesson/module that can be safely “skipped” - they will all come back to haunt you if you don’t understand them (or don’t try to learn them!).  **So please - keep up with the work**!.
 
-<div class="highlight">**Exams:  ** Please note that while this is an online course which does not require you to come to campus for any lectures or class meetings, you are required to take the Mid Term and Final Exam for this course ON CAMPUS.  Please see below for exam details.</div>
-
 
 ### How to get help:
 I will respond to emails very quickly, so whenever you are struggling with a concept, program, or anything else - please get in touch.  It is best to send me your code as an attachment with any email, so I can see precisely what you are doing.  I will hold office hours by appointment, just email me and we'll work out a time to meet on campus.
@@ -34,7 +32,7 @@ I will respond to emails very quickly, so whenever you are struggling with a con
 100 level General Education Math.
 
 ## Course Materials
-You must have access to the internet and a computer suitable for installing Microsoft Visual Studio (i.e. any computer running Microsoft Windows 7 or Windows 8).   Microsoft Visual Studio is freely available - please consult the directions/tuturial [located here](../vs/VisualStudioAtHome.html).
+You must have access to the internet and a computer suitable for installing Microsoft Visual Studio (i.e. any computer running Microsoft Windows 7, 8, 10, etc.).   Microsoft Visual Studio is freely available - please consult the directions/tuturial [located here](../vs/VisualStudioAtHome.html).
 
 If you have a Mac (or run Linux), you will be able to install similar programs on these machines.  For Mac users, [click here](../../xcode) for instructions on using Xcode.
 
@@ -62,7 +60,7 @@ used throughout the semester.  The textbook can be purchased at the college book
 ## Modules
 The entire course has been broken into 29 individual modules.  Each module is posted as a slide show, and as a recorded video lecture (around 30-60 minutes in length each).  Each module will list, on the first slide, where in the textbook the topics discussed will be found.  You should approach each module as a set of resources - composed of the book chapter sections, the slides, the video, and the associated programming examples.  The textbook should be considered a required resource.
 
-### Week 1 - 12/22 - 12/28
+### Week 1 - 12/23 - 12/28
 | Module  | Topic | Lecture Slides|  Recorded Video
 |--|:--|:--|:--|:--
 | 0 | Course Policies | [Slides](https://docs.google.com/presentation/d/1Sggyft8QRdvOnpAxCT9wuvFkTrjg7AQaOKHEt50u4AQ/pub?start=false&loop=false&delayms=3000) | [Video](https://youtu.be/3ztgV6vj1O8)
@@ -98,6 +96,10 @@ The entire course has been broken into 29 individual modules.  Each module is po
 | 22 | function prototypes | [Slides](https://docs.google.com/presentation/d/158uxJohPOvYN12OotfqYFk6lizR-tPTTlvQDHFl9gNo/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/KKIcsxDVC-I)
 | 23 | Pass by value and pass by Reference | [Slides](https://docs.google.com/presentation/d/1SzvW7mBGZNptfhG7pDGAT0SS_M8LpUI5Ji42J_9sWrQ/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/dLM13cqTvoI)
 |24 | Problem solving with functions | [Slides](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/_xamPbaIq3U)
+
+### Week 4 - 1/13 - 1/17
+| Module  | Topic | Lecture Slides|  Recorded Video
+|:--|:--|:--|:--
 | 25 | Numeric Arrays | [Slides](https://docs.google.com/presentation/d/1fGNYHgXo0zkDIT5P7ya_NR_lpaNLGfewiPuftHECf9U/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/K-ILtkKIG4M)
 | 26 | Partially filled arrays | [Slides](https://docs.google.com/presentation/d/19jKmGVfr8OnuXkObjkXmmJVAvmdIfhlOUIfrHBmYSO0/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/q2p6dtoyAog)
 | 27 | Arrays and Functions | [Slides](https://docs.google.com/presentation/d/1B3sILuHFmO9ffIqHZ5sxFlA2kKRp0dIlVc5OpQ5jAEE/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/kuR3TGN8zTE)
@@ -126,37 +128,40 @@ Labs represent 10% of your semester grade, so each lab is actually only less tha
 
 |Link to Lab Assignment| Due Date
 |--|----
-| [Lab 1](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.g33af15c55_0144) | 12/29 (Friday night @11:59pm)
-| [Lab 2](https://docs.google.com/presentation/d/1fbiI6n8cNwljDS2yUH-PR_Kr1UpfdgKizWuqt-5IIFE/pub?start=false&loop=false&delayms=3000&slide=id.g33b4d3301_0137) | 12/29 (Friday night @11:59pm)
-| [Lab 3](https://docs.google.com/presentation/d/1HYuMZ8fHBVKqX1GziqB4pWJLyaPePKVJxOYYjYUBCNM/pub?start=false&loop=false&delayms=3000#slide=id.g33b873ba6_081) | 12/29 (Friday night @11:59pm)
-| [Lab 4](https://docs.google.com/presentation/d/1OSsv_Np5BbXmjSTpDw0xYRypeUC6lDB6b_zyjcyLvfY/pub?start=false&loop=false&delayms=3000#slide=id.g1807909b6_0114) | 12/29 (Friday night @11:59pm)
-| [Lab 5](https://docs.google.com/presentation/d/1E-4ps_HhL6_UeKZKHEBx2UNV11EVhyvkRmVxasE_llE/pub?start=false&loop=false&delayms=3000#slide=id.g180824865_065) | 1/5 (Friday night @11:59pm)
-| [Lab 6](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000#slide=id.g180819e3b_078) | 1/5 (Friday night @11:59pm)
-| [Lab 7](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000#slide=id.g180825c8b_092) | 1/5 (Friday night @11:59pm)
-| [Lab 8](https://docs.google.com/presentation/d/1Y5PBeJYMusRU-4FYvzM60_MiFaqRyGrKSTswcsF-bFQ/pub?start=false&loop=false&delayms=3000#slide=id.g180b604f6_093) | 1/12 (Friday night @11:59pm)
-| [Lab 9](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000#slide=id.g18155d4d1_031) | 1/12 (Friday night @11:59pm)
-| [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | 1/12 (Friday night @11:59pm)
-| [Lab 11](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | 1/12 (Friday night @11:59pm)
+| [Lab 1](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.g33af15c55_0144) | 12/28 (Saturday night @11:59pm)
+| [Lab 2](https://docs.google.com/presentation/d/1fbiI6n8cNwljDS2yUH-PR_Kr1UpfdgKizWuqt-5IIFE/pub?start=false&loop=false&delayms=3000&slide=id.g33b4d3301_0137) | 12/28 (Saturday night @11:59pm)
+| [Lab 3](https://docs.google.com/presentation/d/1HYuMZ8fHBVKqX1GziqB4pWJLyaPePKVJxOYYjYUBCNM/pub?start=false&loop=false&delayms=3000#slide=id.g33b873ba6_081) | 12/28 (Saturday night @11:59pm)
+| [Lab 4](https://docs.google.com/presentation/d/1OSsv_Np5BbXmjSTpDw0xYRypeUC6lDB6b_zyjcyLvfY/pub?start=false&loop=false&delayms=3000#slide=id.g1807909b6_0114) | 12/28 (Saturday night @11:59pm)
+
+| [Lab 5](https://docs.google.com/presentation/d/1E-4ps_HhL6_UeKZKHEBx2UNV11EVhyvkRmVxasE_llE/pub?start=false&loop=false&delayms=3000#slide=id.g180824865_065) | 1/4 (Saturday night @11:59pm)
+| [Lab 6](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000#slide=id.g180819e3b_078) | 1/4 (Saturday night @11:59pm)
+| [Lab 7](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000#slide=id.g180825c8b_092) | 1/4 (Saturday night @11:59pm)
+
+| [Lab 8](https://docs.google.com/presentation/d/1Y5PBeJYMusRU-4FYvzM60_MiFaqRyGrKSTswcsF-bFQ/pub?start=false&loop=false&delayms=3000#slide=id.g180b604f6_093) | 1/11 (Saturday night @11:59pm)
+| [Lab 9](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000#slide=id.g18155d4d1_031) | 1/11 (Saturday night @11:59pm)
+
+
+| [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | 1/17 (Friday night @11:59pm)
+| [Lab 11](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | 1/17 (Friday night @11:59pm)
 
 ## Homework
-There are three assigned homework problems, with due dates listed on moodle (and below).  Homework programs will likely require 3-6 hours of your time, and will be more involved and complex than your lab assignments.  I will provide more detailed feedback on homework, and grading will be more discerning.  Homework programs 20% of your semester grade (each is equally weighted)%.  Like labs, no late homework will be accepted.
+There are four assigned homework problems, with due dates listed on moodle (and below).  Homework programs will likely require 3-6 hours of your time, and will be more involved and complex than your lab assignments.  I will provide more detailed feedback on homework, and grading will be more discerning.  Homework programs 20% of your semester grade (each is equally weighted)%.  No late homework will be accepted.
 
 |Link to Homework Assignment| Due Date
 |--|----
-| [Homework 1](../hw1/Homework1.html) |  12/29 (Friday night @11:59pm)
-| [Homework 2](../hw2/Homework2.html) |  1/5 (Friday night @11:59pm)
-| [Homework 3](../hw3/Homework3.html) |  1/12 (Friday night @11:59pm)
+| [Homework 1](../hw1/Homework1.html) |  12/29 (Saturday night @11:59pm)
+| [Homework 2](../hw2/Homework2.html) |  1/4 (Saturday night @11:59pm)
+| [Homework 3](../hw3/Homework3.html) |  1/11 (Saturday night @11:59pm)
+| [Homework 4](../hw4/Homework4.html) |  1/17 (Friday night @11:59pm)
 
 
 ## Exams (Mid Term and Final)
-Exams **are taken on campus, in ASB 429**.  Exams must be taken during one of two designated time slots (see below), and are to be completed within the three hour time window.  Unless you have a extraordinary circumstance, you must come to campus to take the Mid Term and Final Exam.  
+Midterm and Final Exams will be taken remotely, **meaning you will not be required to come to campus to take them**.  The exams will last 3 hours each.  
 
 |  | Modules Covered | Date
 |--|---|---
-| **Mid Term Exam** | Modules 1-18 | Thursday, 1/4/2018 (9am or 6pm)
-| **Final Exam** | Modules 19-29 | Friday, 1/12/2018 (9am or 6pm)
-
-You will be required to let me know in advance which session (9am or 6pm) you intend to attend.
+| **Mid Term Exam** | Modules 1-18 | Monday, 1/6/2018 at 6pm
+| **Final Exam** | Modules 19-29 | Friday, 1/17/2018 at 6pm
 
 # Grading
 
