@@ -1,7 +1,7 @@
-# CMPS 364 Spring 2019
+# CMPS 364 Spring 2020
 ## Database Design
 
-**Meeting Times:  **&nbsp;&nbsp;Thursdays, 6:05pm-9:35pm;
+**Meeting Times:  **&nbsp;&nbsp;Mondays and Thursdays, 2:15pm-3:55pm;
 **Location:  **&nbsp;&nbsp;ASB Room 429
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 Office hours held each Monday and Thursday from 4-5pm, or by appointment.
@@ -50,30 +50,30 @@ You can download SQLite (for Windows, Mac, or Linux) [here](https://sqlite.org/)
 * Use of Document-store database (MongoDB)
 
 ## Lecture Schedule
-Below is a tentative schedule for the course.  All topics and due dates are subject to change, and if there is a difference between what is stated here and on Moodle, please always consider Moodle to be correct (and let me know so I can correct the mismatch!).
+Below is a tentative schedule for the course.  All topics and due dates are subject to change, and if there is a difference between what is stated here and on [Canvas](https://ramapo.instructure.com/), please always consider Canvas to be correct (and let me know so I can correct the mismatch!).
 
 **You must keep up with the readings** associated with each lecture.  
 
 PDF Versions of all lecture slides found [here](slides)
 
 <div style="margin:0px;padding:0px;overflow:hidden">
-    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcjrwPtOQGpOjcIsEVURrLtxuxjhRly5fJ23gl67gB_N4npxdlJbRKTvP042TAeDlfbmsCHFOE8Kp3/pubhtml?gid=168507821&single=true" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:800px;width:100%;" height="100%" width="100%"></iframe>
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcjrwPtOQGpOjcIsEVURrLtxuxjhRly5fJ23gl67gB_N4npxdlJbRKTvP042TAeDlfbmsCHFOE8Kp3/pubhtml?gid=1767444203&single=true" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:800px;width:100%;" height="100%" width="100%"></iframe>
 </div>
 
 ## Homework Assignments
-* [Homework 1](hw/hw1.html)  - Due on 2/14/19
-* [Homework 2](hw/hw2.html)  - Due on 2/21/19
+* [Homework 1](hw/hw1.html)  - Due on 2/13/20
+* [Homework 2](hw/hw2.html)  - Due on 2/20/20
 
 ## Programming Projects Assignments
-* [Project 1](project1/)  - Due on 4/11/19
-* [Project 2](project2/)  - Due on 5/02/19
+* [Project 1](project1/)  - Due on 4/13/20
+* [Project 2](project2/)  - Due on 5/04/20
 
 
 ## Late Policy
 All assignments will be turned in electronically.  A late penalty of 5 points per day will be applied to all late assignments.  The required format/method of your electronic submissions will be outlined for each assignment.  Deviation from these requirements may result in a 5-point penalty.  
 
 ## Attendance Policy
-Attendance will be recorded by the instructor and, along with class participation, will be a determining factor in making border-line final grade decisions
+Attendance is not directly recorded.  I expect you to attend all lectures, and failure to do so will result in you missing critical course material and information.  In-class labs may not be made up, you must attend class to complete them.
 
 ## Grading
 
@@ -96,14 +96,9 @@ IF SHARING OF SOURCE CODE IS SUSPECTED, INTENTIONAL OR OTHERWISE, BOTH PARTIES W
 ## Make-Up Exam Policy
 Make-ups will not be given for the exams given during the semester.  Failure to attend class on those days will result in a zero.  Make-ups will only be given in extraordinary circumstances (college approved absence) such as a documented medical or religious absence.
 
-# Students with Disabilities:
-Ramapo College is committed to providing reasonable accommodations for all students and to offer optional academic support for those with documented physical, sensory, learning, or psychological disabilities. Students can request academic accommodations by registering with the Office of Specialized Services (OSS). Information and documentation provided to OSS are held in confidence as educational records. Students can utilize these services at any time after registering with OSS. Students who need course adaptation or accommodations due to disability reasons should make an appointment to see an OSS representative during the first week of the semester. Please note: Students must be registered with OSS to receive accommodations. For additional information, The Office of Specialized Services (OSS) is located in the C Wing in room C205. The OSS phone number is 201-684-7514 (x7514) or you can email them at oss@ramapo.edu. 
+## College-Wide Policies
+Please see the College’s web page on policies that apply to all RCNJ courses, including this one.
+[https://www.ramapo.edu/fa/arc/college-wide-policies-courses](https://www.ramapo.edu/fa/arc/college-wide-policies-courses)
 
-# A Note on Sexual Misconduct 
-Ramapo College is committed to fostering a safe, productive learning environment. Title IX and our college policy prohibit discrimination on the basis of sex or gender.  Sexual misconduct — including harassment, domestic and dating violence, sexual assault, and stalking are prohibited.  The College encourages anyone experiencing sexual misconduct to talk to someone about what happened, so they can get the support they need and our college can respond appropriately.
- 
-If you wish to speak confidentially about an incident of sexual misconduct, please contact the Counseling Center at 201-684-7522 or 201-684-6666 during nights and weekends. If you wish to report sexual misconduct or have questions about policies and procedures regarding sexual misconduct, please contact Kat McGee, the College’s Director of Title IX at 201-684-7220.
- 
-The College is legally obligated to investigate reports of sexual misconduct, and therefore it cannot guarantee the confidentiality of a report, but it will consider a request for confidentiality and respect it to the extent possible.  
- 
-As a faculty member, I am also required by our College to report incidents of sexual misconduct and thus cannot guarantee confidentiality, but I will respect your privacy and only share the information with those who have a duty to respond. Should I become aware of an incident involving sexualmisconduct, I must provide our Title IX Coordinator with relevant details such as the names of those involved in the incident.
+## Electronic Forms of Communication
+In accordance with College policy, I will use your Ramapo College email address (@ramapo.edu) to communicate with you about all course-related matters.

@@ -1,9 +1,9 @@
-# CMPS 147 Fall 2018 - Section 02
+# CMPS 147 Spring 2020
 ## Introduction to Computer Science 1
 
 **Meeting Time:** Thursday 6:05pm-7:45pm
 
-**Location:** G 301
+**Location:** ASB 429
 
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 
@@ -13,13 +13,13 @@ Office&nbsp;&nbsp;G315
 Phone&nbsp;&nbsp;(201) 684-7726
 Email&nbsp;&nbsp;[sfrees@ramapo.edu](mailto:sfrees@ramapo.edu)
 
-**Office Hours:**   Mondays 4-5pm, Thursdays 4-5:30pm, or by appointment
+**Office Hours:**   Mondays and Thursdays 4-5pm, or by appointment
 
 ## Course Description
 An introduction to programming methodology including:  basic concepts of computer systems, the programming languages C/C++, algorithm design, program development, implementation, and testing.
 
 ## Online access
-While all modules/assignments are accessible from this site, we will use [Moodle](http://moodle.ramapo.edu/) to submit all programming assignments electronically.
+While all modules/assignments are accessible from this site, we will use [Canvas](https://ramapo.instructure.com/) to submit all programming assignments electronically.
 
 ## About the hybrid version of this course
 Hybrid courses substitute portions of regularly scheduled class time with online lectures.  This means that although most courses at Ramapo are scheduled to meet for 200 minutes each week, **we do not**.  That also means you will need to be responsible and disciplined with keeping up with the video lectures I'll provide (below).  The video lectures in the class largely replace the in-class lectures (they are not **optional!**).  
@@ -144,18 +144,18 @@ Labs represent 30% of your semester grade, so each lab is actually only about 3%
 
 |Link to Lab Assignment| Due Date
 |--|----
-| [Lab 1](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.g33af15c55_0144) | 9/06 (7:45pm)
-| [Lab 2](https://docs.google.com/presentation/d/1fbiI6n8cNwljDS2yUH-PR_Kr1UpfdgKizWuqt-5IIFE/pub?start=false&loop=false&delayms=3000&slide=id.g33b4d3301_0137) | 9/13 (7:45pm)
-| [Lab 3](https://docs.google.com/presentation/d/1HYuMZ8fHBVKqX1GziqB4pWJLyaPePKVJxOYYjYUBCNM/pub?start=false&loop=false&delayms=3000#slide=id.g33b873ba6_081) |  **9/20  (6:05pm)**
-| [Lab 4](https://docs.google.com/presentation/d/1OSsv_Np5BbXmjSTpDw0xYRypeUC6lDB6b_zyjcyLvfY/pub?start=false&loop=false&delayms=3000#slide=id.g1807909b6_0114) | 9/20 (7:45pm)
-| [Lab 5](https://docs.google.com/presentation/d/1E-4ps_HhL6_UeKZKHEBx2UNV11EVhyvkRmVxasE_llE/pub?start=false&loop=false&delayms=3000#slide=id.g180824865_065) | 10/04 (7:45pm)
-| [Lab 6](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000#slide=id.g180819e3b_078) | 10/18 (7:45pm)
-| [Lab 7](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000#slide=id.g180825c8b_092) | 10/25 (7:45pm)
-| [Lab 8](https://docs.google.com/presentation/d/1Y5PBeJYMusRU-4FYvzM60_MiFaqRyGrKSTswcsF-bFQ/pub?start=false&loop=false&delayms=3000#slide=id.g180b604f6_093) | 11/08 (7:45pm)
-| [Lab 9](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000#slide=id.g18155d4d1_031) | 11/15 (7:45pm)
-| [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | 12/6 (7:45pm)
-| [Lab 11](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | 12/13 (7:45pm)
-| [Lab 12 (Extra Credit)](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000#slide=id.g33e80658c_0161) | 12/15 (6:00pm)
+| [Lab 1](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.g33af15c55_0144) | 1/23 (7:45pm)
+| [Lab 2](https://docs.google.com/presentation/d/1fbiI6n8cNwljDS2yUH-PR_Kr1UpfdgKizWuqt-5IIFE/pub?start=false&loop=false&delayms=3000&slide=id.g33b4d3301_0137) | 1/30 (7:45pm)
+| [Lab 3](https://docs.google.com/presentation/d/1HYuMZ8fHBVKqX1GziqB4pWJLyaPePKVJxOYYjYUBCNM/pub?start=false&loop=false&delayms=3000#slide=id.g33b873ba6_081) |  **2/6/20  (6:05pm)**
+| [Lab 4](https://docs.google.com/presentation/d/1OSsv_Np5BbXmjSTpDw0xYRypeUC6lDB6b_zyjcyLvfY/pub?start=false&loop=false&delayms=3000#slide=id.g1807909b6_0114) | 2/6 (7:45pm)
+| [Lab 5](https://docs.google.com/presentation/d/1E-4ps_HhL6_UeKZKHEBx2UNV11EVhyvkRmVxasE_llE/pub?start=false&loop=false&delayms=3000#slide=id.g180824865_065) | 2/20 (7:45pm)
+| [Lab 6](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000#slide=id.g180819e3b_078) | 3/5 (7:45pm) *complete @ home*
+| [Lab 7](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000#slide=id.g180825c8b_092) | 3/12 (7:45pm)
+| [Lab 8](https://docs.google.com/presentation/d/1Y5PBeJYMusRU-4FYvzM60_MiFaqRyGrKSTswcsF-bFQ/pub?start=false&loop=false&delayms=3000#slide=id.g180b604f6_093) | 4/2 (7:45pm)
+| [Lab 9](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000#slide=id.g18155d4d1_031) | 4/9 (7:45pm)
+| [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | 4/23 (7:45pm)
+| [Lab 11](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | 4/30 (7:45pm)
+| [Lab 12 (Extra Credit)](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000#slide=id.g33e80658c_0161) | 5/4 (6:00pm) *complete @ home*
 
 <hr class="print-page"/>
 
@@ -163,7 +163,7 @@ Labs represent 30% of your semester grade, so each lab is actually only about 3%
 The calendar below is subject to change - please make sure you read your emails!  Note that while each schedule lecture includes either a lab or an exam, on days where we are doing labs I will generally lecture for about 20 minutes at the beginning of the session.  This lecture is NOT a replacement for the videos - it's just a brief review to get us ready for the lab.
 
 <div style="margin:0px;padding:0px;overflow:hidden">
-    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTm4J5JR1U6GlUlnUC4Hf150fmj2n79bC7CM9I-rjkDEDumB2xhJTIGekDIrYtGXQpXKMcrjOnWVujp/pubhtml?gid=25241272&single=true" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:500px;width:100%;" height="100%" width="100%"></iframe>
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWIqVjzXOJgMoF4zsyZ77rm3KXq_t-oOPU98RFkMJwjeGJNa7yEI_C0h4_A_soHPt9vz0o8DcxRBJW/pubhtml?gid=25241272&single=true" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:500px;width:100%;" height="100%" width="100%"></iframe>
 </div>
 
 During each lab meeting, we will have a short [pre-lab](https://docs.google.com/document/d/e/2PACX-1vROAhuxywzqkZwWVDwieTb82ugNAxOBHj5aVFI6QdXBqMyXQxB-EEb77YHv4IjUYkMIyTVeMzas8zeh/pub) lecture to help you get started.
@@ -176,10 +176,10 @@ There are four study problems listed below, with *suggested* completion dates li
 
 |Link to Assignment| Recommended Completion Date
 |--|----
-| [Problem 1](../hw1/Homework1.html) | 9/27
-| [Problem 2](../hw2/Homework2.html) | 11/1
-| [Problem 3](../hw3/Homework3.html) | 11/29
-| [Problem 4](../hw4/Homework4.html) | 12/13
+| [Problem 1](../hw1/Homework1.html) | 2/13
+| [Problem 2](../hw2/Homework2.html) | 3/26
+| [Problem 3](../hw3/Homework3.html) | 4/16
+| [Problem 4](../hw4/Homework4.html) | 4/30
 
 # Exams
 There will be 4 in-class programming quizzes throughout the semester, along with a final exam.  Exams are open book, open notes, and open internet.  They will involve live programming, similar to lab sessions. Some quizzes, along with the final exam, will contain some multiple choice/short answer questions as well.
@@ -188,11 +188,11 @@ You will have <b>100 minutes</b> to complete all quizzes, and three hours to com
 
 |  | Modules Covered | Date
 |--|---|---
-| **Quiz 1** | Modules  1-9  | 9/27
-| **Quiz 2** | Modules 10-15 | 10/11
-| **Quiz 3** | Modules 16-18 | 11/1
-| **Quiz 4** | Modules 19-24 | 11/29
-| **Final Exam** | Modules 1-30 | 12/20 @ 7pm
+| **Quiz 1** | Modules  1-9  | 2/13
+| **Quiz 2** | Modules 10-15 | 2/27
+| **Quiz 3** | Modules 16-18 | 3/26
+| **Quiz 4** | Modules 19-24 | 4/16
+| **Final Exam** | Modules 1-30 | 5/7 @ 7-10:20pm
 
 <p class="highlight">Be sure to read the policy on academic integrity and allowable internet resources at the bottom of this syllabus.</p>
 
@@ -229,15 +229,9 @@ Students are expected to read and understand Ramapo College’s Academic Integri
 ## Make-Up Exam Policy
 Make-ups will not be given for the exams given during the semester.  Failure to attend class on those days will result in a zero.  Make-ups will only be given in extraordinary circumstances (college approved absence) such as a documented medical or religious absence.
 
+## College-Wide Policies
+Please see the College’s web page on policies that apply to all RCNJ courses, including this one.
+[https://www.ramapo.edu/fa/arc/college-wide-policies-courses](https://www.ramapo.edu/fa/arc/college-wide-policies-courses)
 
-# Students with Disabilities:
-Ramapo College is committed to providing reasonable accommodations for all persons with disabilities.  If you are eligible for classroom accommodations as an individual with a disability, you are required to affiliate with The Office of Specialized Services (OSS) locating in the C Wing in room C205. OSS phone number is 201-684-7514, email is oss@ramapo.edu and website is www.ramapo.edu/oss/.   If you need course adaptation or accommodations because of a disability that has been documented with the Office of Specialized Services, please make an appointment with me.
-
-# A Note on Sexual Misconduct 
-Ramapo College is committed to fostering a safe, productive learning environment. Title IX and our college policy prohibit discrimination on the basis of sex or gender.  Sexual misconduct — including harassment, domestic and dating violence, sexual assault, and stalking are prohibited.  The College encourages anyone experiencing sexual misconduct to talk to someone about what happened, so they can get the support they need and our college can respond appropriately.
- 
-If you wish to speak confidentially about an incident of sexual misconduct, please contact the Counseling Center at 201-684-7522 or 201-684-6666 during nights and weekends. If you wish to report sexual misconduct or have questions about policies and procedures regarding sexualmisconduct, please contact Kat McGee, the College’s Director of Title IX at 201-684-7220.
- 
-The College is legally obligated to investigate reports of sexual misconduct, and therefore it cannot guarantee the confidentiality of a report, but it will consider a request for confidentiality and respect it to the extent possible.  
- 
-As a faculty member, I am also required by our College to report incidents of sexual misconduct and thus cannot guarantee confidentiality, but I will respect your privacy and only share the information with those who have a duty to respond. Should I become aware of an incident involving sexualmisconduct, I must provide our Title IX Coordinator with relevant details such as the names of those involved in the incident.
+## Electronic Forms of Communication  
+In accordance with College policy, I will use your Ramapo College email address (@ramapo.edu) to communicate with you about all course-related matters.

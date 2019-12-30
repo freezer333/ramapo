@@ -13,20 +13,20 @@ Ramapo College of New Jersey
 Mahwah, NJ 07430
 
 # Winter 2020 Course Schedule 
-Course|Time|Room|
+|Course|Time|Room|
 |:--|---|---|
 |[CMPS 147 - Introduction to Computer Science 1](courses/cmps147/Winter)|Online| N/A|
 
 **Office hours held remotely, by appointment**
 
-# Spring 2019 Course Schedule
+# Spring 2020 Course Schedule
 |Course|Time|Room|
 |:--|---|---|
-|[CMPS 130 - Scientific Problem Solving with Python](courses/cmps130/Fall)|Online| N/A|
-|[CMPS 231 - Data Structures and Algorithms](courses/cmps231)|Thursdays @6:05pm - 9:45pm| G301|
-|[CMPS 369 - Web Application Development](courses/cmps369)|Monday and Thursdays @2:15pm| G 301|
+|[CMPS 147 - Introduction to Computer Science 1](courses/cmps147/s20)|Thursdays, 6:05-7:45pm| ASB 429|
+|[CMPS 311 - Operating Systems](courses/cmps311/)|Mondays and Thursdays  11:20am - 1:00pm| G 301|
+|[CMPS 364 - Database Systems](courses/cmps364)|Mondays and Thursdays 2:15pm-3:55pm| ASB 429|
 
-**Office Hours**&nbsp;&nbsp;Mondays 11:30am-1:00pm and Thursday 4:00pm - 5:30pm
+**Office Hours**&nbsp;&nbsp;Mondays and Thursdays 4:00pm - 5:30pm, and by appointment
 
 [See all the courses I teach on a regular basis](courses/)
 
