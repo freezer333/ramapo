@@ -4,7 +4,7 @@
 
 In nearly 15 years teaching this course, I can without a doubt say the #1 reason students fail the course, is because they neglect to install Visual Studio and learn how to create their first program until their first assignment is due. They quickly find that it wasn't as easy as they thought (or something goes wrong with the installation), and they fall behind.  If you fall behind in this class, you are unlikely to catch up.  Don't be one of these students.
 
-## Pre-Requisites
+# Pre-Requisites
 
 Visual Studio is a Microsoft product - it **ONLY works on Microsoft Windows**. If you are using an Apple computer, you CANNOT install Visual Studio (there are similarly named products, from Microsoft, but they do not support C++ code development).  Since you will be required to use Visual Studio during exams, in class, on lab machines, you are STRONGLY encouraged to obtain access to a Microsoft Windows PC for this course.
 
@@ -12,17 +12,17 @@ Visual Studio can be installed on any Microsoft Windows operating system - namel
 
 **Version note**:  Visual Studio is released nearly every year - so there is a Visual Studio 2012, 2013, 2015,2017, 2019, etc... For our class, the version DOES NOT MATTER. If you've installed an earlier, or later, version of Visual Studio, the instructions for using it will be similar as is in this document - there is ABSOLUTELY no benefit to specifically using the 2019 version, as long as you have C++ installed (see below), you will have no problems with other versions (dates) of Visual Studio.
 
-## Installation
+# Installation
 
 Go to [https://visualstudio.microsoft.com/vs/](https://visualstudio.microsoft.com/vs/) to download Visual Studio **Community Edition**.  If that link does not take you to a download page (seen below), please do a Google web search for "Visual Studio 2019 Community Edition" - Microsoft sometimes changes the URL addresses, but the program is easily found through a web search.
 
 <img src="./images/2019-01.png"/>
 
-### Step 1:  Click "Community 2019"
+# Step 1:  Click "Community 2019"
 Save the file to a location where you can find it once it completes - such as the Desktop.  The file will be called "vs_Community.exe" (or similar). You are downloading A SETUP FILE, not actually Visual Studio.  Once you've completed installing Visual Studio (as shown below), you may remove this setup file from your computer.
 
  
-### Step 2:  Install Visual Studio
+# Step 2:  Install Visual Studio
 Double click on the .exe file you've downloaded (or just choose "Run" if your web browser gives you that option).  Please follow the next 3 sub-steps extremely carefully, **you cannot choose the default options** - you must customize the installation.
 
 <img src="./images/__2.png"/>
@@ -61,13 +61,13 @@ Now choose the Project Type, which is always **Empty Project**.
 
 There are literally hundreds of types of projects in Visual Studio.  We will only use one, and it will be same one every time!  If you choose the wrong one, NOTHING will work.
 
-### Location
+## Location
 Projects (programs) are saved to your computer.  If you blissfully click through this step without choosing the location carefully, you won't be able to find your program later to either run it, or submit it.  In the screenshot above, I chose the Desktop. You can Browse to any location you wish.
 
-### Select "Place Solution and Project in same directory"
+## Select "Place Solution and Project in same directory"
 If you do not do this, your file structure will be different (not wrong, just different) than all of the rest of the examples below...
  
-### Name your project
+## Name your project
 **PLEASE. PLEASE. PLEASE do not include spaces in the name of your projects**.  It will cause constant aggravation for you in the long run. Choose meaningful names, for example, if you are starting Lab #3, name your project Lab0.
 
 After doing this, you should notice that a new folder, named the same as your project, has been created in the location you specified.
