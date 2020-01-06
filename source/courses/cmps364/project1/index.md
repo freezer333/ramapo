@@ -1,6 +1,6 @@
 # Project 1
 
-For this assignment you will build the database portion of a complete web application written in Python and the Flask framework.  Most of the assignment is limited to writing Python that interacts with PostgreSQL, however the last 15 points will require you to build out a new web page in the application as well.
+For this assignment you will build the database portion of a complete web application written in Python and the Flask framework. 
 
 ## Step 1 - Get the code and start running it!
 
@@ -57,3 +57,25 @@ connection_string = config['database']['postgres_connection']
 # connection_string may no be used to connect to the database.
 ```
 
+## Table Names
+You **must** name the three tables in your application as follows:
+- products
+- customers
+- orders
+
+**Failure to name your tables correctly will result in A ZERO for your project.**
+
+## Grader
+For your convenience, I have included a `grader.py` program.  This command line program can be run directly.  It connects to the database defined in your `config.ini` file and does the following:
+
+1. Deletes the tables involved in the project
+2. Runs a series of inserts, updates, and deletes using the methods in your database.py file.
+3. Outputs a score.
+
+The grader results are *provisional*, your actual grade might vary - as I will use a grader with different data - but you can be reasonably confident that your grade will be similar.
+
+**Do not edit the grading program**.  If you application requires changes to the grader, you have not done your job - which is to create the methods in `database.py` such that they conform with my specifications.  
+
+The grader program is an alternative to testing using the web UI, but your program should work through the provided UI as well.
+
+*I will test your program with a modified grader program, with different data, and more complexity*.
