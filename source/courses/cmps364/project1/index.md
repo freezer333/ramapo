@@ -10,9 +10,7 @@ I have provided you a complete web application, which provides the user interfac
 
 Once you download the file, extract it into a convenient directory and then navigate to it in your command prompt or terminal.  
 
-Next, you will need to install the Flask web application framework.  Detailed instructions can be found here - [http://flask.pocoo.org/docs/0.12/installation/](http://flask.pocoo.org/docs/0.12/installation/)
-
-Note that for our purposes, you are likely to be perfectly fine with the simple method of installation - described here: [http://flask.pocoo.org/docs/0.12/installation/#system-wide-installation](http://flask.pocoo.org/docs/0.12/installation/#system-wide-installation)
+Next, you will need to install the Flask web application framework.  Detailed instructions can be found here - [https://flask.palletsprojects.com/en/1.1.x/installation/](https://flask.palletsprojects.com/en/1.1.x/installation/)
 
 Once you have that, you can start the application:
 
@@ -32,3 +30,31 @@ Your job is to implement all functions defined in the database.py file.  These f
 
 I recommend you start with the initialize function.  You must connect to PostgreSQL (ElephantSQL) and create 3 tables - CUSTOMERS, PRODUCTS, and ORDERS - if they do not already exist.  You can see the desired schema by examining the customers, products, and orders arrays at the top of database.js - which are “mock” data.  Be sure to delete those arrays as you begin implementing your code however.
 
+## Additional Requirement
+Your `database.py` file MUST NOT hardcode the connection string used to connect to the database.  I will be testing your code with **my own** database.  You must, instead, ensure that your application fully works with any connection string specified in the `config.ini` file.  
+
+The following is some samply code for utilizing a `config.ini` file:
+
+```python
+import configparser
+
+#######################################################################
+# IMPORTANT:  You must set your config.ini values!
+#######################################################################
+# The connection string is provided by elephantsql.  Log into your account and copy it into the 
+# config.ini file.  It should look something like this:
+# postgres://vhepsma:Kdcads89DSFlkj23&*dsdc-32njkDSFS@foo.db.elephantsql.com:7812/vhepsma
+# Make sure you copy the entire thing, exactly as displayed in your account page!
+#######################################################################
+config = configparser.ConfigParser()
+config.read('config.ini')
+connection_string = config['database']['postgres_connection']
+```
+An example `config.ini` is as follows:
+```ini
+[database]
+postgres_connection = postgres://vhepsma:Kdcads89DSFlkj23&*dsdc-32njkDSFS@foo.db.elephantsql.com:7812/vhepsma
+```
+
+
+Failure to support `config.ini` will result in a 0 for the assignment.
