@@ -1,11 +1,27 @@
 import psycopg2
 from urllib.parse import urlparse, uses_netloc
 
+############################################################
+# This module allows easy use of .ini files
+# for configuration data.  You should import this into 
+# your own (user interactive) program too.
+import configparser
+############################################################
+
+############################################################
+# We can load the ini file, and find the postgres_connection
+# to use.
+config = configparser.ConfigParser()
+config.read('config.ini')
+connection_string = config['database']['postgres_connection']
+############################################################
+
 uses_netloc.append("postgres")
 
 ##############################################################################
-# You need to change the line below to use your own connection string!!!
-url = urlparse("postgres://username:password@host:port/database")
+# Now use the connection string found in the ini file to construct the url used
+# to connect to the database.
+url = urlparse(connection_string)
 ##############################################################################
 
 def insert_customer(cursor, name):
