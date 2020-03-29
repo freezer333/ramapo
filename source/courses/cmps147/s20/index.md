@@ -151,11 +151,10 @@ Labs represent 30% of your semester grade, so each lab is actually only about 3%
 | [Lab 5](https://docs.google.com/presentation/d/1E-4ps_HhL6_UeKZKHEBx2UNV11EVhyvkRmVxasE_llE/pub?start=false&loop=false&delayms=3000#slide=id.g180824865_065) | 2/20 (7:45pm)
 | [Lab 6](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000#slide=id.g180819e3b_078) | 3/5 (7:45pm) *complete @ home*
 | [Lab 7](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000#slide=id.g180825c8b_092) | 3/12 (7:45pm)
-| [Lab 8](https://docs.google.com/presentation/d/1Y5PBeJYMusRU-4FYvzM60_MiFaqRyGrKSTswcsF-bFQ/pub?start=false&loop=false&delayms=3000#slide=id.g180b604f6_093) | 4/2 (7:45pm)
-| [Lab 9](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000#slide=id.g18155d4d1_031) | 4/9 (7:45pm)
-| [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | 4/23 (7:45pm)
-| [Lab 11](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | 4/30 (7:45pm)
-| [Lab 12 (Extra Credit)](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000#slide=id.g33e80658c_0161) | 5/4 (6:00pm) *complete @ home*
+| [Lab 8](https://docs.google.com/presentation/d/1Y5PBeJYMusRU-4FYvzM60_MiFaqRyGrKSTswcsF-bFQ/pub?start=false&loop=false&delayms=3000#slide=id.g180b604f6_093) | 4/9 (7:45pm)
+| [Lab 9](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000#slide=id.g18155d4d1_031) | 4/16 (7:45pm)
+| [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | 4/30 (7:45pm)
+| [Lab 11 ](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | 4/30 (7:45pm)
 
 <hr class="print-page"/>
 
