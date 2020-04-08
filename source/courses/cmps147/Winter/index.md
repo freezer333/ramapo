@@ -145,7 +145,7 @@ There are four assigned homework problems, with due dates listed on moodle (and 
 
 |Link to Homework Assignment| Due Date
 |--|----
-| [Homework 1](../hw1/Homework1.html) |  12/29 (Saturday night @11:59pm)
+| [Homework 1](../hw1/Homework1.html) |  12/28 (Saturday night @11:59pm)
 | [Homework 2](../hw2/Homework2.html) |  1/4 (Saturday night @11:59pm)
 | [Homework 3](../hw3/Homework3.html) |  1/11 (Saturday night @11:59pm)
 | [Homework 4](../hw4/Homework4.html) |  1/17 (Friday night @11:59pm)
@@ -156,8 +156,8 @@ Midterm and Final Exams will be taken remotely, **meaning you will not be requir
 
 |  | Modules Covered | Date
 |--|---|---
-| **Mid Term Exam** | Modules 1-18 | Monday, 1/6/2018 at 6pm
-| **Final Exam** | Modules 19-29 | Friday, 1/17/2018 at 6pm
+| **Mid Term Exam** | Modules 1-18 | Monday, 1/6/2020 at 6pm
+| **Final Exam** | Modules 19-29 | Friday, 1/17/2020 at 6pm
 
 # Grading
 

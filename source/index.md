@@ -13,7 +13,7 @@ Ramapo College of New Jersey
 Mahwah, NJ 07430
 
 # Winter 2020 Course Schedule 
-Course|Time|Room|
+|Course|Time|Room|
 |:--|---|---|
 |[CMPS 147 - Introduction to Computer Science 1](courses/cmps147/Winter)|Online| N/A|
 
