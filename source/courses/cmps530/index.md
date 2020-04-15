@@ -45,8 +45,11 @@ We will meet together each week on Thursday nights for approximately 1 hour.  Mo
 
 [The course's schedule and content can be accessed here](topics.html).
 
-Assignments and portions of some exams will be managed in [Canvas](https://ramapo.instructure.com).
+Assignments and portions of some exams will be managed in [Canvas](https://ramapo.instructure.com).  **Access keys** for working with our data sets are also found within Canvas.
 
+### Helpful Resources
+- [Anaconda](./anaconda.html) - installing Anaconda and Python
+- [DVC](./dvc.html) - installing and working with DVC on our projects to get data.
 
 ## Grading Policy
 Activity | % of Final Grade |
