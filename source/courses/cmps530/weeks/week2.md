@@ -25,36 +25,21 @@ There is a lot of material here - however understanding functions, tuples, lists
   - Note, the McKinney book is *optional* this week.  Chapter 2 begins to describe Jupyter notebooks, and we won't use them for a few more weeks.  Chapter 3 is really covering the same material  as Chapters 4-7 in Guttag.  
   - **If you already know Python**, use McKinney as a review, rather than the Guttag text.  If you don't already know Python, stick to Guttag and skip McKinney for this week.
 
+## CSV and JSON Files
+For the weekly project, you will be starting to work with CSV (Comma Separated Values) files.  Python supports reading and writing CSV files right out of the box.  [See the documentation](https://docs.python.org/3/library/csv.html).
+
+CSV files are extremely popular in Data Science.  They are very compact, easily readable by programs, and can be viewed easily in Microsoft Excel.  CSV can have variations as well - where characters other than commas are used as the seperating delimiter.
+
+In the weekly project you are also asked to produce a JSON file.  JSON (Javascript Object Notation) is an extremely common way data is stored in most software development fields, especially in web development.  JSON is not quite as common in Data Science, largely because it struggles with large data sets (it is not compact).  
+
+Python can produce JSON using it's `json` module. [See the documentation](https://docs.python.org/3/library/json.html)
+
 ## Weekly Project
-MovieLense
+This week we have a larger data analysis project that will give you a chance to make use of many of the concepts we've been learning - including functions, lists, and dictionaries
 
-Create a list of dictionary object representing a movie.  Each movie should have a dictionary key (movieID) and values of title and genres.  Make sure the genres string is parsed and stored as a tuple, rather than an inline string separated with | characters.  Also include the year as a primary data field, by parsing the title.
+[Project Description](https://github.com/scottfrees/cmps530-wp2)
 
-Load ratings, for each row, add the ratings (just the rating) to a list within the appropriate movie entry.
-
-Load tags the same way - adding a tags entry to each movie.
-
-For each movie, attach average rating
-
-Find the following:
-  - What is the average rating for movies with 1 genre, 2 genres, etc. - all the way to the largest number of genres.
-  - What are the top 20 tags in terms of the average rating across each movie with the tag.  Compute average rating by finding all the movies with the specific tag, and then computing the mean of the average ratings field you already calculated for each movie.
-  - Repeat the calculation above, but leave out tags that are associated with less than 5 movies.
-  - Output a CSV containing all movies with the following columns:
-    - A:  Movie ID
-    - B:  Title 
-    - C:  Year
-    - D:  Average Rating
-    - E:  Genres (Separated by |)
-    - F:  Tags (Separated by |)
-  - Output the same data as a JSON data file, where the lists (genre, tags) are output as regular lists, without delimiting characters.  
-```
-  with open('/home/ubuntu/test.json', 'w') as fout:
-    json.dump(list , fout)
-```
-  
-  - Which data format do you prefer?  CSV of JSON?  
-  - What advantages / disadvantages do you see?
+This project is not graded
 
 ## In-class Agenda
 This week's in-class meeting will largely be dedicated to functions, tuples, lists, and dictionaries.  Please make sure you are ready to ask questions!
