@@ -12,6 +12,12 @@ Ramapo College of New Jersey
 505 Ramapo Valley Road
 Mahwah, NJ 07430
 
+# Summer 2020 Courses
+Summer Session 1 (starting May 18th) courses are hosted on Canvas.  These courses will be entirely online (asynchronous).  Use the links below to preview the courses:
+
+- [CMPS 147 Introduction to Computer Science 1](courses/cmps147/Summer)
+- [CMPS 130 Scientific Programming in Python](courses/cmps130/Summer)
+
 # Spring 2020 Course Schedule
 |Course|Time|Room|
 |:--|---|---|
