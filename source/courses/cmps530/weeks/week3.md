@@ -33,7 +33,7 @@ The following videos are part of my CMPS 130 course material.  For those of you 
 - [Hash Tables](https://pages.ramapo.edu/~sfrees/courses/cmps130/modules/module21)
 
 ## Reading (Python)
-- **Guttag**:  Chapters 8-10
+- **Guttag**:  Chapters 8
 - **McKinney**:  No required reading, however if you didnt' read Chapters 2 and 3, you should do that this week.
 
 ## Jupyter Notebooks

@@ -1,6 +1,7 @@
 
 # Scott Frees
 Professor, Computer Science
+Director, [Master's in Data Science](https://www.ramapo.edu/data-science)
 Ramapo College of New Jersey
 
 **Office**:  G315

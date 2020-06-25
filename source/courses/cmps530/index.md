@@ -43,7 +43,23 @@ Each week will you will be responsible for reading materials for one or both of 
 
 We will meet together each week on Thursday nights for approximately 1 hour.  Most weeks, I will use this time to lecture on particular topics that need further discussion, as well as to help you understand the content in more depth.
 
-[The course's schedule and content can be accessed here](topics.html).
+Date | Week | Topics |
+--- | --- | 
+9/3 | Week 1 | [Introduction to Python, git, dvc, and data files](weeks/week1.html)
+9/10 | Week 2 | [Structured Programs and CSV data](weeks/week2.html)
+9/17 | Week 3 | [Abstract Data Types and Jupyter Notebooks](weeks/week3.html)
+9/24 | Week 4 | [Algorithmic Complexity and `numpy`](weeks/week4.html)
+10/1 | Week 5 | [Data Analysis with `pandas` (part 1)](weeks/week5.html)
+10/8 | Week 6 | [Data Analysis with `pandas` (part 2)](weeks/week6.html)
+10/15 | Week 7 | Midterm Exam
+10/22 | Week 8 | [Visualization with `matplotlib`](weeks/week8.html)
+10/29 | Week 9 | [Data Sources and Relational Databases](weeks/week9.html)
+11/5 | Week 10 | [Data Aggregation](weeks/week10.html)
+11/12 | Week 11 | [Introduction to Modeling w/ `scikit-learn`](weeks/week11.html)
+11/19 | Week 12 | [Simulation and Modeling](weeks/week12.html)
+12/3 | Week 13 | [Working with Experimental and Statistical Data](weeks/week13.html)
+12/10 | Week 14 | [Parallel Computing with Python](weeks/week14.html)
+12/17 | Week 15 | Final Exam
 
 Assignments and portions of some exams will be managed in [Canvas](https://ramapo.instructure.com).  **Access keys** for working with our data sets are also found within Canvas.
 
@@ -65,13 +81,13 @@ Percentage | Letter Grade |
 --- | --- | 
 100-93 | A 
 92-90 | A- 
-98-87 | B+ 
+89-87 | B+ 
 86-83 | B 
 82-80 | B- 
 79-77 | C+ 
-77-73 | C 
-72-79 | C- 
-100-93 | F 
+76-73 | C 
+72-70 | C- 
+70 and below | F 
 
 **Note:** There are no D+ or D grades for graduate-level courses.  
 

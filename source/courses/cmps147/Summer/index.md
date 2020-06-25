@@ -1,4 +1,4 @@
-# CMPS 147 Summer 2019
+# CMPS 147 Summer 2020
 
 ## Introduction to Computer Science 1
 
