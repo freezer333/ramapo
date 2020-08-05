@@ -3,15 +3,20 @@
 ## Web Application Development
 
 **Meeting Time:** Mondays and Thursday 2:15pm-3:55pm
-**Location:** ASB G301
+**Location:** Virtual:  WebEx meetings on rotating schedule
 **Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 
 ** Contact Information**
-Office&nbsp;&nbsp;G315
-Phone&nbsp;&nbsp;(201) 684-7726
+Office&nbsp;&nbsp;WebEx
 Email&nbsp;&nbsp;[sfrees@ramapo.edu](mailto:sfrees@ramapo.edu)
 
-**Office Hours**:&nbsp;&nbsp;Mondays 11:30am-1:00pm and Thursday 4:00pm - 5:30pm
+**Office Hours**
+Due to the unusual circumstances of this semester, I want to be as flexible as I can in providing office hours virtually through WebEx.  All office hour visits will be **by appointment**.  Please email me at [sfrees@ramapo.edu](mailto:sfrees@ramapo.edu) to set up an appointment.  To the best of the my ability, I will attempt to schedule you for as early as the same day - but generally my availability will be between the hours of 9am and 5pm on weekdays.  All office hours will be conducted via WebEx.  **When setting up an appointment, please provide several (ideally 3) day/times that will work for you**, and I'll send you a WebEx invitation or contact you for additional day/times if none of your proposed times work.
+
+## Virtual Course Delivery
+This course will be delivered via a mix of pre-recorded video lectures and live WebEx sessions held during our normally scheduled class time.  The majority of content (about 60%) will be delivered via pre-recorded videos, I have reserved our synchronous WebEx sections for lessons that typically involve more class discussion or those that are more focused on coding.  We are scheduled for 10 WebEx sessions over the course of the semester - roughly evenly distributed throughout.  **You will receive WebEx invitations for each session** via email before the start of the semester.  It is unlikely each live session will take up the entire scheduled class period, and each session will be recorded for anyone who is unable to attend.  **I highly recommend that you make every effort to attend "in person" rather than waiting to watch the recording** - again, I've scheduled the live sessions around topics that typically generate more class discussion.
+
+Our exams will be conducted on Canvas.  I will provide additional detail to you as we approach their dates.  You are not required to use a proctoring service (ie. webcams) while taking the exams.  Please see the policy on academic integrity at the bottom of this page.
 
 ## Course Description
 This course provides in-depth treatment of the critical languages, design patterns, and technologies underpinning all of modern web application development. The basics of networking, along with the details of the HTTP protocol are introduced. HTML (through version 5), CSS (through version 3) are presented from the perspective of an application developer.
@@ -63,17 +68,6 @@ ISBN-10: 0596805527  ISBN-13: 978-0596805524
 
 **Required**
 
-<hr/>
-
-<img style="float:left;margin-right:1em" width="100" src="http://ecx.images-amazon.com/images/I/51RGM5yQNsL._SX258_BO1,204,203,200_.jpg"/>
-[Professional Node.js: Building Javascript Based Scalable Software](http://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable/dp/1118185463)
-
-by Pedro Tiexeira
-
-ISBN-10: 1118185463  ISBN-13: 978-1118185469
-
-**Recommended**
-
 ## Course Materials - Required Programs
 This course will require you to write HTML, CSS, and JavaScript code. A simple text editor is all that is necessary, however installing a good programming editor is highly recommended. In addition, you will also need to install Node.js. Node.js, along with many programming text editors, are available on all major operating systems (Windows, Mac OS X, Linux).
 It is highly recommended that you have access to your own computer to do your development on, most machines in college labs will not have Node.js installed. However, for assignments only dealing with client-side programming, you may be able to use any machine in the labs.
@@ -87,15 +81,14 @@ While your basic text editor will allow you to write HTML/CSS and JavaScript, it
 
 If you wish, you can also use larger integrated development environments (IDE), such as Microsoft Visual Studio or eclipse, Web Storm, etc. Use of a full-fledged IDE is not necessary however, and most web developers prefer to use light-weight editors such as those listed above.
 
-# Course Structure
-This website is the sole place I will link HW assignments, slides, and code.  We will use MOODLE only for assignment submission.
-
-## Schedule
+# Schedule
 <div style="margin:0px;padding:0px;overflow:hidden">
-    <iframe src="https://docs.google.com/spreadsheets/d/1LDNTAOORV8aGnhkfJpT06Noa1JeTjxTEng8nkpPdH6A/pubhtml?gid=103028565&single=true" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:1200px;width:100%;" height="100%" width="100%"></iframe>
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTHQMvV9lNyyLIvrYTmDdKK_MCWNJpG-tSb0Ti2A8vJ1MEtjDMj2Zhf16xroNeInLd_ustfsYGyRg3o/pubhtml?gid=103028565&single=true" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:1200px;width:100%;" height="100%" width="100%"></iframe>
 </div>
 
 ## Other slides/Resources
+**Due to the nature of this semester's course delivery model, some of the PDFs below may be out of date.  I will be updating them shortly before their scheduled discussion.  Please avoid printing them all out well in advance**.
+
 <p><a href="slides_pdf">Slides in PDF form (for printing)</a></p>
 <p><a href="https://docs.google.com/presentation/d/1HfTdhszJ43I1lIgbff8VvQ4jQudB3Z4IPqJ56IqMcr4/pub?start=false&loop=false&delayms=3000">Exam 1 Review Slides</a></p>
 
@@ -137,38 +130,24 @@ This website is the sole place I will link HW assignments, slides, and code.  We
 - [21_guessing_vue.zip](code/21_guessing_vue.zip)
 
 # Homework Assignments
-There are three homework assignments and two larger programming projects assigned for this course.  
-
-|Link to Homework Assignment| Due Date
-|--|----
-| [Homework 1](https://docs.google.com/document/d/1TFvoSgDqj26uk0F_ffVI600D0184hPugJYQURaImD4c/pub) |  9/23
-| [Homework 2](https://docs.google.com/document/d/1vD8UQT-ot7BDysyKRHCsvrRHsOkxv-rYCnnkpmbnNnc/pub) |  10/3
-| [Homework 3](https://docs.google.com/document/d/1SY9-yYsalcCoK1JLLHJqcuBNH-lkB3KM1J3xZ2g3BgM/pub) |  10/28
-
-|Link to Projects| Due Date
-|--|----
-| [Project 1](https://docs.google.com/document/d/1P_cGhz1tsRNYKk7KvCRNXDdZwdyP70iv3CJ2Zc5hmDU/pub) |  10/21
-| [Project 2](projects/maps.html) |  11/25
+There are three homework assignments and two larger programming projects assigned for this course.  The assignments will be posted to Canvas.
 
 # Final Project
 The final project will be due the same day as our scheduled final exam.  The full details can be found [here](https://docs.google.com/document/d/1lfnxI3C_44m9MwZaBxAtfBb9w6jciJvoIsSQw40mXvg/pub).  You will show me your running code during the final exam period.  The final project is **instead** of the final exam.
 
 # Grading
-
 | % | Activity
 |------------------:|:---------------
-|15%| Homework Assignments (3)
-|20%| Programming Projects (2)
-|40%| Exams (2)
-|25%| Final Project (in place of Final Exam)
+|20%| Homework Assignments (3)
+|25%| Programming Projects (2)
+|25%| Exams (2)
+|30%| Final Project (in place of Final Exam)
 
 ## Late Policy
-
 All assignments will be turned in electronically. A late penalty of 10 points per day will be applied to all late assignments. No assignments over 5 days late will be accepted. The required format/method of your electronic submissions will be outlined for each assignment. Deviation from these requirements may result in a 5-point penalty.
 
-
 ## Attendance Policy
-You are required to attend each class, late arrival (after attendance has been recorded) will count as a full absence. You are allowed 1 unexcused absence (all others will count against your attendance grade). You must have documentation to receive an “excused” absence.
+This semester, this course is being delivered virtually.  Although I strongly urge you to attend all synchronous live WebEx sessions, so you have the opportunity to ask questions, all sessions will be recorded and posted on campus.  There is no attendance grade for this course.
 
 ## Letter Grade Assignment
 

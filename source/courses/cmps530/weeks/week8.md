@@ -1,13 +1,18 @@
-Visualization w/ matplotlib
+# Visualization w/ `matplotlib`
+Provide background for library, and also list some alternatives.
 
-Focus on PCA for the Weekly Project
-- https://www.stat.cmu.edu/~cshalizi/350/lectures/10/lecture-10.pdf
-- https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
 
-For digits:
+## Python Videos
+- matplotlib resources
+- Video lecture on principles behind plots, understanding architecture
+    
+## Reading (Python)
+- **Guttag**:  Chapters 11
+- **McKinney**:  Chapter 9
 
-This is a way to introduce students to how machine learning works.  Have them create the plot (give them the code for matplotlib).
-Then ask them to plot a sample image on the plot - and explain what it tells them.
-Then, explain that this is an example of ML - plot on a map, which category is it?
-Explain high dimensionality of data.
-Need to provide significant help with the PCA process...
+## Weekly Project
+In Weekly Project 8, we will use `matplotlib` to reveal the importance of PCA analysis by applying it to computer vision.  You'll see how PCA can classify images of hand written digits (0-9), and how `matplotlib` can be used to understand and visualize the classification.
+
+[Full Project Description](https://github.com/scottfrees/cmps530-wp8)
+
+*This project is not graded*
