@@ -1,5 +1,5 @@
 # Structured Programs and Data
-This week is really a *Python bootcamp*.  If you have never seen Python before, there is quite a bit of material to cover this week.  Try your best to at least make it through Lists, and you can catch up next week when we look at Abstract Data Types.  **Please ask for help**.
+These next two weeks really are *Python bootcamp*.  If you have never seen Python before, there is quite a bit of material to cover.  **Please ask for help**.
 
 [Back to topics](../topics.html)
 
@@ -22,7 +22,7 @@ There is a lot of material here - however understanding functions, tuples, lists
 ## Reading (Python)
 - **Guttag**:  Chapters 4-7
 - **McKinney**:  Chapter 2-3
-  - Note, the McKinney book is *optional* this week.  Chapter 2 begins to describe Jupyter notebooks, and we won't use them for a few more weeks.  Chapter 3 is really covering the same material  as Chapters 4-7 in Guttag.  
+  - Note, the McKinney book is *optional* for Python beginners.  Chapter 2 begins to describe Jupyter notebooks, and we won't use them for a few more weeks.  Chapter 3 is really covering the same material  as Chapters 4-7 in Guttag.  
   - **If you already know Python**, use McKinney as a review, rather than the Guttag text.  If you don't already know Python, stick to Guttag and skip McKinney for this week.
 
 ## CSV and JSON Files

@@ -1,4 +1,4 @@
-# CMPS 369 Fall 2019
+# CMPS 369 Fall 2020
 
 ## Web Application Development
 
@@ -42,8 +42,8 @@ In the beginning of the term, client-side (left side of picture) will be focused
 This course is taught under the assumption that the student has programming knowledge and experience in an object-oriented language such as C++ or Java, as it JavaScript is used extensively throughout the semester. The emphasis of this course is web development from an application programmer’s perspective. **It is a technical course, not suitable for students without an adequate background in computer science.**
 
 ## Pre-Requisites
-**CMPS 311** - Operating Systems
-No prior experience in web development is required, however students are expected to have strong programming skills in an object oriented language such as C++, Java, or C# prior to taking this course.
+**CMPS 311** - Operating Systems or **CMPS 240** Data Analytics in Python
+No prior experience in web development is required, however students are expected to have strong programming skills in an either C++, Python, Java, or C# prior to taking this course.  JavaScript experience is a plus, but is not required.
 
 ## Text books
 
@@ -68,12 +68,12 @@ ISBN-10: 0596805527  ISBN-13: 978-0596805524
 
 **Required**
 
-## Course Materials - Required Programs
-This course will require you to write HTML, CSS, and JavaScript code. A simple text editor is all that is necessary, however installing a good programming editor is highly recommended. In addition, you will also need to install Node.js. Node.js, along with many programming text editors, are available on all major operating systems (Windows, Mac OS X, Linux).
+## Course Materials - Programming Environment
+This course will require you to write HTML, CSS, and JavaScript code. A simple text editor is all that is necessary, however installing a good programming editor is highly recommended. In addition, you will also need to install Node.js. Node.js is available on all major operating systems (Windows, Mac OS X, Linux).
+
 It is highly recommended that you have access to your own computer to do your development on, most machines in college labs will not have Node.js installed. However, for assignments only dealing with client-side programming, you may be able to use any machine in the labs.
 
-## Course Materials - Program Editors
-While your basic text editor will allow you to write HTML/CSS and JavaScript, it can be quite error prone without an editor that supports automatic indentation and syntax highlighting. There are many possibilities. 
+While your basic text editor will allow you to write HTML/CSS and JavaScript, it can be quite error prone without automatic indentation and syntax highlighting. There are many possibilities. 
 
 - [Sublime Text](http://www.sublimetext.com/) - runs on Windows, Mac OSX, Linux. (Note, the free trial works forever...)
 - [Github's Atom](https://atom.io/) - runs on Windows, Mac OSX, Linux.  Free.
@@ -82,8 +82,10 @@ While your basic text editor will allow you to write HTML/CSS and JavaScript, it
 If you wish, you can also use larger integrated development environments (IDE), such as Microsoft Visual Studio or eclipse, Web Storm, etc. Use of a full-fledged IDE is not necessary however, and most web developers prefer to use light-weight editors such as those listed above.
 
 # Schedule
+Please note, for days indicated as having a **Live WebEx**, you will recieve a WebEx invitiation in your email, which can be added to your calendar.  For sessions indicating a **pre-recorded video lesson**, the video will be posted to Canvas shortly before the scheduled lesson.  You certainly can review those videos at any time that is convenient to you - however you are expected to view them before the next WebEx or Exam on the schedule.
+
 <div style="margin:0px;padding:0px;overflow:hidden">
-    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTHQMvV9lNyyLIvrYTmDdKK_MCWNJpG-tSb0Ti2A8vJ1MEtjDMj2Zhf16xroNeInLd_ustfsYGyRg3o/pubhtml?gid=103028565&single=true" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:1200px;width:100%;" height="100%" width="100%"></iframe>
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTHQMvV9lNyyLIvrYTmDdKK_MCWNJpG-tSb0Ti2A8vJ1MEtjDMj2Zhf16xroNeInLd_ustfsYGyRg3o/pubhtml?gid=103028565&single=true" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:800px;width:100%;" height="100%" width="100%"></iframe>
 </div>
 
 ## Other slides/Resources

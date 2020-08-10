@@ -13,20 +13,12 @@ Ramapo College of New Jersey
 505 Ramapo Valley Road
 Mahwah, NJ 07430
 
-# Summer 2020 Courses
-Summer Session 1 (starting May 18th) courses are hosted on Canvas.  These courses will be entirely online (asynchronous).  Use the links below to preview the courses:
+# Fall 2020 Course Schedule
+*Note all Fall 2020 courses are virtual - including a combination of WebEx synchronous class meetings and pre-recorded video lessons*
+- [CMPS 369 - Web Development](courses/cmps369) - Thursdays, 2:15pm-3:55pm
+- [CMPS 530 - Python for Data Science](courses/cmps530/) - Thursdays  7:35pm - 8:30pm
 
-- [CMPS 147 Introduction to Computer Science 1](courses/cmps147/Summer)
-- [CMPS 130 Scientific Programming in Python](courses/cmps130/Summer)
-
-# Spring 2020 Course Schedule
-|Course|Time|Room|
-|:--|---|---|
-|[CMPS 147 - Introduction to Computer Science 1](courses/cmps147/s20)|Thursdays, 6:05-7:45pm| ASB 429|
-|[CMPS 311 - Operating Systems](courses/cmps311/)|Mondays and Thursdays  11:20am - 1:00pm| G 301|
-|[CMPS 364 - Database Systems](courses/cmps364)|Mondays and Thursdays 2:15pm-3:55pm| ASB 429|
-
-**Office Hours**&nbsp;&nbsp;Mondays and Thursdays 4:00pm - 5:30pm, and by appointment
+**Office Hours**&nbsp;&nbsp;By Appointment (WebEx)
 
 [See all the courses I teach on a regular basis](courses/)
 
