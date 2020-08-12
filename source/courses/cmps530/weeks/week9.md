@@ -1,24 +1,18 @@
-# Accessing SQL Databases
-Explain the value of SQL databases - efficiency, expressivness.
+# Visualization w/ `matplotlib`
+Provide background for library, and also list some alternatives.
 
-Explain SQLite
 
-Provide SQL Lecture
-
-Discuss Web API Access - keeping in mind that this is just a light intro.
-
-## Videos
-- SQL Lectures
-- SQLite in Python
-- API Lecture Video
+## Python Videos
+- matplotlib resources
+- Video lecture on principles behind plots, understanding architecture
     
 ## Reading (Python)
 - **Guttag**:  Chapters 11
 - **McKinney**:  Chapter 9
 
 ## Weekly Project
-In Weekly Project 9, we will use SQLite to analyze a financial data set consisting of about 2 million loans.  We'll also see how `matplotlib` can integrate into an SQL based project, and compare how the SQL technique compares to a purely `pandas` based analysis.
+In Weekly Project 8, we will use `matplotlib` to reveal the importance of PCA analysis by applying it to computer vision.  You'll see how PCA can classify images of hand written digits (0-9), and how `matplotlib` can be used to understand and visualize the classification.
 
-[Full Project Description](https://github.com/scottfrees/cmps530-wp9)
+[Full Project Description](https://github.com/scottfrees/cmps530-wp8)
 
 *This project is not graded*

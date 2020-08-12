@@ -1,76 +1,151 @@
-# Algorithmic Complexity and `numpy`
-This week we examine ways to make our data processing faster.  A key concept in Computer Science is *Algorithmic Complexity* - which measures how the computational time (or memory space) required to solve a problem *grows* as the input (i.e. size of data set) grows.  Some algorithms (a fancy word for a set of steps to solve a problem!) grow modestly as input grows, while other algorithms tend to perform much more poorly.  Importantly however, *Algorithmic Complexity* is *not* about how much absolute time it takes for an algorithm to complete - but how many *instructions* it must execute.  
+# Data Structures, Types, and Jupyter Notebooks
+This week we will look at creating Abstract Data Types - `classes`, which will be familiar to you if you've done any Object Oriented Programming (OOP) in the past.  Classes can help us organize our code a bit better - encapsulating logic within data types, and reducing the number of standalone functions we have.  Ultimately, using classes correctly will make code more readable and maintainable.
 
-Computer Scientists tend to worry a lot about the number of instructions - and for good reason... an algorithm that requires the execution of more instructions than another algorithm will **always** take more time - assuming each instruction is the same.  Moreover, if the *rate of growth* of one algorithm is larger than another, the algorithm will tend to take more time *even if it's individual instructions take less time!*.
+Object Oriented Programming is an essential skill in general software development - where long term maintainability of programs is a critical concern.  In most Data Science projects, OOP is not quite as critical - but readability of code is always something we should look towards.
 
-This week you'll learn how to spot the telltale signs of an algorithm that will quickly grow far too large (in terms of the number of instruction to be executed) as the input gets large.  This is crucial for Data Scientists - as our inputs (data sets) tend to be very large!
+In Weekly Project 3, I'll have you adapte last week's project to use classes for each Movie, rather dictionaries.  I think you will see that the code becomes a bit less chaotic.
 
-## Raw language speed
-One thing that algorithmic complexity doesn't quite account for is situations where individual instructions are truly orders of magnitude slower/faster however.  In addition, given two algorithms that grow at the same rate - you clearly want to use the algorithms whose individual instructions are faster!  Within the context of our course, this becomes important when considering **programming language**.  Python is a wonderful language - but it is *slooow*.  Just a simple comparison - here's a loop to determine whether 492366587 is prime or not (it is):
+## Some notes on Weekly Project #2
+For those of you with less programming experience... I'm sure that last week's project was quite a challenge!  That's OK - do not lose confidence.  In fact, this week is specifically designed to be a little light on new material, to give you a chance to catch up.
 
-```python
-num = 492366587
-for i in range(2,num):
-  if (num % i) == 0:
-    print(num,"is not a prime number")
-    print(i,"times",num//i,"is",num)
-    exit()
+In my tips listed in [Weekly Project #2](https://github.com/scottfrees/cmps530-wp2#analyze-the-data), I want to call attention to my recommendation to build a "dictionary of dictionaries" when building the movie list.  I directed you to create a single dictionary object for each movie - with keys for title, year, genre, etc.  This week I'll have you instead create a class for Movie, which makes your code a bit more readable.  **However**, I want to focus on why it was important to create a dictionary of all the movies - key'd by movie ID.
 
-print(num,"is a prime number")
-```
-This took took about 48 seconds to complete on my machine.  Here is the same exact algorithm (same number of "instructions"), written in C. 
+We have have many data structures in computer science, and the reason for this is that some perform better under certain conditions than others.  You may have been wondering - **why not create a list of movies?**  It's a reasonable question, because elsewhere in the analysis it's easier to work with lists than dictionaries - and in fact in my solution, after I was done building the dictionary of movies, I tended to work directly with the list instead (`movies.values()`).
 
-```c++
-#include <stdio.h>
-#include <stdlib.h>
+The reason is **performance**.  See the video below for an explanation - it makes it pretty clear why that simple design choice is such a big deal!
 
-int main()
-{
-    long num = 492366587;
-    long i;
-    for (i = 2; i < num; i++)
-    {
-        if ((num % i) == 0)
-        {
-            printf("%li is not a prime number\n", num);
-            printf("%li times %li is %li\n", i, num / i, num);
-            exit(0);
-        }
-    }
-    printf("%li is a prime number", num);
-}
-```
-The C version, which is the same exact (naive, and admittedly simplistic) algorithm took **4.9 seconds**.  That's pretty close to 10x faster - just because of the language.
+<video style="width:100%" controls>
+  <source src="cmps530-wp2-performance.mp4" type="video/mp4">
+  Your browser does not support the video tag.  
+</video>
 
-Why Python is so much slower than C might be obvious to you if you come from a background in Computer Science.  The C langauge compiles to binary instructions, which execute directly on the CPU when you run the program.  Python is an *intepreted langauge*, your Python script is read by a program (called `python`!) - called the *intepreter*.  The python *intepreter* is written in... you guessed it... C!  So, your Python code is essentially being transformed into actions being taken by a C program - while it is being run.
+The key takeway is **searching** a list for something takes *much* longer than **lookup** in a dictionary.  A dictionary is designed to support fast look up by key value - a list is not, even in the best cases!
 
-That might seem wasteful - but the fact that Python code is intepreted has tremendous ease-of-use advantages - type inference, memory management, list and data structure management are all far easier in Python.  **However**, you must always realize there is a trade off.
+## Python Videos
+The following videos are part of my CMPS 130 course material.  For those of you who are very new to programming or Python, these may be helpful for you.  Note, they are geared towards entry level undergraduates - feel free to skim/fast-forward, or skip - these are simply provided as an additional resource to you.
 
-## `numpy`
-One of the great advantages of using Python is that the *intepreter* itself is exensible, and you can create C and C++ libraries and functions that can be called directly from Python.  This is exceptionally handy when you need to do something that would normally be very time consuming - allowing you to "drop down" into C or C++ to do the heavy lifting.
-
-One such library is `numpy`, which is a library solely focused on allowing you to efficiently manipulate and aggregate large arrays of numerical values.  While all of the operations `numpy` allows you do to could be done in pure Python - `numpy` implements it's algorithms in C/C++ instead - dramatically increasing speed while also reducing memory consumption.  Without `numpy` (and libraries like it), Python couldn't be a mainstream Data Science programming langauge - it is just too slow to deal with large data sets!
-
-## Python Video
-
-- [Algorithmic Complexity](https://pages.ramapo.edu/~sfrees/courses/cmps130/modules/module18/)
+- [Abstract Data Types and Classes](https://pages.ramapo.edu/~sfrees/courses/cmps130/modules/module15)
+- [Inheritence](https://pages.ramapo.edu/~sfrees/courses/cmps130/modules/module16)
+- [Encapsulation and Generators](https://pages.ramapo.edu/~sfrees/courses/cmps130/modules/module17)
+- [Algorithm Complexity](https://pages.ramapo.edu/~sfrees/courses/cmps130/modules/module18)
+- [Search](https://pages.ramapo.edu/~sfrees/courses/cmps130/modules/module19)
+- [Sorting](https://pages.ramapo.edu/~sfrees/courses/cmps130/modules/module20)
+- [Hash Tables](https://pages.ramapo.edu/~sfrees/courses/cmps130/modules/module21)
 
 ## Reading (Python)
-- **Guttag**:  Chapters 9-10
-- **McKinney**:  Chapter 4.
+- **Guttag**:  Chapters 8
+- **McKinney**:  No required reading, however if you didnt' read Chapters 2 and 3, you should do that this week.
 
-## `numpy`
-Additional Tutorial information goes here...
-https://www.practicaldatascience.org/html/exercises/Exercise_numpy.html
-https://www.w3resource.com/python-exercises/numpy/index.php
+## Jupyter Notebooks
+One of the pain points you probably encountered last week was just how long your scripts took to run - particularly when using the full data set.  This is very common in Data Science - most of our programs will contain a length phase in the beginning where data needs to be loaded, cleaned, and organized for further use.  As our analysis become multi-step, and when each step becomes length, the cost of running your program over and over again just gets magnified.  Since so much of what we do while creating our analyses involves a bit of trial and error and exploration - running your program over and over again is all too common.
 
+A solution to this is perfecting your code on small data sets, but this isn't always useful.  Another solution to this is using *interactive* Python - where you can continue to edit your program without restarting the entire script.  This sounds like magic... but its a problem that is well solved through the use of **Jupyter Notebooks**, and this week we'll introduce their use.  There are many nice things about Jupyter notebooks, but perhaps the nicest is that you can load all your data, and then move on to continue working on analysis, re-running analysis code over an over again, **without** reloading, cleaning, and organizing the input data.
+
+Jupyter Notebooks are widely used by the Data Science community, and we'll begin using them more frequently in our projects.  In addition to being able to save state of various portions of your project while still coding, notebooks are a great way to combine documentation, code, and graphics.
+
+For now - take a look at these tutorials, and try to complete your weekly project using a Jupyter Notebook instead of a standard Python script.
+
+- [Complete Documentation](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
+- [Datacamp Tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
+- [Code Academy Tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
+
+Also note that Chapter 2 in McKinney describes Jupyter and IPython (Jupyter's predecessor).
+
+### Displaying Tabular Data in Jupyter
+You can build tabular output yourself, however you might find it more productive to use a third-party module called `tabulate`.  Below is a demonstration of how to print out a list of objects.
+
+Typically to install a dependency you'd just do the following:
+```bash
+conda install tabulate
+```
+However, if you are doing this in a Jupyter notebook, there is a better (more effective) way.  Create a new Python3 cell (preferrably at the top) and use the following:
+
+```python
+import sys
+!conda install --yes --prefix {sys.prefix} tabulate
+```
+The ! mark tells Jupyter to invoke the command on the command prompt/terminal, and `sys.prefix` ensures it's installed in the current environment.
+
+```python
+from tabulate import tabulate
+
+class Demonstration:
+    def __init__(self, x, y, z):
+        self.x = x
+        self.y = y
+        self.z = z
+    # providing an __iter__ method allows tabulate
+    # to make tables right from instances of this class.
+    # __iter__ in this case returns an iterator wrapping
+    # a list of the three properties to be included in the 
+    # the table.  You can choose which properties are
+    # included.    
+    def __iter__(self):
+        return iter([self.x, self.y, self.z])
+        
+my_list = []
+my_list.append(Demonstration(1, 2, 3))
+my_list.append(Demonstration(8, 4, 2))
+my_list.append(Demonstration(5, 0, 7))
+
+print(tabulate(my_list, headers=['x', 'y', 'z']))
+```
+The output will look like this:
+```
+  x    y    z
+---  ---  ---
+  1    2    3
+  8    4    2
+  5    0    7
+  ```
+
+  If you are in a Jupyter Notebook, you can even tell tablulate to generate an HTML table, and utilize
+
+  ```python
+from tabulate import tabulate
+
+# Add this to allow HTML to be displayed within 
+# the cell output.
+from IPython.core.display import display, HTML
+
+# same class definition.... omitted
+        
+my_list = []
+my_list.append(Demonstration(1, 2, 3))
+my_list.append(Demonstration(8, 4, 2))
+my_list.append(Demonstration(5, 0, 7))
+
+# display and HTML are built-in Jupyter commands.
+# Notice the tablefmt third parameter.
+display(
+    HTML(tabulate(my_list, 
+                headers=['x', 'y', 'z'], 
+                tablefmt='html')))
+```
+Now the output will be shown as a nicer HTML table.
+<table>
+<thead>
+<tr><th style="text-align: right;">  x</th><th style="text-align: right;">  y</th><th style="text-align: right;">  z</th></tr>
+</thead>
+<tbody>
+<tr><td style="text-align: right;">  1</td><td style="text-align: right;">  2</td><td style="text-align: right;">  3</td></tr>
+<tr><td style="text-align: right;">  8</td><td style="text-align: right;">  4</td><td style="text-align: right;">  2</td></tr>
+<tr><td style="text-align: right;">  5</td><td style="text-align: right;">  0</td><td style="text-align: right;">  7</td></tr>
+</tbody>
+</table>
 
 ## Weekly Project
-In Weekly Project 4, you'll explore the impact of utilizing better algorithms, and better tools (`numpy`) to improve the performance of your analyses.  You'll also learn how to perform basic timing measurements, so you can identify where to put your energy when attempting to speed up execution of your scripts.
+This week we are using the same project from last week's analysis of movie data - with some twists.
 
-[Full Project Description](https://github.com/scottfrees/cmps530-wp4)
+- Instead of using a dictionary to represent an individual Movie, create a Movie class.  You'll still have a dictionary of Movie classes (rather than a dictionary of dictionaries).
+- Instead of working on the project as one long executable script, use a Jupyter notebook, and separate your data loading/cleaning/organizing, and each analysis, into individual cells.
+- Instead of outputting to CSV files, display results in Jupyter instead, as nicely formatted tables
+  - You can leave out tags when outputting the results of the last analysis (frequently rated movies), since those are so lengthy.
+  - Skip outputting JSON in the frequently rated movies as well.
+
+[Full Project Description](https://github.com/scottfrees/cmps530-wp3)
 
 *This project is not graded*
 
 ## In-class Agenda
-This week I'll be focusing on how to determine an algorithms complexity - focusing on linear - O(n), logarithmic  - O(logn), polynomial - O(N<sup>x</sup>) and other common classifications.  We'll also touch upon more of how `numpy` leverages the C/C++ extension systems of Python.
+I will be dedicating most of the in-class lecture this week to working through *my own* solution to Weekly Project #3 using Jupyter notebooks.  Please make every attempt to complete this week's assignment prior to meeting in class, so you get the most out of the review.
