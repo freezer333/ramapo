@@ -1,8 +1,6 @@
 # Structured Programs and Data
 These next two weeks really are *Python bootcamp*.  If you have never seen Python before, there is quite a bit of material to cover.  **Please ask for help**.
 
-[Back to topics](../topics.html)
-
 ## Python Videos
 The following videos are part of my CMPS 130 course material.  For those of you who are very new to programming or Python, these may be helpful for you.  Note, they are geared towards entry level undergraduates - feel free to skim/fast-forward, or skip - these are simply provided as an additional resource to you.
 

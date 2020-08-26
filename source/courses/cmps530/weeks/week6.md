@@ -60,9 +60,9 @@ One such library is `numpy`, which is a library solely focused on allowing you t
 - **McKinney**:  Chapter 4.
 
 ## `numpy`
-Additional Tutorial information goes here...
-https://www.practicaldatascience.org/html/exercises/Exercise_numpy.html
-https://www.w3resource.com/python-exercises/numpy/index.php
+There are a number of good tutorials on `numpy` that you can find online.  Below are a few, which you will find useful - but if you find others that work for you, that's great!
+- [Practical Data Science](https://www.practicaldatascience.org/html/exercises/Exercise_numpy.html)
+- [W3 Resource](https://www.w3resource.com/python-exercises/numpy/index.php)
 
 
 ## Weekly Project

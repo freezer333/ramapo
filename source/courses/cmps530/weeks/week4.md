@@ -146,4 +146,4 @@ This week we are using the same project from last week's analysis of movie data 
 [Full Project Description](https://github.com/scottfrees/cmps530-wp3)
 
 ## In-class Agenda
-I will be dedicating most of the in-class lecture this week to working through *my own* solution to Weekly Project #3 using Jupyter notebooks.  Please make every attempt to complete this week's assignment prior to meeting in class, so you get the most out of the review.
+I will be dedicating most of the in-class lecture this week to working through *my own* solution to Weekly Project #2 using Jupyter notebooks.  Please make every attempt to complete this week's assignment prior to meeting in class, so you get the most out of the review.  We'll also discuss the key concepts behind classes and object oriented design.

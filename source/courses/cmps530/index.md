@@ -39,7 +39,7 @@ This course serves as the gateway into graduate level coursework in Data Science
 
 ## Course Requirements
 - **Classroom Participation** – Class participation, while not directly graded, is expected and encouraged throughout the semester.
-- **Projects** – This is a **Projects-based** course, projects represent a significant amount of your learning.  You will be assigned 9 programming project which require data analysis with Python, many of which are highly guided - in that I will be introducing and explaining material within the course description.  In order words, projects are part of the week's lessons.  You can expect these projects to take anywhere between 5 - 20 hours to complete, or potentially more depending on your previous experience.  Canvas has projects and due dates.
+- **Projects** – This is a **Projects-based** course, projects represent a significant amount of your learning.  You will be assigned 9 programming project which require data analysis with Python, many of which are highly guided - in that I will be introducing and explaining material within the course description.  In other words, projects are part of the week's lessons.  You can expect these projects to take anywhere between 5 - 20 hours to complete, or potentially more depending on your previous experience.  Canvas has projects and due dates.
 - **Examinations** – There will be two programming exams, in addition to a final exam (mixture of short answer and programming). These exams will encompass multiple chapters in the text, and their content will be explained during the lecture immediately preceding them.  Portions of the exams may be assigned to be completed prior to our meeting time on your own.
 
 ## Course Topics and Schedule

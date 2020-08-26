@@ -1,11 +1,14 @@
 # Data Analysis with `pandas`
 
-Transforming Data
+TBD
 
 ## Python Videos
+YBD
+<!--
 - Find some good `pandas` tutorial videos
 - Data Joining, transformations
 - Lecture video (or live) on `groupby` and `apply`
+-->
 
 ## Reading (Python)
 - **McKinney**:  Chapter 7-8, 10
@@ -17,3 +20,5 @@ In Weekly Project 6, we revisit the Movies data set we worked on a few weeks ago
 
 [Full Project Description](https://github.com/scottfrees/cmps530-wp6)
 
+## In-class Agenda
+This week we will continue our focus on `pandas` and data aggregation.  We will go over solutions to the previous week's project as well.
