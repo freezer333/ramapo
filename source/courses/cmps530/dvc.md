@@ -15,7 +15,7 @@ DVC allows you to acquire data sets from remote repositories.  Throughout the se
 
 [Download and Install AWS CLI](https://aws.amazon.com/cli/)
 
-After you install the CLI, you must configure it with specific access keys and location information.  I have created read-only access keys for our course, **the access key can be found on Canvas**.  Enter `us-east-2` for region, and `json` for output format.
+After you install the CLI, you must configure it with specific access keys and location information.  I have created read-only access keys for our course, **the access key can be found on Canvas**, in the Files section.  Enter `us-east-2` for region, and `json` for output format.
 
 ```
 >  aws configure

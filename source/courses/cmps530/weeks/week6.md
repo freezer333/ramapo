@@ -70,7 +70,6 @@ In Weekly Project 4, you'll explore the impact of utilizing better algorithms, a
 
 [Full Project Description](https://github.com/scottfrees/cmps530-wp4)
 
-*This project is not graded*
 
 ## In-class Agenda
 This week I'll be focusing on how to determine an algorithms complexity - focusing on linear - O(n), logarithmic  - O(logn), polynomial - O(N<sup>x</sup>) and other common classifications.  We'll also touch upon more of how `numpy` leverages the C/C++ extension systems of Python.

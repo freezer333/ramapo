@@ -3,7 +3,7 @@ This week we will look at creating Abstract Data Types - `classes`, which will b
 
 Object Oriented Programming is an essential skill in general software development - where long term maintainability of programs is a critical concern.  In most Data Science projects, OOP is not quite as critical - but readability of code is always something we should look towards.
 
-In Weekly Project 3, I'll have you adapte last week's project to use classes for each Movie, rather dictionaries.  I think you will see that the code becomes a bit less chaotic.
+In Weekly Project 3, I'll have you adapt last week's project to use classes for each Movie, rather dictionaries.  I think you will see that the code becomes a bit less chaotic.
 
 ## Some notes on Weekly Project #2
 For those of you with less programming experience... I'm sure that last week's project was quite a challenge!  That's OK - do not lose confidence.  In fact, this week is specifically designed to be a little light on new material, to give you a chance to catch up.
@@ -144,8 +144,6 @@ This week we are using the same project from last week's analysis of movie data 
   - Skip outputting JSON in the frequently rated movies as well.
 
 [Full Project Description](https://github.com/scottfrees/cmps530-wp3)
-
-*This project is not graded*
 
 ## In-class Agenda
 I will be dedicating most of the in-class lecture this week to working through *my own* solution to Weekly Project #3 using Jupyter notebooks.  Please make every attempt to complete this week's assignment prior to meeting in class, so you get the most out of the review.

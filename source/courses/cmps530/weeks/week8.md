@@ -17,4 +17,3 @@ In Weekly Project 6, we revisit the Movies data set we worked on a few weeks ago
 
 [Full Project Description](https://github.com/scottfrees/cmps530-wp6)
 
-*This project is not graded*

@@ -8,6 +8,7 @@ Explain background of `pandas` and why it is so popular.
     - CSV vs Excel
     - Compact binary formats (pickle, hdf)
     - Data compression formats
+- Lecture video (or live) on `groupby` and `apply`
     
 ## Reading (Python)
 - **McKinney**:  Chapter 5-6, 10
@@ -19,4 +20,3 @@ In Weekly Project 5, you'll use `pandas` on a data set of game data from Major L
 
 [Full Project Description](https://github.com/scottfrees/cmps530-wp5)
 
-*This project is not graded*

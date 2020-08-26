@@ -3,8 +3,6 @@ This week is all about getting set up and used to working with the basic tools w
 
 Over the next few weeks, you may find yourself playing a lot catch up if you haven't had any experience in Python.  Alternatively, if you are entering this course with a programming background the Python-based material may seem rudimentary.  Be patient on both fronts!
 
-[Back to topics](../topics.html)
-
 ## Python Videos
 The following videos are part of my CMPS 130 course material.  For those of you who are very new to programming or Python, these may be helpful for you.  Note, they are geared towards entry level undergraduates - feel free to skim/fast-forward, or skip - these are simply provided as an additional resource to you.
 
@@ -67,8 +65,6 @@ The McKinney textbook has some suggestions on Python editors (pg. 11).  I typica
 This week you have a very small project, aimed at getting you used to using Anaconda, git, dvc, and using simple branches and loops.
 
 [Project Description](https://github.com/scottfrees/cmps530-wp1)
-
-This project is not graded, but it is a critical step in making sure you are getting up to speed - treat it seriously!
 
 ## In-class Agenda
 This week's in-class meeting will largely be dedicated to introducing you to the Data Science curriculum, going over what you can expect from this class, and getting to know the requirements.  We'll also talk about setting up Python, `git`, and `dvc` and how they fit together.

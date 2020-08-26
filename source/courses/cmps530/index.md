@@ -38,8 +38,8 @@ This course serves as the gateway into graduate level coursework in Data Science
 - McKinney, W (2017).  Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython (2nd Edition). O'Reilly Media. ISBN 978-1491957660.
 
 ## Course Requirements
-- **Classroom Participation** – Class participation, while not directly graded, is expected and encouraged throughout the semester. Attendance is mandatory, and 5% of your final grade is based on the percentage of classes you have attended.
-- **Projects** – You will be assigned two long-term projects which require data analysis with Python.  You can expect these projects to take roughly 20 hours to complete.  You will be given a full description of the project 3 weeks in advance of it’s due date.  All source code for programming projects will be submitted using Moodle, and you will have a separately scheduled 15 minute meeting with the instructor to review your work.
+- **Classroom Participation** – Class participation, while not directly graded, is expected and encouraged throughout the semester.
+- **Projects** – This is a **Projects-based** course, projects represent a significant amount of your learning.  You will be assigned 9 programming project which require data analysis with Python, many of which are highly guided - in that I will be introducing and explaining material within the course description.  In order words, projects are part of the week's lessons.  You can expect these projects to take anywhere between 5 - 20 hours to complete, or potentially more depending on your previous experience.  Canvas has projects and due dates.
 - **Examinations** – There will be two programming exams, in addition to a final exam (mixture of short answer and programming). These exams will encompass multiple chapters in the text, and their content will be explained during the lecture immediately preceding them.  Portions of the exams may be assigned to be completed prior to our meeting time on your own.
 
 ## Course Topics and Schedule
@@ -54,7 +54,7 @@ Date | Week | Topics |
 9/17 | Week 3 | [Structured Programs and CSV data](weeks/week2-3.html)
 9/24 | Week 4 | [Abstract Data Types and Jupyter Notebooks](weeks/week4.html)
 10/1 | Week 5 | Exam 1
-10/8 | Week 6 | [Algorithmic Complexity and `numpy`](weeks/week4.html)
+10/8 | Week 6 | [Algorithmic Complexity and `numpy`](weeks/week6.html)
 10/15 | Week 7 | [Data Analysis with `pandas` (part 1)](weeks/week7.html)
 10/22 | Week 8 |  [Data Analysis with `pandas` (part 2)](weeks/week8.html)
 10/29 | Week 9 |  [Visualization with `matplotlib`](weeks/week9.html)
@@ -75,8 +75,8 @@ Assignments and portions of some exams will be managed in [Canvas](https://ramap
 Activity | % of Final Grade |
 --- | --- | 
 Exams | 30%
-Final Exam | 30%
-Projects  | 40%
+Final Exam | 25%
+Projects  | 45%
 
 ## Letter Grade Policy
 

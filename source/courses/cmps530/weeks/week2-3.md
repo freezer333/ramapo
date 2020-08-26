@@ -39,7 +39,5 @@ This week we have a larger data analysis project that will give you a chance to 
 
 [Project Description](https://github.com/scottfrees/cmps530-wp2)
 
-This project is not graded
-
 ## In-class Agenda
 This week's in-class meeting will largely be dedicated to functions, tuples, lists, and dictionaries.  Please make sure you are ready to ask questions!
