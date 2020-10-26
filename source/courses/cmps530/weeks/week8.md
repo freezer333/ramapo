@@ -1,14 +1,5 @@
 # Data Analysis with `pandas`
-
-TBD
-
-## Python Videos
-YBD
-<!--
-- Find some good `pandas` tutorial videos
-- Data Joining, transformations
-- Lecture video (or live) on `groupby` and `apply`
--->
+This week we will be continuing to learn and use `pandas`, with more emphasis on the split, apply, combine paradigm.
 
 ## Reading (Python)
 - **McKinney**:  Chapter 7-8, 10

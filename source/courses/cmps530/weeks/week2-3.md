@@ -23,6 +23,9 @@ There is a lot of material here - however understanding functions, tuples, lists
   - Note, the McKinney book is *optional* for Python beginners.  Chapter 2 begins to describe Jupyter notebooks, and we won't use them for a few more weeks.  Chapter 3 is really covering the same material  as Chapters 4-7 in Guttag.  
   - **If you already know Python**, use McKinney as a review, rather than the Guttag text.  If you don't already know Python, stick to Guttag and skip McKinney for this week.
 
+## Lecture slides
+  - [Slides for 9/10](https://docs.google.com/presentation/d/e/2PACX-1vQe66h7xMcsCIYVCL4dgP8uul_zVg-HVmxuMSAnAsqnhFHNGBEilFd0s2RguaaJNPl6NIa_lCCLvvIw/pub?start=false&loop=false&delayms=3000)
+
 ## CSV and JSON Files
 For the weekly project, you will be starting to work with CSV (Comma Separated Values) files.  Python supports reading and writing CSV files right out of the box.  [See the documentation](https://docs.python.org/3/library/csv.html).
 

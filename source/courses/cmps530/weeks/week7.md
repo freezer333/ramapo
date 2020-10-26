@@ -1,17 +1,27 @@
 # Data Analysis with `pandas`
+`pandas` is the premier data science library used in the Python ecosystem.  `pandas` builds on `np` to support `Series` and `Dataframe` structures, which can be used to store records of arbitrary data types.
 
-TBD
+At the core of `pandas` is the concept of *labeled rows*.  Consider a basic list - `numbers = [3, 6, 1, 2]`.  We know that each element can be referred to by the **index** - thus `numbers[1]` is 6.  If you image the list drawn vertically, each element is a *row*, and the row's *label* is it's index.
 
-## Python Videos
-TBD
-<!--
-- Find some good `pandas` tutorial videos
-- Create a lecture video for file formats
-    - CSV vs Excel
-    - Compact binary formats (pickle, hdf)
-    - Data compression formats
-- Lecture video (or live) on `groupby` and `apply`
--->
+In `pandas`, each "list" is called a `Series`.  Each series has indices - however unlike lists, the indices are not implicit - they are user-supplied (or, auto-generated).  These indices can be numbers, but they can also (commonly) be strings.  
+
+A *data frame* is simply a set of series, linked together by a shared index.  In this way, you can think of a data frame as a table, where you have a common index (row labels) and where each series forms a column.
+
+`pandas` is far more than an elaborate way of storing tabular data however - it provides powerful functionality to perform computation on the tabular data, in a fast, vectorized method similar (and built-on) NumPy.
+
+Over the next few weeks, and likely for the rest of your time using Python in Data Science, you will be working with `pandas`.  Our textbook is written by one of the primary authors of the tool, and contains a great deal of information.
+
+`pandas` also has fantastic online tutorial / documentation available to you.  The following links are part of the `pandas` official [User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html).  I encourage you to read through as much of the User Guide as you can, however the sections listed below are of special importance.
+
+- [Introduction to `pandas`](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html)
+- [Core Functionality](https://pandas.pydata.org/pandas-docs/stable/user_guide/basics.html)
+- [Selection and Indexing](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html)
+- [Group by: split-apply-combine](https://pandas.pydata.org/pandas-docs/stable/user_guide/groupby.html)
+
+**IMPORTANT** - `pandas` is a large, and somewhat complex library.  For most people, it is overwelming to simply "read about it" - there are too many functions, and examples tend to be abstract.  `pandas` is simply so feature-rich that simply reading through all of it's capabilities can be ineffective, as you lack the context for why you'd use the features!
+
+Do your best to read through the material, but I will be focusing you on critical components through projects and real-world examples.  You won't learn all of `pandas` in this class - the goal is to become familiar enough with it that as you proceed through your curriculum you can continue to learn and leverage it even more.
+
 ## Reading (Python)
 - **McKinney**:  Chapter 5-6, 10
 
