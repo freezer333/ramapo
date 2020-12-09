@@ -1,20 +1,11 @@
 # Accessing SQL Databases
-TBD
-<!--Explain the value of SQL databases - efficiency, expressivness.
+So far most of the data we've used in class was contained within csv files - essentially text files.  While this is simple and effective, there are far more efficient ways to store data.  
 
-Explain SQLite
+While there are many types of databases, this week we will take a look at the broadest segment - **relational databases**, and the associated programming language used to access them - SQL.
 
-Provide SQL Lecture
-
-Discuss Web API Access - keeping in mind that this is just a light intro.-->
-
-## Videos
-TBD
-<!--
-- SQL Lectures
-- SQLite in Python
-- API Lecture Video
--->
+- [SQL Tutorial](https://www.sqltutorial.org/) - comprehensive guide to the SQL language
+- [SQLite](https://www.sqlite.org/index.html) - an embedded SQL database.  You won't need to install this yourself, we'll use python's built-in functionality.
+- [DB Browser for SQLite](https://sqlitebrowser.org/) - good for debugging, looking directly at your data set.
     
 ## Reading (Python)
 - **Guttag**:  Chapters 11
